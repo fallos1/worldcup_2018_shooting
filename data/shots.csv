@@ -1,0 +1,1707 @@
+,game_id,x_location,y_location,outcome,xg,player,x_end_location,y_end_location,z_end_location,minute,team
+0,7581,115.0,34.0,Goal,0.07408676,Mathias Jattah-Njie Jørgensen,119.0,39.7,0.2,0,Denmark
+1,7581,112.0,36.0,Goal,0.29299468,Mario Mandžukić,120.0,36.4,1.1,3,Croatia
+2,7581,101.0,55.0,Blocked,0.07871395,Ivan Perišić,110.0,48.0,,11,Croatia
+3,7581,103.0,24.0,Blocked,0.028037952,Ivan Perišić,105.0,27.0,,18,Croatia
+4,7581,96.0,37.0,Blocked,0.06426074,Christian Dannemann Eriksen,99.0,36.0,,22,Denmark
+5,7581,111.0,50.0,Saved,0.30314973,Martin Braithwaite Christensen,115.0,40.3,0.5,26,Denmark
+6,7581,94.0,32.0,Saved,0.03258096,Ivan Rakitić,116.0,37.8,2.1,28,Croatia
+7,7581,110.0,32.0,Wayward,0.20444514,Ivan Perišić,113.0,34.0,,28,Croatia
+8,7581,111.0,34.0,Off T,0.15178046,Ivan Perišić,120.0,40.9,6.4,28,Croatia
+9,7581,97.0,30.0,Blocked,0.03208493,Ante Rebić,100.0,30.0,,31,Croatia
+10,7581,96.0,57.0,Off T,0.01724441,Christian Dannemann Eriksen,120.0,46.7,0.1,33,Denmark
+11,7581,115.0,39.0,Off T,0.18882553,Dejan Lovren,120.0,46.9,0.2,38,Croatia
+12,7581,104.0,31.0,Saved,0.09615429,Ivan Rakitić,119.0,37.0,0.4,43,Croatia
+13,7581,98.0,62.0,Off T,0.014904396,Ivan Perišić,120.0,31.1,5.3,45,Croatia
+14,7581,115.0,52.0,Off T,0.06730466,Martin Braithwaite Christensen,120.0,46.5,2.4,55,Denmark
+15,7581,108.0,21.0,Blocked,0.017317483,Ivan Perišić,109.0,22.0,,63,Croatia
+16,7581,102.0,26.0,Blocked,0.033544227,Ante Rebić,104.0,28.0,,64,Croatia
+17,7581,107.0,50.0,Saved,0.075596966,Nicolai Jørgensen,118.0,40.7,0.2,71,Denmark
+18,7581,101.0,30.0,Off T,0.038286086,Christian Dannemann Eriksen,120.0,34.0,0.2,73,Denmark
+19,7581,96.0,51.0,Off T,0.028009525,Luka Modrić,120.0,31.1,0.3,76,Croatia
+20,7581,97.0,58.0,Saved,0.01753663,Ante Rebić,119.0,41.5,0.5,77,Croatia
+21,7581,113.0,31.0,Off T,0.057968285,Ivan Perišić,120.0,43.2,3.4,83,Croatia
+22,7581,98.0,30.0,Blocked,0.024782224,Josip Pivarić,99.0,31.0,,85,Croatia
+23,7581,97.0,50.0,Off T,0.026935928,Lasse Schöne,120.0,34.2,0.1,86,Denmark
+24,7581,88.0,40.0,Off T,0.018788926,Ivan Rakitić,120.0,34.4,0.5,91,Croatia
+25,7581,100.0,50.0,Off T,0.015414895,Martin Braithwaite Christensen,120.0,34.6,0.0,92,Denmark
+26,7581,78.0,47.0,Blocked,0.018779105,Thomas Delaney,94.0,45.0,,91,Denmark
+27,7581,95.0,45.0,Blocked,0.016967557,Lasse Schöne,104.0,33.0,,92,Denmark
+28,7581,95.0,47.0,Off T,0.032352064,Lasse Schöne,120.0,34.6,0.1,98,Denmark
+29,7581,98.0,30.0,Blocked,0.041005496,Mateo Kovačić,103.0,29.0,,105,Croatia
+30,7581,106.0,20.0,Off T,0.03230451,Pione Sisto Ifolo Emirmija,120.0,46.9,0.2,107,Denmark
+31,7581,112.0,27.0,Off T,0.04240444,Nicolai Jørgensen,120.0,35.2,0.0,112,Denmark
+32,7581,109.0,41.0,Saved,0.76,Luka Modrić,119.0,43.0,0.2,115,Croatia
+33,7581,97.0,33.0,Saved,0.066564746,Luka Modrić,116.0,38.3,0.3,118,Croatia
+34,7581,98.0,28.0,Off T,0.024423312,Andrej Kramarić,120.0,47.3,7.0,119,Croatia
+35,7581,108.0,40.0,Saved,0.76,Christian Dannemann Eriksen,119.0,36.6,0.6,120,Denmark
+36,7581,108.0,40.0,Saved,0.76,Milan Badelj,119.0,38.7,0.5,120,Croatia
+37,7581,108.0,40.0,Goal,0.76,Simon Thorup Kjær,119.0,42.8,2.5,121,Denmark
+38,7581,108.0,40.0,Goal,0.76,Andrej Kramarić,120.0,37.0,0.2,122,Croatia
+39,7581,108.0,40.0,Goal,0.76,Michael Krohn-Dehli,120.0,37.0,0.2,123,Denmark
+40,7581,108.0,40.0,Goal,0.76,Luka Modrić,120.0,40.3,0.2,124,Croatia
+41,7581,108.0,40.0,Saved,0.76,Lasse Schöne,119.0,36.2,0.8,125,Denmark
+42,7581,108.0,40.0,Saved,0.76,Josip Pivarić,119.0,36.6,0.4,126,Croatia
+43,7581,108.0,40.0,Saved,0.76,Nicolai Jørgensen,119.0,41.5,0.2,127,Denmark
+44,7581,108.0,40.0,Goal,0.76,Ivan Rakitić,120.0,37.2,0.3,128,Croatia
+45,7549,92.0,40.0,Saved,0.076998495,Gylfi Þór Sigurðsson,119.0,36.4,2.4,2,Iceland
+46,7549,99.0,39.0,Saved,0.0927936,Gylfi Þór Sigurðsson,118.0,42.8,1.0,4,Iceland
+47,7549,104.0,39.0,Wayward,0.013531805,Kenneth Josiah Omeruo,117.0,39.0,,7,Nigeria
+48,7549,114.0,27.0,Blocked,0.023211429,Birkir Bjarnason,117.0,29.0,,20,Iceland
+49,7549,109.0,24.0,Off T,0.01771761,Birkir Bjarnason,120.0,38.1,3.9,33,Iceland
+50,7549,113.0,40.0,Off T,0.16101475,Alfreð Finnbogason,120.0,35.4,0.2,44,Iceland
+51,7549,113.0,51.0,Off T,0.020662703,Jón Daði Böðvarsson,120.0,34.2,0.1,46,Iceland
+52,7549,96.0,47.0,Saved,0.0431096,Oghenekaro Etebo,116.0,37.4,0.1,45,Iceland
+53,7549,112.0,46.0,Goal,0.17125738,Ahmed Musa,120.0,41.5,2.2,48,Nigeria
+54,7549,84.0,26.0,Saved,0.011676902,Onyinye Wilfred Ndidi,120.0,39.3,2.3,56,Nigeria
+55,7549,106.0,61.0,Off T,0.018106434,Victor Moses,120.0,46.5,2.8,65,Nigeria
+56,7549,99.0,28.0,Off T,0.03623538,Rúrik Gíslason,120.0,44.6,4.0,67,Iceland
+57,7549,101.0,55.0,Blocked,0.033122562,Victor Moses,107.0,50.0,,67,Nigeria
+58,7549,95.0,38.0,Blocked,0.029355345,Oghenekaro Etebo,99.0,39.0,,68,Nigeria
+59,7549,107.0,48.0,Off T,0.05465494,William Troost-Ekong,120.0,46.5,0.6,69,Nigeria
+60,7549,112.0,43.0,Off T,0.08665461,Leon-Aderemi Balogun,120.0,37.2,3.7,71,Nigeria
+61,7549,98.0,54.0,Blocked,0.024419278,Kelechi Promise Iheanacho,100.0,52.0,,73,Nigeria
+62,7549,101.0,27.0,Post,0.04176556,Ahmed Musa,120.0,39.5,2.7,73,Nigeria
+63,7549,104.0,50.0,Off T,0.054739155,Victor Moses,120.0,44.8,3.8,73,Nigeria
+64,7549,113.0,41.0,Goal,0.5289739,Ahmed Musa,120.0,43.4,1.8,74,Nigeria
+65,7549,92.0,39.0,Blocked,0.018213244,William Troost-Ekong,97.0,37.0,,78,Nigeria
+66,7549,108.0,40.0,Off T,0.76,Gylfi Þór Sigurðsson,120.0,43.2,3.9,82,Iceland
+67,7549,98.0,48.0,Off T,0.049648497,Kelechi Promise Iheanacho,120.0,45.8,0.5,83,Nigeria
+68,7549,112.0,27.0,Saved,0.104910664,Alfreð Finnbogason,118.0,41.1,0.2,87,Iceland
+69,7549,91.0,42.0,Blocked,0.02246638,Onyinye Wilfred Ndidi,97.0,41.0,,88,Nigeria
+70,7549,107.0,41.0,Off T,0.030964347,Sverrir Ingi Ingason,120.0,41.9,3.8,89,Iceland
+71,7549,103.0,39.0,Blocked,0.06505654,Alex Iwobi,104.0,39.0,,96,Nigeria
+72,7555,104.0,21.0,Blocked,0.02011104,Dawid Kownacki,113.0,37.0,,1,Poland
+73,7555,115.0,39.0,Wayward,0.20120071,Robert Lewandowski,118.0,37.0,,4,Poland
+74,7555,95.0,52.0,Blocked,0.009108385,Santiago Arias Naranjo,99.0,52.0,,14,Colombia
+75,7555,95.0,52.0,Blocked,0.027869526,Piotr Zieliński,99.0,52.0,,17,Poland
+76,7555,82.0,30.0,Off T,0.0148842465,Juan Guillermo Cuadrado Bello,120.0,31.3,1.6,34,Colombia
+77,7555,116.0,38.0,Goal,0.3634548,Yerry Fernando Mina González,120.0,37.0,2.0,39,Colombia
+78,7555,105.0,55.0,Off T,0.015632125,Bartosz Bereszyński,119.0,46.1,1.6,46,Poland
+79,7555,112.0,44.0,Off T,0.069430396,Robert Lewandowski,120.0,47.1,4.7,48,Poland
+80,7555,85.0,57.0,Off T,0.012219362,Juan Fernando Quintero Paniagua,120.0,46.5,1.6,50,Colombia
+81,7555,102.0,51.0,Off T,0.066389844,Radamel Falcao García Zárate,120.0,41.9,5.9,50,Colombia
+82,7555,105.0,53.0,Blocked,0.04925287,James David Rodríguez Rubio,111.0,48.0,,52,Colombia
+83,7555,98.0,35.0,Blocked,0.035838474,Juan Fernando Quintero Paniagua,103.0,38.0,,55,Colombia
+84,7555,88.0,50.0,Off T,0.011373354,Juan Guillermo Cuadrado Bello,120.0,39.3,6.6,56,Colombia
+85,7555,110.0,29.0,Saved,0.12777343,Robert Lewandowski,113.0,37.0,1.6,57,Poland
+86,7555,112.0,41.0,Blocked,0.064435676,Robert Lewandowski,114.0,41.0,,65,Poland
+87,7555,108.0,47.0,Goal,0.35977694,Radamel Falcao García Zárate,120.0,36.2,1.6,69,Colombia
+88,7555,94.0,50.0,Off T,0.012643818,Piotr Zieliński,120.0,47.1,2.8,73,Poland
+89,7555,105.0,38.0,Goal,0.22527124,Juan Guillermo Cuadrado Bello,120.0,44.0,1.6,74,Colombia
+90,7555,109.0,34.0,Blocked,0.029345447,Łukasz Teodorczyk,110.0,36.0,,80,Poland
+91,7555,116.0,33.0,Blocked,0.25026387,Grzegorz Krychowiak,116.0,36.0,,80,Poland
+92,7555,118.0,47.0,Blocked,0.09427906,Andrés Mateus Uribe Villa,119.0,43.0,,83,Colombia
+93,7555,89.0,15.0,Off T,0.060087644,James David Rodríguez Rubio,120.0,33.7,1.6,84,Colombia
+94,7555,91.0,33.0,Saved,0.0146566285,Robert Lewandowski,119.0,39.3,2.4,87,Poland
+95,7555,92.0,50.0,Blocked,0.01789519,Jefferson Andrés Lerma Solís,97.0,47.0,,89,Colombia
+96,7529,89.0,40.0,Blocked,0.010071044,Alex Iwobi,101.0,37.0,,12,Nigeria
+97,7529,99.0,46.0,Off T,0.05412039,Ivan Perišić,120.0,37.2,3.6,13,Croatia
+98,7529,86.0,35.0,Off T,0.012597333,Andrej Kramarić,120.0,34.8,0.4,15,Croatia
+99,7529,109.0,59.0,Blocked,0.02220718,Odion Jude Ighalo,115.0,50.0,,20,Nigeria
+100,7529,93.0,41.0,Off T,0.018827748,Oghenekaro Etebo,120.0,46.9,0.2,21,Nigeria
+101,7529,101.0,23.0,Blocked,0.026724156,Ante Rebić,105.0,29.0,,31,Croatia
+102,7529,113.0,41.0,Blocked,0.22018777,Mario Mandžukić,116.0,38.0,,31,Croatia
+103,7529,106.0,33.0,Blocked,0.13032283,Odion Jude Ighalo,108.0,31.0,,33,Nigeria
+104,7529,107.0,37.0,Off T,0.06772817,Andrej Kramarić,120.0,38.5,3.1,38,Croatia
+105,7529,104.0,59.0,Off T,0.025439281,Šime Vrsaljko,120.0,45.8,3.8,41,Croatia
+106,7529,104.0,31.0,Blocked,0.026036683,Alex Iwobi,112.0,37.0,,45,Nigeria
+107,7529,91.0,47.0,Off T,0.020710541,Victor Moses,120.0,46.7,6.1,45,Nigeria
+108,7529,108.0,57.0,Off T,0.028252468,Victor Moses,120.0,46.1,0.1,48,Nigeria
+109,7529,88.0,41.0,Off T,0.010134564,Ivan Rakitić,120.0,40.3,4.0,49,Croatia
+110,7529,112.0,21.0,Blocked,0.021278273,Alex Iwobi,113.0,25.0,,51,Nigeria
+111,7529,108.0,34.0,Saved,0.03788443,Odion Jude Ighalo,119.0,42.0,0.9,58,Nigeria
+112,7529,112.0,44.0,Off T,0.061654758,Mario Mandžukić,120.0,34.6,0.7,62,Croatia
+113,7529,109.0,41.0,Goal,0.76,Luka Modrić,120.0,36.2,0.3,70,Croatia
+114,7529,108.0,46.0,Blocked,0.013806463,Dejan Lovren,114.0,41.0,,73,Croatia
+115,7529,108.0,52.0,Off T,0.06748636,Kelechi Promise Iheanacho,120.0,46.1,0.8,76,Nigeria
+116,7529,106.0,40.0,Saved,0.037232388,Leon-Aderemi Balogun,119.0,43.8,2.1,81,Nigeria
+117,7529,86.0,29.0,Off T,0.013130586,Oghenekaro Etebo,120.0,48.9,7.7,86,Nigeria
+118,7529,108.0,49.0,Blocked,0.12623498,Victor Moses,110.0,48.0,,86,Nigeria
+119,7529,111.0,52.0,Saved,0.17565578,Mateo Kovačić,116.0,38.3,0.2,91,Croatia
+120,7548,98.0,51.0,Off T,0.041867834,Philippe Coutinho Correia,120.0,36.2,4.5,2,Brazil
+121,7548,88.0,59.0,Off T,0.012412083,Cristian Gamboa Luna,120.0,46.7,6.0,6,Costa Rica
+122,7548,107.0,48.0,Off T,0.09552835,Celso Borges Mora,120.0,34.4,0.3,12,Costa Rica
+123,7548,82.0,27.0,Blocked,0.014804577,Bryan Oviedo,103.0,41.0,,14,Costa Rica
+124,7548,106.0,25.0,Off T,0.015817871,Thiago Emiliano da Silva,120.0,33.9,0.2,22,Brazil
+125,7548,99.0,22.0,Blocked,0.016983224,Marcelo Vieira da Silva Júnior,108.0,37.0,,25,Brazil
+126,7548,97.0,20.0,Off T,0.016828433,Marcelo Vieira da Silva Júnior,120.0,45.6,0.2,28,Brazil
+127,7548,92.0,23.0,Off T,0.016931064,Philippe Coutinho Correia,120.0,45.2,2.8,29,Brazil
+128,7548,100.0,52.0,Off T,0.040131316,Willian Borges da Silva,120.0,33.7,3.6,33,Brazil
+129,7548,96.0,23.0,Saved,0.021595828,Marcelo Vieira da Silva Júnior,119.0,36.4,0.5,40,Brazil
+130,7548,117.0,39.0,Blocked,0.47045976,Neymar da Silva Santos Junior,117.0,39.0,,47,Brazil
+131,7548,112.0,40.0,Post,0.11681676,Gabriel Fernando de Jesus,120.0,41.3,2.7,48,Brazil
+132,7548,105.0,41.0,Blocked,0.13453194,Philippe Coutinho Correia,118.0,41.0,,48,Brazil
+133,7548,110.0,42.0,Saved,0.3024155,Neymar da Silva Santos Junior,119.0,41.1,2.4,55,Brazil
+134,7548,103.0,48.0,Saved,0.06996362,Philippe Coutinho Correia,120.0,41.7,0.3,57,Brazil
+135,7548,104.0,40.0,Wayward,0.026154986,Óscar Esau Duarte Gaitán,105.0,39.0,,59,Costa Rica
+136,7548,108.0,31.0,Blocked,0.06596128,Gabriel Fernando de Jesus,109.0,30.0,,60,Brazil
+137,7548,100.0,24.0,Saved,0.023692384,Neymar da Silva Santos Junior,119.0,37.2,0.4,62,Brazil
+138,7548,111.0,44.0,Wayward,0.1054688,Thiago Emiliano da Silva,114.0,50.0,,68,Brazil
+139,7548,112.0,41.0,Saved,0.09714448,Carlos Henrique Casimiro,119.0,38.0,1.3,69,Brazil
+140,7548,98.0,38.0,Off T,0.10580404,Neymar da Silva Santos Junior,120.0,44.8,2.0,71,Brazil
+141,7548,108.0,27.0,Blocked,0.03603283,Neymar da Silva Santos Junior,111.0,29.0,,75,Brazil
+142,7548,89.0,28.0,Saved,0.010091367,Philippe Coutinho Correia,120.0,37.4,1.0,84,Brazil
+143,7548,96.0,46.0,Saved,0.028604189,Carlos Henrique Casimiro,120.0,42.8,0.4,86,Brazil
+144,7548,113.0,38.0,Goal,0.36002645,Philippe Coutinho Correia,120.0,38.9,0.3,90,Brazil
+145,7548,112.0,32.0,Off T,0.12025434,Roberto Firmino Barbosa de Oliveira,120.0,45.4,1.9,93,Brazil
+146,7548,115.0,42.0,Goal,0.84282774,Neymar da Silva Santos Junior,120.0,36.6,1.6,96,Brazil
+147,7534,111.0,29.0,Blocked,0.12454654,Hirving Rodrigo Lozano Bahena,112.0,33.0,,0,Mexico
+148,7534,114.0,54.0,Off T,0.058446128,Timo Werner,120.0,34.0,1.0,2,Germany
+149,7534,103.0,41.0,Saved,0.081823245,Mats Hummels,119.0,38.3,0.6,6,Germany
+150,7534,95.0,38.0,Off T,0.10152786,Miguel Arturo Layún Prado,120.0,40.3,3.5,8,Mexico
+151,7534,91.0,40.0,Saved,0.021575123,Héctor Miguel Herrera López,120.0,37.0,0.9,9,Mexico
+152,7534,110.0,39.0,Saved,0.069603324,Héctor Alfredo Moreno Herrera,120.0,37.6,1.4,13,Mexico
+153,7534,94.0,28.0,Saved,0.0128795365,Julian Draxler,118.0,42.8,1.8,15,Germany
+154,7534,87.0,23.0,Blocked,0.012751587,Toni Kroos,102.0,32.0,,15,Germany
+155,7534,105.0,46.0,Saved,0.13701679,Timo Werner,118.0,41.5,0.5,19,Germany
+156,7534,97.0,27.0,Saved,0.031637885,Toni Kroos,118.0,39.3,0.9,21,Germany
+157,7534,100.0,31.0,Blocked,0.037012618,Javier Hernández Balcázar,103.0,31.0,,22,Mexico
+158,7534,95.0,39.0,Off T,0.025883628,Miguel Arturo Layún Prado,120.0,43.2,5.7,26,Mexico
+159,7534,97.0,34.0,Saved,0.04182519,Miguel Arturo Layún Prado,120.0,38.5,0.5,28,Mexico
+160,7534,109.0,32.0,Goal,0.1432629,Hirving Rodrigo Lozano Bahena,120.0,37.0,0.5,34,Mexico
+161,7534,107.0,50.0,Blocked,0.045221735,Sami Khedira,108.0,50.0,,36,Germany
+162,7534,95.0,49.0,Saved,0.08655771,Toni Kroos,119.0,43.6,2.4,38,Germany
+163,7534,102.0,32.0,Off T,0.06636913,Carlos Alberto Vela Garrido,120.0,35.0,1.6,44,Mexico
+164,7534,95.0,30.0,Saved,0.022533856,Marvin Plattenhardt,118.0,37.0,1.3,47,Germany
+165,7534,93.0,40.0,Off T,0.016957339,Joshua Kimmich,120.0,41.7,4.2,52,Germany
+166,7534,105.0,25.0,Blocked,0.03690991,Julian Draxler,108.0,29.0,,54,Germany
+167,7534,102.0,36.0,Blocked,0.036896866,Toni Kroos,103.0,36.0,,54,Germany
+168,7534,102.0,29.0,Off T,0.054035157,José Andrés Guardado Hernández,120.0,39.1,5.6,56,Mexico
+169,7534,99.0,31.0,Blocked,0.04118117,Julian Draxler,102.0,33.0,,60,Germany
+170,7534,109.0,41.0,Off T,0.11041257,Joshua Kimmich,120.0,42.8,3.2,64,Germany
+171,7534,104.0,31.0,Off T,0.044748064,Julian Draxler,106.0,45.2,3.5,66,Germany
+172,7534,114.0,34.0,Off T,0.1665578,Timo Werner,120.0,39.9,3.8,67,Germany
+173,7534,114.0,58.0,Off T,0.020397227,Marco Reus,120.0,40.3,3.7,70,Germany
+174,7534,100.0,49.0,Off T,0.06758642,Toni Kroos,120.0,45.0,1.0,75,Germany
+175,7534,106.0,40.0,Blocked,0.1436374,Julian Draxler,107.0,39.0,,76,Germany
+176,7534,97.0,48.0,Off T,0.036564335,Miguel Arturo Layún Prado,120.0,37.0,3.7,77,Mexico
+177,7534,99.0,52.0,Blocked,0.034131553,Mesut Özil,110.0,46.0,,78,Germany
+178,7534,101.0,54.0,Off T,0.05629847,Miguel Arturo Layún Prado,120.0,35.4,2.4,81,Mexico
+179,7534,99.0,33.0,Saved,0.0523555,Toni Kroos,117.0,37.0,0.8,83,Germany
+180,7534,113.0,35.0,Blocked,0.049506612,Mario Gómez García,114.0,35.0,,85,Germany
+181,7534,113.0,40.0,Off T,0.08843158,Mario Gómez García,120.0,45.4,1.6,86,Germany
+182,7534,117.0,39.0,Saved,0.41927418,Mario Gómez García,118.0,37.4,0.8,88,Germany
+183,7534,96.0,31.0,Off T,0.024618596,Julian Brandt,120.0,35.0,1.7,88,Germany
+184,7534,95.0,59.0,Saved,0.016289597,Jérôme Boateng,119.0,41.7,0.2,89,Germany
+185,7562,97.0,53.0,Off T,0.04348265,Mile Jedinak,120.0,39.3,4.7,4,Australia
+186,7562,95.0,46.0,Blocked,0.048779152,Tom Rogić,100.0,44.0,,11,Australia
+187,7562,104.0,53.0,Goal,0.036197923,André Martín Carrillo Díaz,120.0,36.4,0.5,17,Peru
+188,7562,112.0,42.0,Wayward,0.15494666,Mathew Leckie,120.0,43.0,,20,Australia
+189,7562,109.0,37.0,Saved,0.060401045,José Paolo Guerrero González,119.0,41.9,1.3,24,Peru
+190,7562,105.0,40.0,Saved,0.2767756,Tom Rogić,113.0,38.5,0.5,26,Australia
+191,7562,83.0,33.0,Off T,0.011811328,Víctor Yoshimar Yotún Flores,120.0,46.3,0.6,32,Peru
+192,7562,116.0,43.0,Off T,0.09505257,Trent Sainsbury,120.0,46.0,3.0,34,Australia
+193,7562,115.0,34.0,Off T,0.06519177,Trent Sainsbury,119.0,34.0,0.2,39,Australia
+194,7562,111.0,36.0,Goal,0.1810734,José Paolo Guerrero González,120.0,43.6,1.2,49,Peru
+195,7562,113.0,50.0,Saved,0.04791941,Mile Jedinak,120.0,42.0,1.6,51,Australia
+196,7562,96.0,61.0,Blocked,0.037910372,Aaron Mooy,107.0,55.0,,54,Australia
+197,7562,113.0,52.0,Wayward,0.02350248,Trent Sainsbury,114.0,50.0,,55,Australia
+198,7562,116.0,39.0,Wayward,0.1810469,Mile Jedinak,117.0,45.0,,58,Australia
+199,7562,111.0,51.0,Wayward,0.041663412,Tim Cahill,113.0,37.0,,58,Australia
+200,7562,107.0,32.0,Off T,0.059994295,Aziz Eraltay Behich,120.0,45.6,1.5,58,Australia
+201,7562,110.0,35.0,Blocked,0.1079838,Tim Cahill,116.0,39.0,,59,Australia
+202,7562,112.0,50.0,Blocked,0.031708725,Mathew Leckie,112.0,49.0,,65,Australia
+203,7562,96.0,31.0,Off T,0.04634848,Daniel Arzani,120.0,43.6,4.2,66,Peru
+204,7562,93.0,36.0,Off T,0.059850473,Mile Jedinak,120.0,38.9,4.1,82,Australia
+205,7565,104.0,37.0,Blocked,0.08005835,Philippe Coutinho Correia,109.0,37.0,,1,Brazil
+206,7565,114.0,28.0,Saved,0.08755656,Gabriel Fernando de Jesus,115.0,42.8,0.6,3,Brazil
+207,7565,96.0,46.0,Blocked,0.01887498,Filip Kostić,98.0,46.0,,13,Serbia
+208,7565,108.0,43.0,Wayward,0.017764475,Aleksandar Mitrović,104.0,42.0,,14,Serbia
+209,7565,117.0,30.0,Saved,0.08092888,Neymar da Silva Santos Junior,119.0,40.7,1.7,24,Brazil
+210,7565,114.0,29.0,Blocked,0.08293217,Gabriel Fernando de Jesus,115.0,33.0,,28,Brazil
+211,7565,110.0,42.0,Off T,0.068023644,Aleksandar Mitrović,120.0,43.4,4.0,33,Serbia
+212,7565,106.0,39.0,Goal,0.27684093,José Paulo Bezzera Maciel Júnior,120.0,41.7,0.9,34,Brazil
+213,7565,95.0,45.0,Off T,0.014794509,Dušan Tadić,120.0,31.7,4.5,39,Serbia
+214,7565,101.0,18.0,Off T,0.024582438,Neymar da Silva Santos Junior,120.0,44.0,3.3,45,Brazil
+215,7565,96.0,50.0,Blocked,0.031584896,Sergej Milinković-Savić,101.0,50.0,,54,Serbia
+216,7565,111.0,28.0,Saved,0.0935555,Neymar da Silva Santos Junior,117.0,38.5,0.3,56,Brazil
+217,7565,112.0,41.0,Blocked,0.35422686,Aleksandar Mitrović,116.0,40.0,,60,Serbia
+218,7565,104.0,28.0,Off T,0.038562443,Sergej Milinković-Savić,120.0,46.3,1.7,62,Serbia
+219,7565,113.0,37.0,Saved,0.09027755,Aleksandar Mitrović,119.0,37.8,0.2,64,Serbia
+220,7565,116.0,36.0,Goal,0.30332908,Thiago Emiliano da Silva,120.0,36.4,1.9,67,Brazil
+221,7565,101.0,43.0,Blocked,0.043053042,Philippe Coutinho Correia,104.0,43.0,,69,Brazil
+222,7565,95.0,40.0,Saved,0.01288662,Filipe Luis Kasmirski,119.0,43.8,0.5,70,Brazil
+223,7565,104.0,30.0,Blocked,0.0637518,Neymar da Silva Santos Junior,108.0,30.0,,72,Brazil
+224,7565,80.0,43.0,Off T,0.010222873,Carlos Henrique Casimiro,120.0,40.1,5.9,77,Brazil
+225,7565,109.0,40.0,Off T,0.21679449,Nemanja Matić,120.0,35.4,3.6,78,Serbia
+226,7565,106.0,43.0,Off T,0.1605145,Neymar da Silva Santos Junior,120.0,40.3,3.4,82,Brazil
+227,7565,106.0,43.0,Blocked,0.07516868,Aleksandar Mitrović,107.0,42.0,,86,Serbia
+228,7565,108.0,30.0,Blocked,0.055022724,Neymar da Silva Santos Junior,109.0,31.0,,88,Brazil
+229,7565,99.0,59.0,Off T,0.01166152,Andrija Živković,120.0,33.5,1.9,91,Serbia
+230,7565,114.0,52.0,Saved,0.14093578,Neymar da Silva Santos Junior,116.0,39.7,0.2,92,Brazil
+231,7571,96.0,26.0,Off T,0.021801108,"M""Baye Babacar Niang",120.0,44.4,4.6,0,Senegal
+232,7571,96.0,53.0,Saved,0.06201031,Juan Fernando Quintero Paniagua,119.0,36.4,0.3,11,Colombia
+233,7571,107.0,23.0,Saved,0.024572538,Keita Baldé Diao,118.0,40.5,0.9,26,Senegal
+234,7571,104.0,59.0,Saved,0.0224238,Ismaïla Sarr,117.0,42.6,0.2,27,Senegal
+235,7571,90.0,41.0,Off T,0.018913621,Salif Sané,120.0,41.7,4.5,36,Senegal
+236,7571,95.0,51.0,Off T,0.07043302,Sadio Mané,120.0,45.6,4.3,63,Senegal
+237,7571,105.0,49.0,Blocked,0.038616735,Luis Fernando Muriel Fruto,115.0,45.0,,64,Colombia
+238,7571,114.0,43.0,Off T,0.08617213,Radamel Falcao García Zárate,120.0,45.4,3.2,65,Colombia
+239,7571,114.0,47.0,Goal,0.039005697,Yerry Fernando Mina González,120.0,41.5,1.9,73,Colombia
+240,7571,113.0,52.0,Saved,0.14207058,"M""Baye Babacar Niang",118.0,42.8,1.6,76,Senegal
+241,7571,108.0,51.0,Off T,0.057264026,Ismaïla Sarr,120.0,42.0,5.0,78,Senegal
+242,7569,101.0,40.0,Blocked,0.10470346,Ferjani Sassi,104.0,43.0,,6,Tunisia
+243,7569,104.0,33.0,Wayward,0.045645814,Naïm Sliti,120.0,54.0,,6,Tunisia
+244,7569,78.0,22.0,Off T,0.0136322705,Ricardo Guardia Avila,120.0,34.2,3.0,8,Tunisia
+245,7569,95.0,42.0,Off T,0.060311474,Naïm Sliti,120.0,34.0,2.7,8,Tunisia
+246,7569,113.0,32.0,Wayward,0.16159177,Gabriel Arturo Torres Tejada,120.0,31.0,,10,Panama
+247,7569,104.0,27.0,Blocked,0.045342684,Fakhreddine Ben Youssef,109.0,33.0,,15,Tunisia
+248,7569,102.0,48.0,Saved,0.07522538,Naïm Sliti,118.0,43.6,0.4,20,Tunisia
+249,7569,90.0,20.0,Saved,0.009438108,Luis Carlos Ovalle Victoria,118.0,36.6,0.2,32,Panama
+250,7569,108.0,30.0,Blocked,0.06781374,Román Aureliano Torres Morcillo,108.0,30.0,,32,Panama
+251,7569,94.0,34.0,Blocked,0.030780757,José Luis Rodríguez Francis,105.0,38.0,,32,Panama
+252,7569,116.0,38.0,Off T,0.18375683,Fakhreddine Ben Youssef,120.0,35.0,1.9,38,Tunisia
+253,7569,109.0,54.0,Off T,0.06737645,Wahbi Khazri,120.0,39.5,4.2,40,Tunisia
+254,7569,105.0,54.0,Blocked,0.037925974,Wahbi Khazri,110.0,51.0,,45,Tunisia
+255,7569,109.0,54.0,Saved,0.061486255,Wahbi Khazri,117.0,41.9,0.2,45,Tunisia
+256,7569,114.0,40.0,Goal,0.5075647,Fakhreddine Ben Youssef,120.0,38.3,1.6,50,Tunisia
+257,7569,109.0,47.0,Saved,0.32092282,Fakhreddine Ben Youssef,115.0,43.8,0.4,52,Tunisia
+258,7569,113.0,50.0,Wayward,0.032893594,Hamdi Nagguez,120.0,53.0,,55,Tunisia
+259,7569,103.0,51.0,Wayward,0.03709035,Ghilane Chalali,120.0,26.0,,56,Tunisia
+260,7569,104.0,56.0,Saved,0.025835417,Wahbi Khazri,119.0,43.8,0.5,61,Tunisia
+261,7569,104.0,42.0,Saved,0.22509256,Edgar Yoel Bárcenas Herrera,106.0,40.5,0.2,62,Panama
+262,7569,117.0,43.0,Goal,0.8620113,Wahbi Khazri,120.0,40.3,2.1,65,Tunisia
+263,7569,108.0,31.0,Saved,0.053500086,José Luis Rodríguez Francis,118.0,39.9,0.3,69,Panama
+264,7569,104.0,31.0,Off T,0.052292347,Aníbal Cesis Godoy,120.0,34.2,2.5,92,Panama
+265,7569,94.0,50.0,Saved,0.079581,Edgar Yoel Bárcenas Herrera,117.0,43.2,0.3,95,Panama
+266,7568,111.0,49.0,Blocked,0.08514858,Mario Gavranović,113.0,49.0,,3,Switzerland
+267,7568,99.0,54.0,Saved,0.018753203,Joel Nathaniel Campbell Samuels,119.0,36.4,0.4,5,Costa Rica
+268,7568,111.0,40.0,Saved,0.10052337,Celso Borges Mora,119.0,37.2,0.4,5,Costa Rica
+269,7568,98.0,50.0,Saved,0.020396402,Cristian Gamboa Luna,119.0,43.8,0.3,5,Costa Rica
+270,7568,98.0,31.0,Off T,0.047347855,Daniel Colindres Solera,119.0,35.4,3.1,6,Costa Rica
+271,7568,103.0,18.0,Post,0.03963226,Daniel Colindres Solera,119.0,39.9,2.7,9,Switzerland
+272,7568,97.0,37.0,Off T,0.03176429,Mario Gavranović,120.0,45.4,0.4,16,Switzerland
+273,7568,104.0,18.0,Saved,0.028150484,Bryan Oviedo,119.0,44.0,0.5,18,Costa Rica
+274,7568,109.0,29.0,Blocked,0.11378889,Daniel Colindres Solera,110.0,31.0,,23,Costa Rica
+275,7568,113.0,43.0,Goal,0.42871645,Blerim Džemaili,120.0,40.5,1.1,30,Switzerland
+276,7568,105.0,42.0,Blocked,0.19935568,Blerim Džemaili,107.0,42.0,,32,Switzerland
+277,7568,91.0,51.0,Blocked,0.011991691,Stephan Lichtsteiner,93.0,55.0,,38,Switzerland
+278,7568,116.0,51.0,Wayward,0.03152342,Blerim Džemaili,117.0,40.0,,39,Switzerland
+279,7568,87.0,40.0,Wayward,0.011717601,Valon Behrami,97.0,45.0,,45,Switzerland
+280,7568,108.0,36.0,Off T,0.10652326,Joel Nathaniel Campbell Samuels,120.0,33.7,1.6,47,Costa Rica
+281,7568,91.0,21.0,Off T,0.021019584,Ricardo Iván Rodríguez Araya,120.0,43.0,3.7,48,Switzerland
+282,7568,111.0,39.0,Wayward,0.044326983,Breel-Donald Embolo,113.0,33.0,,51,Switzerland
+283,7568,119.0,53.0,Saved,0.07451685,Breel-Donald Embolo,119.0,36.4,0.6,51,Switzerland
+284,7568,97.0,28.0,Blocked,0.014943483,David Alberto Guzmán Pérez,101.0,29.0,,53,Costa Rica
+285,7568,109.0,29.0,Off T,0.037939653,Bryan Oviedo,120.0,38.3,4.2,53,Costa Rica
+286,7568,115.0,42.0,Goal,0.07792592,Kendall Jamaal Waston Manley,119.0,37.2,1.5,55,Costa Rica
+287,7568,87.0,31.0,Off T,0.013839894,Celso Borges Mora,120.0,45.8,3.4,63,Costa Rica
+288,7568,96.0,32.0,Blocked,0.023676213,Josip Drmic,99.0,32.0,,70,Switzerland
+289,7568,112.0,41.0,Post,0.14273942,Josip Drmic,120.0,44.2,2.7,77,Switzerland
+290,7568,104.0,57.0,Saved,0.03549099,Celso Borges Mora,118.0,38.9,0.5,78,Costa Rica
+291,7568,106.0,34.0,Goal,0.11787563,Josip Drmic,120.0,43.0,0.2,87,Switzerland
+292,7568,109.0,41.0,Post,0.76,Bryan Ruiz González,120.0,43.2,2.7,92,Costa Rica
+293,7530,114.0,56.0,Saved,0.023680815,Kylian Mbappé Lottin,120.0,44.0,1.3,1,France
+294,7530,94.0,28.0,Saved,0.0537762,Paul Pogba,120.0,38.0,1.8,4,France
+295,7530,95.0,43.0,Saved,0.029836575,Antoine Griezmann,120.0,43.6,0.8,5,France
+296,7530,109.0,31.0,Blocked,0.043471277,Antoine Griezmann,110.0,35.0,,7,France
+297,7530,110.0,34.0,Off T,0.041143782,Mathew Leckie,120.0,35.4,4.7,11,Australia
+298,7530,105.0,32.0,Saved,0.016474541,Mathew Leckie,119.0,43.8,0.5,16,Australia
+299,7530,109.0,26.0,Blocked,0.056864604,Lucas Hernández Pi,113.0,41.0,,32,France
+300,7530,101.0,21.0,Off T,0.01838063,Aziz Eraltay Behich,120.0,45.0,3.5,44,Australia
+301,7530,108.0,40.0,Goal,0.76,Antoine Griezmann,119.0,43.8,1.4,57,France
+302,7530,104.0,37.0,Blocked,0.124435306,Antoine Griezmann,114.0,44.0,,58,France
+303,7530,104.0,43.0,Off T,0.053825147,Antoine Griezmann,120.0,45.4,0.3,58,France
+304,7530,109.0,41.0,Goal,0.76,Mile Jedinak,120.0,42.0,0.2,61,Australia
+305,7530,86.0,30.0,Blocked,0.010798525,Samuel Yves Umtiti,94.0,30.0,,68,France
+306,7530,95.0,42.0,Off T,0.016129572,Benjamin Pavard,120.0,42.0,6.0,71,France
+307,7530,100.0,31.0,Off T,0.04685782,Lucas Hernández Pi,120.0,39.7,3.8,83,France
+308,7530,100.0,63.0,Blocked,0.058693647,Nabil Fekir,108.0,56.0,,87,France
+309,7530,97.0,47.0,Blocked,0.049843766,Josh Risdon,107.0,45.0,,93,Australia
+310,7558,87.0,30.0,Off T,0.008022297,Matías Vecino Falero,120.0,34.6,0.8,1,Uruguay
+311,7558,101.0,36.0,Goal,0.112385206,Luis Alberto Suárez Díaz,119.0,44.0,0.7,9,Uruguay
+312,7558,103.0,32.0,Saved,0.06471651,Denis Cheryshev,116.0,39.3,0.9,11,Russia
+313,7558,96.0,24.0,Blocked,0.014004752,Diego Sebastián Laxalt Suárez,100.0,27.0,,22,Uruguay
+314,7558,111.0,45.0,Saved,0.38191983,Rodrigo Bentancur Colmán,113.0,40.9,0.5,27,Uruguay
+315,7558,94.0,45.0,Blocked,0.09139082,Edinson Roberto Cavani Gómez,105.0,47.0,,46,Uruguay
+316,7558,111.0,57.0,Blocked,0.030116782,Rodrigo Bentancur Colmán,113.0,52.0,,58,Uruguay
+317,7558,59.0,32.0,Off T,0.009486399,Diego Roberto Godín Leal,120.0,46.0,1.8,67,Uruguay
+318,7558,105.0,33.0,Off T,0.059820477,Edinson Roberto Cavani Gómez,120.0,48.7,0.7,68,Uruguay
+319,7558,96.0,55.0,Blocked,0.023039786,Roman Zobnin,98.0,56.0,,69,Russia
+320,7558,105.0,52.0,Off T,0.068745025,Artem Dzyuba,120.0,33.7,4.5,73,Russia
+321,7558,94.0,25.0,Saved,0.017061912,Cristian Gabriel Rodríguez Barrotti,119.0,38.0,2.3,81,Uruguay
+322,7558,116.0,42.0,Wayward,0.20716776,José Martín Cáceres Silva,120.0,58.0,,83,Uruguay
+323,7558,107.0,47.0,Blocked,0.06877739,Edinson Roberto Cavani Gómez,108.0,47.0,,85,Uruguay
+324,7558,101.0,22.0,Saved,0.021906631,Cristian Gabriel Rodríguez Barrotti,119.0,41.7,1.8,89,Uruguay
+325,7558,114.0,39.0,Saved,0.114004165,Diego Roberto Godín Leal,120.0,37.6,1.5,89,Uruguay
+326,7558,119.0,39.0,Goal,0.64413047,Edinson Roberto Cavani Gómez,120.0,37.2,1.4,89,Uruguay
+327,7558,113.0,44.0,Wayward,0.38110033,Giorgian Daniel De Arrascaeta Benedetti,117.0,14.0,,94,Uruguay
+328,7558,91.0,31.0,Blocked,0.02063423,Lucas Torreira Di Pascua,104.0,33.0,,94,Uruguay
+329,7583,111.0,52.0,Blocked,0.07893264,Hirving Rodrigo Lozano Bahena,113.0,51.0,,1,Mexico
+330,7583,96.0,43.0,Saved,0.051520824,Neymar da Silva Santos Junior,115.0,40.5,1.6,4,Brazil
+331,7583,107.0,43.0,Wayward,0.012247688,Carlos Joel Salcedo Hernández,117.0,39.0,,8,Mexico
+332,7583,111.0,58.0,Blocked,0.02344906,Hirving Rodrigo Lozano Bahena,111.0,53.0,,17,Mexico
+333,7583,105.0,41.0,Blocked,0.06120251,Héctor Miguel Herrera López,105.0,41.0,,21,Mexico
+334,7583,116.0,30.0,Saved,0.13530065,Neymar da Silva Santos Junior,117.0,40.5,0.5,24,Brazil
+335,7583,112.0,48.0,Blocked,0.10139771,Gabriel Fernando de Jesus,112.0,46.0,,25,Brazil
+336,7583,102.0,30.0,Off T,0.030451013,Philippe Coutinho Correia,120.0,46.5,3.5,26,Brazil
+337,7583,101.0,26.0,Off T,0.04205263,Carlos Alberto Vela Garrido,120.0,33.9,3.0,29,Mexico
+338,7583,111.0,30.0,Saved,0.100937374,Gabriel Fernando de Jesus,119.0,36.8,1.3,32,Brazil
+339,7583,115.0,32.0,Wayward,0.23329093,Philippe Coutinho Correia,117.0,40.0,,32,Brazil
+340,7583,100.0,31.0,Blocked,0.07007318,Philippe Coutinho Correia,104.0,30.0,,33,Brazil
+341,7583,93.0,31.0,Blocked,0.030183105,Philippe Coutinho Correia,104.0,34.0,,37,Brazil
+342,7583,90.0,27.0,Off T,0.02039316,Neymar da Silva Santos Junior,120.0,34.2,3.6,39,Brazil
+343,7583,102.0,48.0,Blocked,0.050033048,Gabriel Fernando de Jesus,105.0,47.0,,46,Brazil
+344,7583,107.0,31.0,Saved,0.09557149,Philippe Coutinho Correia,118.0,38.0,1.3,47,Brazil
+345,7583,95.0,33.0,Off T,0.05415378,Jesús Daniel Gallardo Vasconcelos,120.0,34.6,3.8,49,Mexico
+346,7583,119.0,43.0,Goal,0.90845025,Neymar da Silva Santos Junior,120.0,40.1,0.5,50,Brazil
+347,7583,92.0,33.0,Blocked,0.040702,José Andrés Guardado Hernández,98.0,32.0,,51,Mexico
+348,7583,97.0,54.0,Blocked,0.023132723,Miguel Arturo Layún Prado,101.0,52.0,,53,Mexico
+349,7583,99.0,54.0,Off T,0.05060692,Neymar da Silva Santos Junior,120.0,34.8,1.8,55,Brazil
+350,7583,107.0,43.0,Saved,0.21793565,José Paulo Bezzera Maciel Júnior,120.0,43.6,1.5,58,Brazil
+351,7583,91.0,41.0,Blocked,0.039082214,Hirving Rodrigo Lozano Bahena,98.0,42.0,,60,Mexico
+352,7583,100.0,56.0,Saved,0.02711902,Carlos Alberto Vela Garrido,120.0,41.1,2.2,60,Mexico
+353,7583,106.0,54.0,Saved,0.027005129,Willian Borges da Silva,118.0,41.3,2.3,62,Brazil
+354,7583,104.0,40.0,Off T,0.13883619,Neymar da Silva Santos Junior,120.0,35.0,0.2,67,Brazil
+355,7583,93.0,41.0,Blocked,0.023216132,José Andrés Guardado Hernández,105.0,40.0,,69,Mexico
+356,7583,97.0,55.0,Saved,0.027677026,Willian Borges da Silva,119.0,42.8,0.2,74,Brazil
+357,7583,109.0,29.0,Wayward,0.021870146,Hugo Ayala Castro,118.0,47.0,,86,Mexico
+358,7583,112.0,33.0,Saved,0.46234304,Neymar da Silva Santos Junior,115.0,39.5,0.2,87,Brazil
+359,7583,119.0,43.0,Goal,0.9317404,Roberto Firmino Barbosa de Oliveira,120.0,40.3,0.9,87,Brazil
+360,7583,111.0,59.0,Off T,0.02425635,Hirving Rodrigo Lozano Bahena,120.0,45.2,2.6,91,Mexico
+361,7583,105.0,52.0,Blocked,0.07907735,Raúl Alonso Jiménez Rodríguez,112.0,49.0,,94,Mexico
+362,8652,109.0,56.0,Blocked,0.051290978,Denis Cheryshev,111.0,54.0,,1,Russia
+363,8652,110.0,52.0,Blocked,0.03967244,Artem Dzyuba,112.0,50.0,,4,Russia
+364,8652,113.0,42.0,Off T,0.11612712,Ante Rebić,120.0,37.2,3.7,6,Croatia
+365,8652,109.0,43.0,Wayward,0.1229721,Mario Mandžukić,118.0,59.0,,10,Croatia
+366,8652,98.0,23.0,Off T,0.049078766,Ivan Rakitić,120.0,36.2,4.9,15,Croatia
+367,8652,109.0,50.0,Off T,0.033829287,Ivan Perišić,120.0,33.5,0.3,27,Croatia
+368,8652,94.0,34.0,Goal,0.0700209,Denis Cheryshev,119.0,36.4,2.3,30,Russia
+369,8652,94.0,30.0,Blocked,0.017253965,Ante Rebić,95.0,31.0,,32,Croatia
+370,8652,115.0,37.0,Wayward,0.102284394,Ivan Perišić,117.0,45.0,,33,Croatia
+371,8652,118.0,27.0,Off T,0.04668437,Sergei Ignashevich,119.0,36.2,3.3,36,Russia
+372,8652,115.0,29.0,Off T,0.10346184,Denis Cheryshev,120.0,35.4,0.6,38,Russia
+373,8652,113.0,38.0,Goal,0.17762586,Andrej Kramarić,120.0,42.2,0.6,38,Croatia
+374,8652,88.0,53.0,Off T,0.007884129,Luka Modrić,120.0,32.7,0.3,49,Croatia
+375,8652,105.0,40.0,Saved,0.0689109,Andrej Kramarić,119.0,37.0,0.9,51,Croatia
+376,8652,97.0,20.0,Off T,0.01671075,Ante Rebić,120.0,47.3,5.2,57,Croatia
+377,8652,112.0,44.0,Post,0.17921144,Ivan Perišić,120.0,35.8,0.1,59,Croatia
+378,8652,110.0,40.0,Saved,0.021173509,Artem Dzyuba,120.0,38.1,1.2,61,Russia
+379,8652,90.0,31.0,Blocked,0.022288216,Andrej Kramarić,102.0,35.0,,62,Croatia
+380,8652,113.0,44.0,Off T,0.12005566,Aleksandr Erokhin,120.0,36.8,3.4,71,Russia
+381,8652,105.0,39.0,Blocked,0.14905682,Luka Modrić,108.0,38.0,,75,Croatia
+382,8652,114.0,57.0,Blocked,0.023632344,Šime Vrsaljko,116.0,52.0,,75,Croatia
+383,8652,111.0,39.0,Off T,0.06144705,Mario Mandžukić,120.0,37.2,7.3,76,Croatia
+384,8652,117.0,64.0,Saved,0.031307407,Fyodor Smolov,119.0,37.2,1.7,93,Russia
+385,8652,110.0,40.0,Goal,0.06021956,Domagoj Vida,120.0,44.0,0.9,100,Croatia
+386,8652,115.0,37.0,Wayward,0.2357307,Ilya Kutepov,115.0,22.0,,103,Russia
+387,8652,114.0,35.0,Off T,0.069342524,Aleksandr Erokhin,120.0,47.1,0.3,104,Russia
+388,8652,101.0,20.0,Saved,0.019602463,Dejan Lovren,119.0,40.7,1.7,109,Croatia
+389,8652,103.0,52.0,Saved,0.022727875,Daler Kuzyaev,115.0,41.5,1.3,111,Russia
+390,8652,114.0,41.0,Goal,0.19230573,Mário Figueira Fernandes,120.0,36.2,0.7,114,Russia
+391,8652,99.0,20.0,Off T,0.019734947,Luka Modrić,120.0,48.7,7.1,116,Croatia
+392,8652,94.0,32.0,Saved,0.021203853,Roman Zobnin,120.0,36.8,0.3,118,Russia
+393,8652,109.0,41.0,Saved,0.76,Fyodor Smolov,119.0,38.1,1.1,121,Russia
+394,8652,109.0,41.0,Goal,0.76,Marcelo Brozović,120.0,43.6,1.7,121,Croatia
+395,8652,109.0,41.0,Goal,0.76,Alan Dzagoev,120.0,43.2,0.4,122,Russia
+396,8652,109.0,41.0,Saved,0.76,Mateo Kovačić,120.0,43.8,0.1,123,Croatia
+397,8652,109.0,41.0,Off T,0.76,Mário Figueira Fernandes,120.0,35.2,0.3,124,Russia
+398,8652,109.0,41.0,Goal,0.76,Luka Modrić,119.0,37.6,0.2,125,Croatia
+399,8652,109.0,41.0,Goal,0.76,Sergei Ignashevich,120.0,37.0,0.7,125,Russia
+400,8652,109.0,41.0,Goal,0.76,Domagoj Vida,120.0,36.6,1.6,126,Croatia
+401,8652,109.0,41.0,Goal,0.76,Daler Kuzyaev,120.0,36.2,0.4,127,Russia
+402,8652,109.0,41.0,Goal,0.76,Ivan Rakitić,120.0,36.6,0.4,127,Croatia
+403,7547,114.0,38.0,Off T,0.11904341,Thomas Delaney,120.0,33.5,0.2,1,Denmark
+404,7547,101.0,53.0,Blocked,0.0301372,Tom Rogić,102.0,53.0,,4,Australia
+405,7547,113.0,42.0,Off T,0.09075201,Mathew Leckie,120.0,40.5,4.3,4,Australia
+406,7547,104.0,39.0,Goal,0.20277502,Christian Dannemann Eriksen,120.0,37.8,2.5,6,Denmark
+407,7547,88.0,38.0,Saved,0.02391071,Pione Sisto Ifolo Emirmija,118.0,38.9,1.5,21,Denmark
+408,7547,93.0,33.0,Off T,0.02080183,Tom Rogić,120.0,46.1,0.2,22,Australia
+409,7547,113.0,42.0,Off T,0.26150653,Nicolai Jørgensen,120.0,46.1,1.6,23,Denmark
+410,7547,111.0,44.0,Blocked,0.07593266,Robbie Kruse,112.0,43.0,,29,Australia
+411,7547,92.0,40.0,Blocked,0.01718571,Aaron Mooy,100.0,41.0,,29,Australia
+412,7547,110.0,41.0,Blocked,0.03546757,Mathew Leckie,111.0,39.0,,35,Australia
+413,7547,109.0,41.0,Goal,0.76,Mile Jedinak,120.0,42.4,0.2,37,Australia
+414,7547,108.0,32.0,Saved,0.022287868,Jens Stryger Larsen,119.0,41.5,1.3,42,Denmark
+415,7547,107.0,40.0,Blocked,0.12890576,Pione Sisto Ifolo Emirmija,109.0,39.0,,50,Denmark
+416,7547,94.0,26.0,Off T,0.019794442,Aaron Mooy,120.0,43.4,4.0,70,Australia
+417,7547,94.0,47.0,Saved,0.026701845,Tom Rogić,120.0,37.6,0.4,71,Australia
+418,7547,96.0,27.0,Off T,0.021085456,Pione Sisto Ifolo Emirmija,120.0,45.2,0.2,71,Denmark
+419,7547,104.0,59.0,Saved,0.015538131,Mathew Leckie,105.0,36.6,0.7,75,Australia
+420,7547,108.0,42.0,Wayward,0.11678044,Mathew Leckie,120.0,55.0,,78,Australia
+421,7547,106.0,34.0,Saved,0.061521,Andreas Evald Cornelius,116.0,38.3,1.5,82,Denmark
+422,7547,114.0,24.0,Saved,0.0277683,Daniel Arzani,119.0,37.2,1.6,87,Australia
+423,7547,107.0,37.0,Saved,0.07394367,Mathew Leckie,120.0,36.8,2.0,87,Australia
+424,7547,97.0,47.0,Off T,0.035272356,Christian Dannemann Eriksen,120.0,33.7,0.2,89,Denmark
+425,7547,105.0,29.0,Saved,0.025077866,Martin Braithwaite Christensen,118.0,41.3,1.9,91,Denmark
+426,7535,112.0,42.0,Blocked,0.042957798,Aleksandar Mitrović,114.0,40.0,,0,Serbia
+427,7535,119.0,52.0,Saved,0.052444596,Marcos Danilo Ureña Porras,118.0,36.6,0.2,1,Costa Rica
+428,7535,112.0,45.0,Saved,0.09120496,Giancarlo González Castro,120.0,40.9,1.3,2,Costa Rica
+429,7535,93.0,20.0,Off T,0.01811359,Aleksandar Kolarov,120.0,47.5,0.2,6,Serbia
+430,7535,116.0,48.0,Off T,0.112895004,Giancarlo González Castro,120.0,41.7,3.8,11,Costa Rica
+431,7535,104.0,53.0,Blocked,0.057528947,Aleksandar Mitrović,106.0,50.0,,12,Serbia
+432,7535,116.0,32.0,Wayward,0.07852257,Aleksandar Mitrović,108.0,33.0,,15,Serbia
+433,7535,96.0,42.0,Off T,0.03387759,Marcos Danilo Ureña Porras,120.0,35.8,4.1,38,Costa Rica
+434,7535,101.0,29.0,Off T,0.041363865,Francisco Javier Calvo Quesada,120.0,35.2,0.1,41,Costa Rica
+435,7535,109.0,39.0,Saved,0.32518992,Aleksandar Mitrović,112.0,42.0,0.3,49,Serbia
+436,7535,114.0,41.0,Off T,0.11534889,Aleksandar Mitrović,120.0,31.7,0.5,53,Serbia
+437,7535,94.0,59.0,Goal,0.024129113,Aleksandar Kolarov,120.0,44.0,1.5,55,Serbia
+438,7535,109.0,45.0,Off T,0.05712495,Sergej Milinković-Savić,120.0,33.1,0.4,65,Serbia
+439,7535,94.0,37.0,Off T,0.028266445,Sergej Milinković-Savić,120.0,45.6,4.4,74,Serbia
+440,7535,118.0,42.0,Wayward,0.9116856,Filip Kostić,112.0,45.0,,75,Serbia
+441,7535,100.0,36.0,Blocked,0.047151152,Nemanja Matić,102.0,37.0,,76,Serbia
+442,7535,102.0,57.0,Blocked,0.02672405,Joel Nathaniel Campbell Samuels,104.0,54.0,,78,Costa Rica
+443,7535,100.0,43.0,Blocked,0.061757725,Celso Borges Mora,104.0,44.0,,78,Costa Rica
+444,7535,101.0,30.0,Off T,0.040289335,Filip Kostić,120.0,39.7,3.5,89,Serbia
+445,7535,79.0,33.0,Saved,0.010544344,Cristian Gamboa Luna,119.0,40.7,0.5,90,Costa Rica
+446,7535,112.0,31.0,Blocked,0.025405953,Óscar Esau Duarte Gaitán,112.0,34.0,,92,Costa Rica
+447,7535,106.0,42.0,Blocked,0.07177669,Bryan Ruiz González,107.0,41.0,,94,Costa Rica
+448,7546,96.0,43.0,Blocked,0.03422855,Édison Michael Flores Peralta,98.0,43.0,,1,Peru
+449,7546,62.0,36.0,Off T,0.015276206,Víctor Yoshimar Yotún Flores,120.0,36.4,4.2,5,Peru
+450,7546,114.0,54.0,Off T,0.106518276,Antoine Griezmann,120.0,46.1,2.7,10,France
+451,7546,88.0,54.0,Off T,0.018662851,Paul Pogba,120.0,35.2,0.9,11,France
+452,7546,115.0,34.0,Off T,0.07205489,Raphaël Varane,120.0,46.0,0.2,13,France
+453,7546,102.0,51.0,Saved,0.03193608,Antoine Griezmann,114.0,41.7,0.7,15,France
+454,7546,97.0,27.0,Off T,0.019665204,Édison Michael Flores Peralta,120.0,46.7,0.3,23,Peru
+455,7546,110.0,33.0,Saved,0.13734727,José Paolo Guerrero González,119.0,38.5,0.2,30,Peru
+456,7546,112.0,38.0,Saved,0.27446675,Kylian Mbappé Lottin,118.0,37.0,1.9,32,France
+457,7546,109.0,29.0,Blocked,0.13063751,Olivier Giroud,110.0,30.0,,33,France
+458,7546,119.0,41.0,Goal,0.8994274,Kylian Mbappé Lottin,120.0,40.5,0.9,33,France
+459,7546,109.0,27.0,Saved,0.07508504,Lucas Hernández Pi,119.0,41.1,2.0,42,France
+460,7546,112.0,29.0,Off T,0.12747373,Lucas Hernández Pi,120.0,46.9,0.1,42,France
+461,7546,93.0,39.0,Post,0.040116545,Pedro Jesús Aquino Sánchez,120.0,36.0,2.7,49,Peru
+462,7546,101.0,30.0,Blocked,0.06748881,Christian Alberto Cueva Bravo,104.0,34.0,,57,Peru
+463,7546,94.0,37.0,Off T,0.022335617,André Martín Carrillo Díaz,120.0,39.9,3.8,60,Peru
+464,7546,105.0,40.0,Wayward,0.022788737,José Paolo Guerrero González,105.0,33.0,,66,Peru
+465,7546,98.0,61.0,Off T,0.013263656,Luis Jan Piers Advíncula Castrillón,120.0,42.2,3.5,67,Peru
+466,7546,116.0,29.0,Off T,0.05422472,Jefferson Agustín Farfán Guadalupe,120.0,35.0,1.3,73,Peru
+467,7546,105.0,44.0,Off T,0.060839437,Ousmane Dembélé,120.0,34.8,0.5,81,France
+468,7546,87.0,43.0,Saved,0.040015787,José Paolo Guerrero González,119.0,42.8,0.5,87,Peru
+469,7546,97.0,40.0,Off T,0.024688834,Blaise Matuidi,120.0,34.2,2.3,91,France
+470,7546,107.0,30.0,Off T,0.014897333,José Paolo Guerrero González,120.0,33.9,0.5,92,Peru
+471,7546,106.0,32.0,Blocked,0.11420754,Olivier Giroud,107.0,33.0,,93,France
+472,7584,98.0,47.0,Off T,0.024996893,Shinji Kagawa,120.0,45.4,0.3,0,Japan
+473,7584,74.0,41.0,Off T,0.013225093,Gen Shōji,120.0,46.7,3.4,9,Japan
+474,7584,95.0,33.0,Blocked,0.043376084,Axel Witsel,98.0,34.0,,15,Belgium
+475,7584,111.0,51.0,Wayward,0.010093679,Vincent Kompany,114.0,46.0,,15,Belgium
+476,7584,105.0,40.0,Blocked,0.046488736,Romelu Lukaku Menama,106.0,40.0,,16,Belgium
+477,7584,111.0,48.0,Wayward,0.029675562,Vincent Kompany,113.0,50.0,,17,Belgium
+478,7584,112.0,50.0,Off T,0.0671176,Vincent Kompany,120.0,47.1,0.5,17,Belgium
+479,7584,101.0,50.0,Blocked,0.05464871,Romelu Lukaku Menama,103.0,50.0,,20,Belgium
+480,7584,114.0,41.0,Wayward,0.34111065,Romelu Lukaku Menama,116.0,40.0,,24,Belgium
+481,7584,102.0,46.0,Blocked,0.106753215,Kevin De Bruyne,110.0,40.0,,26,Belgium
+482,7584,102.0,26.0,Saved,0.04625173,Eden Hazard,118.0,38.7,2.0,26,Belgium
+483,7584,118.0,45.0,Wayward,0.3356448,Vincent Kompany,117.0,37.0,,27,Belgium
+484,7584,110.0,45.0,Saved,0.030698622,Takashi Inui,118.0,42.0,1.9,30,Japan
+485,7584,103.0,33.0,Blocked,0.1187635,Eden Hazard,106.0,34.0,,35,Belgium
+486,7584,93.0,49.0,Off T,0.026183542,Axel Witsel,120.0,43.6,4.4,35,Belgium
+487,7584,109.0,24.0,Blocked,0.030335639,Yuto Nagatomo,114.0,34.0,,43,Japan
+488,7584,109.0,54.0,Goal,0.16858953,Genki Haraguchi,120.0,36.4,0.6,47,Japan
+489,7584,105.0,47.0,Post,0.05824106,Eden Hazard,120.0,44.4,0.7,48,Belgium
+490,7584,110.0,41.0,Wayward,0.24746744,Eden Hazard,106.0,30.0,,48,Belgium
+491,7584,94.0,33.0,Goal,0.022122927,Takashi Inui,120.0,44.0,0.8,51,Japan
+492,7584,102.0,26.0,Off T,0.028265981,Yannick Ferreira Carrasco,120.0,47.1,4.8,56,Belgium
+493,7584,107.0,49.0,Blocked,0.01531299,Gaku Shibasaki,108.0,45.0,,58,Japan
+494,7584,115.0,46.0,Off T,0.15041663,Romelu Lukaku Menama,120.0,35.0,0.3,61,Belgium
+495,7584,110.0,48.0,Off T,0.13164166,Genki Haraguchi,120.0,48.1,3.2,63,Japan
+496,7584,100.0,54.0,Off T,0.041384257,Thomas Meunier,120.0,43.6,4.2,65,Belgium
+497,7584,112.0,46.0,Blocked,0.10435619,Romelu Lukaku Menama,113.0,44.0,,67,Belgium
+498,7584,116.0,23.0,Goal,0.0156067135,Jan Vertonghen,120.0,43.8,1.5,68,Belgium
+499,7584,102.0,45.0,Blocked,0.050079428,Kevin De Bruyne,107.0,44.0,,72,Belgium
+500,7584,114.0,42.0,Goal,0.1176203,Marouane Fellaini-Bakkioui,120.0,41.5,0.6,73,Belgium
+501,7584,109.0,30.0,Blocked,0.095252335,Takashi Inui,112.0,32.0,,74,Japan
+502,7584,113.0,23.0,Wayward,0.023308918,Yuto Nagatomo,112.0,53.0,,74,Japan
+503,7584,114.0,47.0,Off T,0.08987997,Romelu Lukaku Menama,120.0,33.5,0.2,77,Belgium
+504,7584,114.0,57.0,Wayward,0.0109053,Vincent Kompany,119.0,36.0,,79,Belgium
+505,7584,113.0,30.0,Blocked,0.17566422,Keisuke Honda,116.0,31.0,,83,Japan
+506,7584,113.0,35.0,Saved,0.0463404,Nacer Chadli,120.0,37.0,1.6,85,Belgium
+507,7584,114.0,44.0,Saved,0.12913896,Romelu Lukaku Menama,120.0,39.1,2.4,85,Belgium
+508,7584,80.0,42.0,Off T,0.008897997,Thomas Meunier,120.0,33.9,0.2,85,Belgium
+509,7584,96.0,24.0,Saved,0.01549985,Jan Vertonghen,119.0,38.1,1.0,86,Belgium
+510,7584,79.0,39.0,Saved,0.019848887,Keisuke Honda,120.0,36.6,1.0,92,Japan
+511,7584,111.0,37.0,Goal,0.39401338,Nacer Chadli,120.0,37.4,0.2,93,Belgium
+512,7536,113.0,34.0,Off T,0.112056084,Romelu Lukaku Menama,120.0,34.6,0.4,0,Belgium
+513,7536,96.0,51.0,Wayward,0.013044717,Edgar Yoel Bárcenas Herrera,115.0,47.0,,3,Panama
+514,7536,104.0,24.0,Saved,0.036519405,Yannick Ferreira Carrasco,119.0,36.8,0.2,5,Belgium
+515,7536,104.0,54.0,Saved,0.0743451,Dries Mertens,119.0,43.2,0.5,6,Belgium
+516,7536,118.0,30.0,Off T,0.07139939,Eden Hazard,120.0,35.2,0.3,11,Belgium
+517,7536,110.0,57.0,Off T,0.035623748,Dries Mertens,120.0,45.4,2.3,18,Belgium
+518,7536,98.0,22.0,Off T,0.026944142,Kevin De Bruyne,120.0,36.8,3.8,21,Belgium
+519,7536,103.0,56.0,Off T,0.027490327,Eden Hazard,120.0,46.1,2.1,25,Belgium
+520,7536,109.0,54.0,Saved,0.04854429,Eden Hazard,118.0,43.6,1.3,37,Belgium
+521,7536,104.0,37.0,Wayward,0.03305367,Román Aureliano Torres Morcillo,117.0,48.0,,38,Panama
+522,7536,103.0,50.0,Off T,0.039647717,Dries Mertens,120.0,45.8,0.8,40,Belgium
+523,7536,92.0,53.0,Off T,0.033878587,Armando Enrique Cooper Whitaker,120.0,34.6,6.0,41,Panama
+524,7536,105.0,59.0,Goal,0.013670832,Dries Mertens,120.0,36.2,1.5,46,Belgium
+525,7536,97.0,26.0,Off T,0.059370674,Kevin De Bruyne,120.0,35.2,2.4,51,Belgium
+526,7536,111.0,49.0,Saved,0.45156148,Michael Amir Murillo Bermudez,113.0,41.1,0.4,53,Panama
+527,7536,111.0,38.0,Off T,0.07633168,Román Aureliano Torres Morcillo,120.0,33.9,1.2,54,Panama
+528,7536,99.0,33.0,Off T,0.06960459,Edgar Yoel Bárcenas Herrera,120.0,34.4,0.2,57,Panama
+529,7536,94.0,37.0,Blocked,0.09763994,Kevin De Bruyne,101.0,39.0,,64,Belgium
+530,7536,114.0,43.0,Goal,0.28224698,Romelu Lukaku Menama,120.0,44.0,1.7,68,Belgium
+531,7536,110.0,29.0,Goal,0.25408942,Romelu Lukaku Menama,120.0,39.9,0.5,74,Belgium
+532,7536,95.0,29.0,Blocked,0.051501106,Eden Hazard,105.0,31.0,,82,Belgium
+533,7536,96.0,19.0,Saved,0.03567857,Fidel Escobar Mendieta,118.0,36.6,0.4,88,Panama
+534,7545,109.0,27.0,Saved,0.045951154,Ivan Perišić,118.0,40.1,0.2,4,Croatia
+535,7545,104.0,41.0,Blocked,0.062275548,Maximiliano Eduardo Meza,110.0,41.0,,12,Argentina
+536,7545,87.0,35.0,Blocked,0.01941603,Marcelo Brozović,101.0,37.0,,20,Croatia
+537,7545,106.0,33.0,Off T,0.30398282,Enzo Nicolás Pérez,120.0,35.4,0.2,29,Argentina
+538,7545,115.0,34.0,Off T,0.19995767,Mario Mandžukić,120.0,34.2,0.8,32,Croatia
+539,7545,99.0,34.0,Off T,0.07235942,Ante Rebić,120.0,44.2,5.5,46,Croatia
+540,7545,96.0,28.0,Blocked,0.031634614,Marcos Javier Acuña,100.0,29.0,,48,Argentina
+541,7545,111.0,29.0,Saved,0.09077968,Sergio Leonel Agüero del Castillo,117.0,38.3,0.2,52,Argentina
+542,7545,108.0,30.0,Goal,0.24468073,Ante Rebić,120.0,40.7,1.9,52,Argentina
+543,7545,113.0,34.0,Saved,0.18473433,Maximiliano Eduardo Meza,119.0,37.2,0.2,63,Argentina
+544,7545,117.0,36.0,Blocked,0.22701412,Lionel Andrés Messi Cuccittini,118.0,36.0,,63,Argentina
+545,7545,109.0,43.0,Off T,0.033097085,Nicolás Hernán Otamendi,120.0,38.5,3.9,63,Argentina
+546,7545,115.0,49.0,Off T,0.11344085,Mario Mandžukić,120.0,45.2,2.0,65,Croatia
+547,7545,107.0,59.0,Off T,0.018799992,Paulo Bruno Exequiel Dybala,120.0,36.0,3.8,70,Argentina
+548,7545,103.0,24.0,Blocked,0.03292196,Ivan Rakitić,106.0,30.0,,79,Croatia
+549,7545,93.0,45.0,Goal,0.02784503,Luka Modrić,120.0,44.0,1.1,79,Croatia
+550,7545,100.0,27.0,Saved,0.04832674,Gonzalo Gerardo Higuaín,119.0,39.3,0.2,83,Argentina
+551,7545,89.0,36.0,Post,0.04014382,Ivan Rakitić,118.0,36.0,2.6,85,Croatia
+552,7545,103.0,34.0,Off T,0.041089132,Mateo Kovačić,120.0,36.8,3.9,85,Croatia
+553,7545,99.0,50.0,Blocked,0.03507466,Mario Mandžukić,102.0,53.0,,88,Croatia
+554,7545,87.0,54.0,Off T,0.011457617,Luka Modrić,120.0,33.5,0.4,88,Croatia
+555,7545,108.0,31.0,Blocked,0.07783071,Maximiliano Eduardo Meza,113.0,36.0,,90,Argentina
+556,7545,98.0,38.0,Saved,0.16665307,Ivan Rakitić,114.0,38.3,0.5,90,Croatia
+557,7545,112.0,40.0,Goal,0.64075035,Ivan Rakitić,120.0,37.0,0.4,90,Croatia
+558,7580,95.0,50.0,Post,0.065490216,Antoine Griezmann,120.0,43.0,2.7,8,France
+559,7580,108.0,40.0,Goal,0.76,Antoine Griezmann,120.0,38.3,0.2,12,France
+560,7580,102.0,33.0,Off T,0.07868333,Paul Pogba,120.0,44.4,3.8,20,France
+561,7580,96.0,27.0,Blocked,0.017642729,Éver Maximiliano David Banega,102.0,30.0,,21,Argentina
+562,7580,90.0,38.0,Goal,0.016100956,Ángel Fabián Di María Hernández,120.0,44.0,1.7,40,Argentina
+563,7580,104.0,56.0,Blocked,0.013592267,Lionel Andrés Messi Cuccittini,112.0,45.0,,47,Argentina
+564,7580,111.0,42.0,Goal,0.30808258,Gabriel Iván Mercado,119.0,43.4,0.4,47,Argentina
+565,7580,116.0,45.0,Off T,0.19090676,Antoine Griezmann,120.0,46.3,0.1,55,France
+566,7580,100.0,56.0,Goal,0.027012315,Benjamin Pavard,120.0,36.2,2.0,56,France
+567,7580,108.0,35.0,Blocked,0.1068089,Blaise Matuidi,112.0,37.0,,63,France
+568,7580,112.0,30.0,Goal,0.0887856,Kylian Mbappé Lottin,120.0,39.5,0.9,63,France
+569,7580,95.0,24.0,Blocked,0.029953266,Lionel Andrés Messi Cuccittini,104.0,27.0,,65,Argentina
+570,7580,96.0,22.0,Blocked,0.012178314,Lionel Andrés Messi Cuccittini,108.0,34.0,,65,Argentina
+571,7580,107.0,51.0,Goal,0.27453396,Kylian Mbappé Lottin,120.0,36.2,0.2,67,France
+572,7580,108.0,27.0,Off T,0.093324415,Olivier Giroud,119.0,35.4,0.7,69,France
+573,7580,114.0,36.0,Wayward,0.09816829,Nicolás Hernán Otamendi,114.0,36.0,,72,Argentina
+574,7580,107.0,49.0,Saved,0.11678907,Lionel Andrés Messi Cuccittini,119.0,41.1,0.2,84,Argentina
+575,7580,106.0,48.0,Blocked,0.09862432,Sergio Leonel Agüero del Castillo,108.0,49.0,,85,Argentina
+576,7580,114.0,55.0,Blocked,0.02406148,Ángel Fabián Di María Hernández,116.0,49.0,,89,Argentina
+577,7580,112.0,37.0,Goal,0.14020057,Sergio Leonel Agüero del Castillo,119.0,36.4,0.9,92,Argentina
+578,7580,113.0,38.0,Wayward,0.26005843,Ángel Fabián Di María Hernández,118.0,65.0,,94,Argentina
+579,8650,91.0,51.0,Off T,0.014494464,Kevin De Bruyne,120.0,34.8,0.2,1,Brazil
+580,8650,115.0,39.0,Post,0.31051052,Thiago Emiliano da Silva,120.0,35.8,1.9,7,Brazil
+581,8650,106.0,31.0,Blocked,0.069559745,Eden Hazard,109.0,31.0,,7,Belgium
+582,8650,92.0,29.0,Off T,0.012855073,Nacer Chadli,120.0,34.4,0.5,7,Belgium
+583,8650,109.0,46.0,Blocked,0.13588713,José Paulo Bezzera Maciel Júnior,111.0,45.0,,9,Brazil
+584,8650,111.0,37.0,Wayward,0.19304001,José Paulo Bezzera Maciel Júnior,115.0,39.0,,9,Brazil
+585,8650,98.0,38.0,Blocked,0.06118409,Marouane Fellaini-Bakkioui,101.0,39.0,,12,Belgium
+586,8650,115.0,37.0,Blocked,0.23026557,Gabriel Fernando de Jesus,116.0,38.0,,14,Brazil
+587,8650,96.0,33.0,Saved,0.049995597,Philippe Coutinho Correia,119.0,39.3,0.9,18,Brazil
+588,8650,99.0,18.0,Saved,0.013631129,Marcelo Vieira da Silva Júnior,117.0,37.6,0.3,25,Brazil
+589,8650,103.0,42.0,Blocked,0.062281348,Fernando Luiz Rosa,104.0,44.0,,29,Brazil
+590,8650,96.0,20.0,Blocked,0.014483569,Neymar da Silva Santos Junior,98.0,26.0,,29,Brazil
+591,8650,102.0,54.0,Goal,0.029206576,Kevin De Bruyne,120.0,36.6,0.6,30,Belgium
+592,8650,110.0,45.0,Off T,0.122674584,Gabriel Fernando de Jesus,120.0,45.8,0.6,35,Brazil
+593,8650,98.0,21.0,Saved,0.016153093,Philippe Coutinho Correia,118.0,41.3,1.2,36,Brazil
+594,8650,99.0,20.0,Saved,0.038126137,Kevin De Bruyne,120.0,37.8,2.4,40,Belgium
+595,8650,115.0,32.0,Saved,0.026050871,Vincent Kompany,120.0,36.2,1.5,41,Belgium
+596,8650,97.0,27.0,Blocked,0.028738566,Philippe Coutinho Correia,101.0,31.0,,51,Brazil
+597,8650,117.0,51.0,Saved,0.08939978,José Paulo Bezzera Maciel Júnior,117.0,42.6,0.6,54,Brazil
+598,8650,108.0,27.0,Off T,0.12373057,Eden Hazard,120.0,45.6,0.2,61,Belgium
+599,8650,112.0,58.0,Saved,0.020545688,Douglas Costa de Souza,117.0,40.3,0.8,61,Brazil
+600,8650,98.0,36.0,Blocked,0.032717794,Philippe Coutinho Correia,98.0,39.0,,63,Brazil
+601,8650,91.0,58.0,Blocked,0.015129961,Douglas Costa de Souza,103.0,47.0,,69,Brazil
+602,8650,96.0,56.0,Saved,0.020284714,Douglas Costa de Souza,117.0,40.9,1.0,70,Brazil
+603,8650,110.0,58.0,Saved,0.029056756,Douglas Costa de Souza,117.0,39.7,1.0,74,Brazil
+604,8650,109.0,45.0,Blocked,0.278938,Neymar da Silva Santos Junior,114.0,43.0,,74,Brazil
+605,8650,111.0,42.0,Goal,0.1786923,Renato Soares de Oliveira Augusto,120.0,43.8,0.5,75,Brazil
+606,8650,111.0,30.0,Off T,0.084747374,Roberto Firmino Barbosa de Oliveira,120.0,35.2,3.7,77,Brazil
+607,8650,102.0,42.0,Off T,0.12754485,Renato Soares de Oliveira Augusto,120.0,34.0,0.6,80,Brazil
+608,8650,107.0,33.0,Off T,0.115953155,Philippe Coutinho Correia,120.0,46.5,2.5,83,Brazil
+609,8650,96.0,37.0,Blocked,0.03488397,Philippe Coutinho Correia,102.0,37.0,,91,Brazil
+610,8650,98.0,39.0,Saved,0.04967877,Neymar da Silva Santos Junior,120.0,43.8,2.2,93,Brazil
+611,8650,115.0,42.0,Off T,0.14248769,Roberto Firmino Barbosa de Oliveira,120.0,33.9,0.9,93,Brazil
+612,8649,112.0,56.0,Wayward,0.02005466,Cristhian Ricardo Stuani Curbelo,117.0,4.0,,4,Uruguay
+613,8649,91.0,22.0,Blocked,0.017589806,Lucas Hernández Pi,108.0,39.0,,6,France
+614,8649,112.0,48.0,Off T,0.031468455,Raphaël Varane,120.0,47.9,0.3,10,France
+615,8649,96.0,45.0,Blocked,0.031882204,"N""Golo Kanté",97.0,45.0,,11,France
+616,8649,109.0,32.0,Saved,0.0133319395,José María Giménez de Vargas,117.0,37.2,0.2,13,Uruguay
+617,8649,115.0,48.0,Off T,0.11800958,Kylian Mbappé Lottin,120.0,39.3,3.4,14,France
+618,8649,84.0,45.0,Off T,0.0132812215,Paul Pogba,120.0,47.1,3.6,18,France
+619,8649,108.0,50.0,Saved,0.055447184,Matías Vecino Falero,118.0,43.6,0.2,34,Uruguay
+620,8649,109.0,44.0,Goal,0.05804482,Raphaël Varane,120.0,36.6,1.3,39,France
+621,8649,89.0,30.0,Saved,0.008605404,Nahitan Michel Nández Acosta,118.0,41.5,1.9,41,Uruguay
+622,8649,108.0,38.0,Saved,0.03431653,José Martín Cáceres Silva,118.0,36.2,0.6,43,Uruguay
+623,8649,118.0,34.0,Off T,0.29572147,Diego Roberto Godín Leal,120.0,35.4,3.0,43,Uruguay
+624,8649,86.0,51.0,Off T,0.008928954,Benjamin Pavard,120.0,47.3,3.4,52,France
+625,8649,101.0,54.0,Off T,0.04735546,Rodrigo Bentancur Colmán,120.0,33.9,1.3,55,Uruguay
+626,8649,104.0,62.0,Off T,0.022134613,José Martín Cáceres Silva,120.0,33.9,3.8,58,Uruguay
+627,8649,97.0,21.0,Goal,0.019057512,Antoine Griezmann,120.0,40.9,1.6,60,France
+628,8649,96.0,34.0,Blocked,0.012615478,Cristian Gabriel Rodríguez Barrotti,108.0,39.0,,63,Uruguay
+629,8649,99.0,35.0,Off T,0.025549656,Cristian Gabriel Rodríguez Barrotti,120.0,34.8,1.1,63,Uruguay
+630,8649,99.0,32.0,Off T,0.07365634,Corentin Tolisso,120.0,44.4,3.8,72,France
+631,8649,102.0,52.0,Off T,0.022285676,Olivier Giroud,120.0,34.8,0.9,75,France
+632,8649,90.0,44.0,Off T,0.038856577,Antoine Griezmann,120.0,39.9,5.3,88,France
+633,8658,112.0,49.0,Off T,0.041080866,Domagoj Vida,119.0,36.6,5.0,20,Croatia
+634,8658,108.0,29.0,Off T,0.066235095,Ivan Rakitić,120.0,47.5,6.4,23,Croatia
+635,8658,105.0,32.0,Goal,0.0638289,Ivan Perišić,120.0,43.6,0.8,27,Croatia
+636,8658,108.0,40.0,Goal,0.76,Antoine Griezmann,120.0,37.6,0.1,37,France
+637,8658,108.0,41.0,Wayward,0.096983835,Ante Rebić,116.0,41.0,,39,Croatia
+638,8658,117.0,34.0,Blocked,0.08307878,Ivan Perišić,115.0,35.0,,42,Croatia
+639,8658,113.0,26.0,Blocked,0.019115372,Dejan Lovren,113.0,29.0,,42,Croatia
+640,8658,115.0,40.0,Off T,0.12251567,Domagoj Vida,120.0,46.9,0.3,45,Croatia
+641,8658,95.0,45.0,Saved,0.028644508,Antoine Griezmann,119.0,38.9,0.5,46,France
+642,8658,108.0,26.0,Saved,0.06694556,Ante Rebić,119.0,38.9,2.6,47,Croatia
+643,8658,110.0,33.0,Wayward,0.015374918,Dejan Lovren,116.0,45.0,,47,Croatia
+644,8658,91.0,48.0,Off T,0.009769128,Šime Vrsaljko,120.0,33.3,0.2,49,Croatia
+645,8658,115.0,55.0,Saved,0.09879184,Kylian Mbappé Lottin,118.0,39.9,0.6,51,France
+646,8658,99.0,41.0,Blocked,0.028212855,Paul Pogba,107.0,39.0,,58,France
+647,8658,102.0,39.0,Goal,0.06137098,Paul Pogba,120.0,37.6,1.0,58,France
+648,8658,112.0,29.0,Wayward,0.04245391,Olivier Giroud,114.0,40.0,,60,France
+649,8658,96.0,29.0,Blocked,0.046455897,Ante Rebić,100.0,29.0,,63,Croatia
+650,8658,94.0,40.0,Goal,0.032754462,Kylian Mbappé Lottin,120.0,37.0,0.3,64,France
+651,8658,114.0,43.0,Goal,0.55741626,Mario Mandžukić,120.0,36.6,0.4,68,Croatia
+652,8658,78.0,40.0,Off T,0.011603945,Šime Vrsaljko,119.0,32.7,0.8,75,Croatia
+653,8658,101.0,30.0,Blocked,0.041524105,Ivan Rakitić,107.0,34.0,,77,Croatia
+654,8658,98.0,61.0,Saved,0.010757457,Nabil Fekir,117.0,37.4,0.8,86,France
+655,8658,90.0,24.0,Off T,0.011770719,Ivan Rakitić,120.0,46.5,5.0,88,Croatia
+656,7561,101.0,46.0,Blocked,0.022321746,Mateo Kovačić,111.0,39.0,,18,Croatia
+657,7561,112.0,34.0,Off T,0.034039836,Hörður Björgvin Magnússon,120.0,34.4,1.5,27,Iceland
+658,7561,94.0,19.0,Saved,0.05013201,Gylfi Þór Sigurðsson,119.0,36.6,1.8,30,Iceland
+659,7561,104.0,36.0,Blocked,0.02221207,Birkir Bjarnason,112.0,42.0,,33,Iceland
+660,7561,105.0,41.0,Blocked,0.07076972,Birkir Bjarnason,106.0,41.0,,33,Iceland
+661,7561,95.0,41.0,Off T,0.030166421,Ivan Perišić,120.0,46.1,0.2,36,Croatia
+662,7561,91.0,40.0,Blocked,0.019465046,Marko Pjaca,103.0,40.0,,39,Croatia
+663,7561,103.0,45.0,Off T,0.2036979,Alfreð Finnbogason,120.0,44.8,0.6,39,Iceland
+664,7561,87.0,46.0,Off T,0.012671134,Luka Modrić,120.0,33.7,0.1,40,Croatia
+665,7561,85.0,35.0,Off T,0.016305828,Emil Hallfreðsson,120.0,47.3,6.9,43,Iceland
+666,7561,108.0,42.0,Saved,0.09515749,Birkir Bjarnason,114.0,42.2,0.2,45,Iceland
+667,7561,104.0,56.0,Saved,0.038554348,Aron Einar Gunnarsson,119.0,38.5,2.0,46,Iceland
+668,7561,93.0,49.0,Post,0.02585665,Milan Badelj,120.0,42.6,2.8,50,Croatia
+669,7561,106.0,40.0,Goal,0.18804236,Milan Badelj,120.0,36.6,2.0,52,Croatia
+670,7561,117.0,48.0,Wayward,0.06607084,Hörður Björgvin Magnússon,117.0,37.0,,54,Iceland
+671,7561,113.0,39.0,Saved,0.068030484,Sverrir Ingi Ingason,120.0,41.3,2.4,54,Iceland
+672,7561,113.0,42.0,Post,0.07628673,Sverrir Ingi Ingason,120.0,42.6,2.7,55,Iceland
+673,7561,101.0,61.0,Blocked,0.019331634,Johann Berg Guðmunds­son,101.0,59.0,,56,Iceland
+674,7561,108.0,60.0,Off T,0.021627054,Gylfi Þór Sigurðsson,120.0,46.3,3.1,65,Iceland
+675,7561,91.0,34.0,Blocked,0.02078887,Andrej Kramarić,120.0,33.0,,65,Croatia
+676,7561,112.0,33.0,Off T,0.2361464,Birkir Bjarnason,120.0,33.3,1.9,72,Iceland
+677,7561,100.0,19.0,Off T,0.01577466,Josip Pivarić,119.0,45.2,0.1,73,Croatia
+678,7561,109.0,41.0,Goal,0.76,Gylfi Þór Sigurðsson,120.0,40.7,2.4,75,Iceland
+679,7561,98.0,60.0,Saved,0.015518699,Johann Berg Guðmunds­son,118.0,38.1,1.3,76,Iceland
+680,7561,95.0,55.0,Off T,0.044736,Ivan Perišić,120.0,43.0,3.7,84,Croatia
+681,7561,104.0,16.0,Off T,0.07423121,Ivan Rakitić,120.0,39.1,3.5,87,Croatia
+682,7561,104.0,33.0,Off T,0.06328202,Andrej Kramarić,119.0,34.8,0.2,88,Croatia
+683,7561,111.0,28.0,Goal,0.09747661,Ivan Perišić,120.0,43.8,2.0,89,Croatia
+684,7561,101.0,41.0,Off T,0.061914966,Ivan Rakitić,120.0,34.2,0.0,91,Croatia
+685,7561,114.0,38.0,Blocked,0.122197814,Aron Einar Gunnarsson,115.0,41.0,,93,Iceland
+686,7539,84.0,34.0,Off T,0.025829028,Salif Sané,120.0,34.6,1.2,12,Senegal
+687,7539,95.0,35.0,Blocked,0.03750245,Piotr Zieliński,112.0,50.0,,19,Poland
+688,7539,111.0,49.0,Off T,0.22676115,Kamil Grosicki,120.0,43.2,4.5,19,Poland
+689,7539,101.0,46.0,Off T,0.023280732,Robert Lewandowski,120.0,47.1,1.0,22,Poland
+690,7539,99.0,48.0,Blocked,0.04369716,Idrissa Gana Gueye,107.0,43.0,,36,Senegal
+691,7539,114.0,43.0,Off T,0.08856388,Salif Sané,120.0,45.8,3.7,41,Senegal
+692,7539,98.0,62.0,Blocked,0.013834369,Idrissa Gana Gueye,102.0,60.0,,46,Senegal
+693,7539,96.0,47.0,Saved,0.089643575,Robert Lewandowski,120.0,43.4,0.5,50,Poland
+694,7539,109.0,35.0,Blocked,0.074557915,Sadio Mané,112.0,34.0,,51,Senegal
+695,7539,108.0,40.0,Wayward,0.090500705,Mame Biram Diouf,98.0,21.0,,53,Senegal
+696,7539,113.0,53.0,Off T,0.047933094,Łukasz Piszczek,120.0,45.4,1.6,55,Poland
+697,7539,113.0,40.0,Goal,0.8692258,"M""Baye Babacar Niang",120.0,39.9,1.0,59,Poland
+698,7539,92.0,46.0,Blocked,0.016474618,Kamil Grosicki,93.0,41.0,,66,Poland
+699,7539,116.0,46.0,Off T,0.13678512,Arkadiusz Milik,120.0,45.0,0.2,69,Poland
+700,7539,111.0,45.0,Saved,0.04070321,Dawid Kownacki,120.0,44.0,2.4,78,Poland
+701,7539,114.0,39.0,Goal,0.20697004,Grzegorz Krychowiak,120.0,43.8,2.0,85,Poland
+702,7539,88.0,38.0,Wayward,0.011390556,Kamil Grosicki,120.0,50.0,,91,Poland
+703,7563,106.0,28.0,Saved,0.07934398,Olivier Giroud,120.0,36.2,2.5,14,France
+704,7563,112.0,42.0,Off T,0.068304926,Raphaël Varane,120.0,48.1,0.0,15,France
+705,7563,99.0,60.0,Off T,0.01930463,Ousmane Dembélé,120.0,33.3,0.0,32,France
+706,7563,101.0,60.0,Saved,0.022061318,Antoine Griezmann,119.0,41.1,1.6,38,France
+707,7563,96.0,59.0,Off T,0.017132025,Ousmane Dembélé,120.0,39.3,6.4,44,France
+708,7563,95.0,51.0,Blocked,0.021827467,Christian Dannemann Eriksen,100.0,52.0,,46,France
+709,7563,92.0,53.0,Saved,0.019036772,Antoine Griezmann,119.0,43.8,0.5,50,France
+710,7563,81.0,44.0,Saved,0.013570355,Christian Dannemann Eriksen,119.0,38.9,0.8,53,Denmark
+711,7563,92.0,40.0,Blocked,0.019419203,Thomas Lemar,97.0,40.0,,54,France
+712,7563,101.0,37.0,Off T,0.055120472,Christian Dannemann Eriksen,120.0,34.4,0.4,58,Denmark
+713,7563,91.0,33.0,Blocked,0.011638669,Viktor Fischer,111.0,35.0,,62,Denmark
+714,7563,104.0,66.0,Blocked,0.049732562,Henrik Dalsgaard,113.0,49.0,,65,Denmark
+715,7563,101.0,19.0,Off T,0.021375544,Nabil Fekir,120.0,35.4,2.5,69,France
+716,7563,108.0,33.0,Off T,0.029429538,Olivier Giroud,120.0,49.1,0.2,73,France
+717,7563,102.0,54.0,Off T,0.020864442,Olivier Giroud,120.0,36.6,7.0,78,France
+718,7563,96.0,49.0,Saved,0.03509047,Nabil Fekir,117.0,37.0,0.5,81,France
+719,7578,97.0,32.0,Saved,0.04182366,Edinson Roberto Cavani Gómez,119.0,37.0,0.5,7,Uruguay
+720,7578,108.0,51.0,Saved,0.046797737,Mahmoud Ibrahim Hassan,118.0,43.8,0.9,11,Egypt
+721,7578,109.0,55.0,Off T,0.036742505,Luis Alberto Suárez Díaz,120.0,46.0,2.4,13,Uruguay
+722,7578,102.0,23.0,Blocked,0.030806087,Edinson Roberto Cavani Gómez,111.0,33.0,,22,Uruguay
+723,7578,114.0,48.0,Wayward,0.043546356,José Martín Cáceres Silva,114.0,41.0,,23,Uruguay
+724,7578,116.0,35.0,Off T,0.22964665,Luis Alberto Suárez Díaz,120.0,35.4,0.9,23,Uruguay
+725,7578,100.0,51.0,Saved,0.032293756,Marwan Mohsen,118.0,38.5,0.5,25,Egypt
+726,7578,83.0,53.0,Off T,0.00846865,Matías Vecino Falero,120.0,34.8,0.5,28,Uruguay
+727,7578,88.0,38.0,Blocked,0.040235694,Luis Alberto Suárez Díaz,97.0,37.0,,31,Uruguay
+728,7578,105.0,48.0,Wayward,0.07167304,Abdalla Mahmoud El Said Bekhit,107.0,46.0,,42,Egypt
+729,7578,88.0,37.0,Blocked,0.014404537,Tarek Hamed,95.0,38.0,,45,Egypt
+730,7578,114.0,48.0,Saved,0.19446543,Luis Alberto Suárez Díaz,117.0,42.8,1.2,45,Uruguay
+731,7578,92.0,19.0,Off T,0.009394831,Mahmoud Ibrahim Hassan,120.0,32.5,0.5,55,Egypt
+732,7578,94.0,50.0,Blocked,0.027889334,Carlos Andrés Sánchez Arcosa,107.0,46.0,,67,Uruguay
+733,7578,108.0,49.0,Blocked,0.031184042,Edinson Roberto Cavani Gómez,112.0,46.0,,69,Uruguay
+734,7578,98.0,62.0,Saved,0.014327607,Ahmed Fathy Abdel Meneim Ibrahim,118.0,41.1,1.4,71,Egypt
+735,7578,105.0,52.0,Blocked,0.08690245,Mohamed Naser Elsayed Elneny,107.0,49.0,,80,Egypt
+736,7578,99.0,34.0,Saved,0.04720993,Edinson Roberto Cavani Gómez,118.0,42.8,1.5,82,Uruguay
+737,7578,112.0,44.0,Off T,0.04223481,José María Giménez de Vargas,120.0,46.7,3.4,82,Uruguay
+738,7578,112.0,36.0,Blocked,0.09001233,José María Giménez de Vargas,113.0,36.0,,84,Uruguay
+739,7578,98.0,21.0,Post,0.037500657,Edinson Roberto Cavani Gómez,119.0,44.4,1.7,87,Uruguay
+740,7578,110.0,38.0,Blocked,0.21145166,José Martín Cáceres Silva,113.0,36.0,,87,Uruguay
+741,7578,113.0,37.0,Goal,0.09082896,José María Giménez de Vargas,119.0,43.6,2.0,88,Uruguay
+742,7578,104.0,56.0,Blocked,0.024087483,Mohamed Naser Elsayed Elneny,113.0,46.0,,94,Egypt
+743,7531,96.0,53.0,Off T,0.01601957,Gylfi Þór Sigurðsson,120.0,46.7,0.1,0,Iceland
+744,7531,111.0,43.0,Off T,0.12949876,Nicolás Hernán Otamendi,120.0,46.1,0.8,4,Argentina
+745,7531,105.0,45.0,Off T,0.021005532,Nicolás Alejandro Tagliafico,120.0,35.4,1.3,7,Argentina
+746,7531,115.0,57.0,Off T,0.049077753,Alfreð Finnbogason,120.0,44.4,4.0,8,Iceland
+747,7531,100.0,54.0,Blocked,0.039541468,Johann Berg Guðmunds­son,105.0,49.0,,8,Iceland
+748,7531,107.0,32.0,Off T,0.1407982,Birkir Bjarnason,120.0,35.0,0.2,8,Iceland
+749,7531,86.0,50.0,Off T,0.01826074,Nicolás Hernán Otamendi,120.0,36.2,4.1,12,Argentina
+750,7531,97.0,49.0,Saved,0.038232766,Lionel Andrés Messi Cuccittini,117.0,37.4,1.9,16,Argentina
+751,7531,90.0,23.0,Blocked,0.016512085,Faustino Marcos Alberto Rojo,108.0,38.0,,18,Argentina
+752,7531,106.0,37.0,Goal,0.10734366,Sergio Leonel Agüero del Castillo,119.0,36.4,2.3,18,Argentina
+753,7531,96.0,26.0,Saved,0.0138822915,Lionel Andrés Messi Cuccittini,118.0,36.4,1.4,20,Argentina
+754,7531,114.0,40.0,Wayward,0.29489112,Alfreð Finnbogason,107.0,21.0,,22,Iceland
+755,7531,113.0,39.0,Goal,0.3489753,Alfreð Finnbogason,120.0,40.3,0.5,22,Iceland
+756,7531,111.0,34.0,Blocked,0.0339513,Nicolás Alejandro Tagliafico,112.0,34.0,,26,Argentina
+757,7531,109.0,35.0,Saved,0.022110928,Nicolás Hernán Otamendi,119.0,38.5,1.9,27,Argentina
+758,7531,95.0,31.0,Off T,0.03413814,Lucas Rodrigo Biglia,120.0,44.2,4.1,32,Argentina
+759,7531,111.0,22.0,Blocked,0.019061089,Lionel Andrés Messi Cuccittini,113.0,24.0,,38,Argentina
+760,7531,116.0,48.0,Off T,0.05296468,Lucas Rodrigo Biglia,120.0,39.9,5.0,41,Argentina
+761,7531,111.0,26.0,Saved,0.031305786,Gylfi Þór Sigurðsson,119.0,41.5,0.3,44,Iceland
+762,7531,102.0,29.0,Off T,0.03900825,Gylfi Þór Sigurðsson,120.0,33.7,0.3,45,Iceland
+763,7531,113.0,44.0,Off T,0.056224994,Nicolás Hernán Otamendi,120.0,36.8,3.9,47,Argentina
+764,7531,118.0,24.0,Blocked,0.025932232,Gylfi Þór Sigurðsson,118.0,28.0,,49,Iceland
+765,7531,111.0,49.0,Blocked,0.079980224,Sergio Leonel Agüero del Castillo,114.0,49.0,,55,Argentina
+766,7531,107.0,55.0,Blocked,0.02577623,Sergio Leonel Agüero del Castillo,109.0,51.0,,56,Argentina
+767,7531,101.0,37.0,Blocked,0.043737683,Éver Maximiliano David Banega,101.0,37.0,,58,Argentina
+768,7531,109.0,41.0,Saved,0.76,Lionel Andrés Messi Cuccittini,119.0,38.3,1.3,63,Argentina
+769,7531,105.0,58.0,Blocked,0.012402781,Lionel Andrés Messi Cuccittini,111.0,49.0,,63,Argentina
+770,7531,92.0,58.0,Off T,0.02566701,Lionel Andrés Messi Cuccittini,120.0,45.4,3.5,65,Argentina
+771,7531,100.0,53.0,Blocked,0.032266922,Eduardo Antonio Salvio,103.0,47.0,,69,Argentina
+772,7531,97.0,20.0,Saved,0.013225068,Éver Maximiliano David Banega,118.0,40.3,0.6,70,Argentina
+773,7531,92.0,61.0,Blocked,0.027346984,Lionel Andrés Messi Cuccittini,101.0,53.0,,72,Argentina
+774,7531,97.0,44.0,Off T,0.04186173,Lionel Andrés Messi Cuccittini,120.0,34.8,1.3,80,Argentina
+775,7531,100.0,27.0,Blocked,0.030620873,Cristian David Pavón,103.0,26.0,,82,Argentina
+776,7531,98.0,44.0,Blocked,0.040901918,Lionel Andrés Messi Cuccittini,104.0,43.0,,83,Argentina
+777,7531,95.0,55.0,Saved,0.015573943,Javier Alejandro Mascherano,119.0,42.6,0.9,87,Argentina
+778,7531,105.0,52.0,Off T,0.032571137,Lionel Andrés Messi Cuccittini,120.0,43.2,3.1,91,Argentina
+779,7531,90.0,36.0,Blocked,0.057363074,Lionel Andrés Messi Cuccittini,101.0,34.0,,94,Argentina
+780,7582,91.0,21.0,Blocked,0.011975838,Yuri Zhirkov,96.0,23.0,,4,Russia
+781,7582,96.0,52.0,Off T,0.026616063,Roman Zobnin,120.0,45.8,2.4,13,Russia
+782,7582,104.0,31.0,Off T,0.100031435,Aleksandr Golovin,120.0,45.8,2.2,35,Russia
+783,7582,110.0,33.0,Blocked,0.04631503,Artem Dzyuba,114.0,32.0,,39,Russia
+784,7582,108.0,40.0,Goal,0.76,Artem Dzyuba,120.0,43.0,1.7,40,Russia
+785,7582,100.0,27.0,Blocked,0.032987177,Francisco Román Alarcón Suárez,113.0,39.0,,44,Spain
+786,7582,117.0,51.0,Saved,0.109059714,Diego da Silva Costa,118.0,44.0,0.3,45,Spain
+787,7582,113.0,47.0,Saved,0.058154747,Diego da Silva Costa,119.0,44.0,0.2,45,Spain
+788,7582,111.0,47.0,Wayward,0.10658861,Marco Asensio Willemsen,112.0,48.0,,46,Spain
+789,7582,110.0,34.0,Saved,0.12469785,Jordi Alba Ramos,118.0,42.6,0.2,46,Spain
+790,7582,109.0,34.0,Off T,0.02583438,Diego da Silva Costa,120.0,46.3,4.0,50,Spain
+791,7582,97.0,33.0,Wayward,0.035293642,Sergio Busquets i Burgos,109.0,27.0,,52,Spain
+792,7582,111.0,46.0,Off T,0.05723268,David Josué Jiménez Silva,120.0,33.5,0.6,59,Spain
+793,7582,109.0,41.0,Blocked,0.056402013,Sergio Busquets i Burgos,112.0,38.0,,81,Spain
+794,7582,99.0,34.0,Saved,0.04516173,Andrés Iniesta Luján,119.0,36.4,0.1,84,Spain
+795,7582,115.0,26.0,Saved,0.05273649,Iago Aspas Juncal,117.0,37.2,0.2,84,Spain
+796,7582,112.0,35.0,Off T,0.026559493,Gerard Piqué Bernabéu,120.0,34.0,3.8,88,Spain
+797,7582,112.0,42.0,Off T,0.060633704,Sergio Ramos García,120.0,38.1,3.8,89,Spain
+798,7582,104.0,24.0,Blocked,0.033167183,Fyodor Smolov,111.0,39.0,,92,Russia
+799,7582,112.0,39.0,Off T,0.1822118,Denis Cheryshev,120.0,45.8,2.4,92,Russia
+800,7582,95.0,26.0,Blocked,0.020759596,Jordi Alba Ramos,100.0,23.0,,92,Spain
+801,7582,84.0,40.0,Off T,0.008991639,Jorge Resurrección Merodio,84.0,40.1,4.1,96,Spain
+802,7582,97.0,32.0,Saved,0.028827675,Marco Asensio Willemsen,120.0,40.3,0.2,99,Spain
+803,7582,106.0,27.0,Blocked,0.051986877,Iago Aspas Juncal,106.0,24.0,,101,Spain
+804,7582,108.0,40.0,Saved,0.052524343,Gerard Piqué Bernabéu,107.0,43.2,0.2,105,Spain
+805,7582,99.0,33.0,Blocked,0.04410862,Andrés Iniesta Luján,103.0,31.0,,106,Spain
+806,7582,114.0,54.0,Saved,0.065044984,Rodrigo Moreno Machado,117.0,43.8,0.2,108,Spain
+807,7582,108.0,42.0,Blocked,0.122587204,Daniel Carvajal Ramos,113.0,41.0,,108,Spain
+808,7582,101.0,44.0,Off T,0.076937445,Rodrigo Moreno Machado,120.0,34.2,4.1,108,Spain
+809,7582,108.0,59.0,Blocked,0.019856269,Gerard Piqué Bernabéu,113.0,50.0,,111,Spain
+810,7582,113.0,45.0,Blocked,0.081559144,Aleksandr Erokhin,114.0,44.0,,116,Russia
+811,7582,99.0,35.0,Saved,0.09485871,Rodrigo Moreno Machado,117.0,38.0,0.3,120,Spain
+812,7582,109.0,41.0,Goal,0.76,Andrés Iniesta Luján,120.0,42.0,1.6,120,Spain
+813,7582,109.0,41.0,Goal,0.76,Fyodor Smolov,120.0,37.4,1.2,120,Russia
+814,7582,109.0,41.0,Goal,0.76,Gerard Piqué Bernabéu,120.0,36.2,1.1,121,Spain
+815,7582,109.0,41.0,Goal,0.76,Sergei Ignashevich,120.0,43.4,1.6,122,Russia
+816,7582,109.0,41.0,Saved,0.76,Jorge Resurrección Merodio,120.0,37.8,0.6,122,Spain
+817,7582,109.0,41.0,Goal,0.76,Aleksandr Golovin,120.0,38.5,0.2,123,Russia
+818,7582,109.0,41.0,Goal,0.76,Sergio Ramos García,120.0,37.8,1.6,124,Spain
+819,7582,109.0,41.0,Goal,0.76,Denis Cheryshev,120.0,40.5,1.3,124,Russia
+820,7582,109.0,41.0,Saved,0.76,Iago Aspas Juncal,119.0,39.1,0.9,125,Spain
+821,7552,100.0,51.0,Saved,0.030079601,Thomas Meunier,120.0,43.6,0.2,2,Belgium
+822,7552,108.0,40.0,Goal,0.76,Eden Hazard,120.0,37.0,0.0,6,Belgium
+823,7552,109.0,24.0,Blocked,0.049662188,Axel Witsel,111.0,28.0,,11,Belgium
+824,7552,110.0,44.0,Saved,0.24408586,Eden Hazard,119.0,43.6,0.4,12,Belgium
+825,7552,101.0,21.0,Saved,0.018060315,Yannick Ferreira Carrasco,119.0,37.4,0.9,14,Belgium
+826,7552,104.0,33.0,Goal,0.23132385,Romelu Lukaku Menama,120.0,44.0,0.0,15,Belgium
+827,7552,112.0,41.0,Goal,0.1351952,Dylan Bronn,120.0,43.4,1.3,17,Tunisia
+828,7552,107.0,33.0,Saved,0.09233936,Yannick Ferreira Carrasco,119.0,43.2,0.6,18,Belgium
+829,7552,102.0,56.0,Off T,0.02820845,Toby Alderweireld,120.0,34.6,0.2,20,Belgium
+830,7552,100.0,34.0,Blocked,0.091529965,Axel Witsel,104.0,36.0,,27,Belgium
+831,7552,106.0,69.0,Off T,0.06366108,Wahbi Khazri,120.0,40.5,4.4,29,Tunisia
+832,7552,101.0,45.0,Off T,0.09220893,Ferjani Sassi,120.0,34.4,0.2,30,Tunisia
+833,7552,88.0,26.0,Saved,0.017847752,Wahbi Khazri,118.0,41.9,2.4,32,Tunisia
+834,7552,96.0,37.0,Off T,0.034719113,Fakhreddine Ben Youssef,120.0,45.6,2.3,38,Tunisia
+835,7552,117.0,27.0,Blocked,0.027620574,Saîf-Eddine Khaoui,117.0,29.0,,41,Tunisia
+836,7552,112.0,45.0,Goal,0.5764766,Romelu Lukaku Menama,120.0,40.3,0.2,47,Belgium
+837,7552,115.0,48.0,Off T,0.06055075,Toby Alderweireld,120.0,44.8,4.0,46,Belgium
+838,7552,113.0,44.0,Wayward,0.2933327,Wahbi Khazri,109.0,80.0,,49,Tunisia
+839,7552,99.0,24.0,Saved,0.03409846,Anice Badri,117.0,37.6,0.0,49,Tunisia
+840,7552,109.0,38.0,Goal,0.78923815,Eden Hazard,120.0,37.6,1.3,50,Belgium
+841,7552,112.0,37.0,Wayward,0.13028686,Fakhreddine Ben Youssef,118.0,22.0,,53,Tunisia
+842,7552,94.0,55.0,Off T,0.022455232,Ferjani Sassi,120.0,34.2,1.2,55,Tunisia
+843,7552,109.0,42.0,Wayward,0.117948756,Anice Badri,109.0,51.0,,60,Tunisia
+844,7552,102.0,29.0,Off T,0.041763276,Yannick Ferreira Carrasco,120.0,45.0,2.1,60,Belgium
+845,7552,97.0,30.0,Off T,0.037141927,Eden Hazard,120.0,44.6,5.6,63,Belgium
+846,7552,101.0,16.0,Blocked,0.036777098,Wahbi Khazri,112.0,34.0,,65,Tunisia
+847,7552,101.0,45.0,Blocked,0.08310661,Naïm Sliti,106.0,45.0,,65,Tunisia
+848,7552,100.0,30.0,Saved,0.1010899,Anice Badri,115.0,40.1,0.5,66,Tunisia
+849,7552,93.0,41.0,Wayward,0.013837011,Saîf-Eddine Khaoui,120.0,35.0,,69,Tunisia
+850,7552,114.0,29.0,Blocked,0.7316597,Michy Batshuayi Tunga,119.0,41.0,,75,Belgium
+851,7552,104.0,23.0,Saved,0.028426154,Yannick Ferreira Carrasco,120.0,40.1,0.4,78,Belgium
+852,7552,114.0,39.0,Post,0.63307166,Michy Batshuayi Tunga,120.0,36.8,2.7,79,Belgium
+853,7552,108.0,58.0,Off T,0.02469672,Thomas Meunier,120.0,40.7,3.5,79,Belgium
+854,7552,113.0,39.0,Saved,0.3214559,Michy Batshuayi Tunga,119.0,39.9,1.4,80,Belgium
+855,7552,113.0,54.0,Blocked,0.087478675,Michy Batshuayi Tunga,115.0,51.0,,80,Belgium
+856,7552,94.0,56.0,Off T,0.010292118,Axel Witsel,120.0,38.0,5.2,81,Belgium
+857,7552,113.0,35.0,Goal,0.16502693,Michy Batshuayi Tunga,120.0,43.6,0.1,89,Belgium
+858,7552,63.0,42.0,Off T,0.011951736,Wahbi Khazri,120.0,40.1,4.4,90,Tunisia
+859,7552,103.0,37.0,Off T,0.21442711,Michy Batshuayi Tunga,120.0,45.4,0.4,91,Belgium
+860,7552,111.0,44.0,Goal,0.27132893,Wahbi Khazri,120.0,36.8,0.5,92,Tunisia
+861,7532,87.0,57.0,Off T,0.010184587,Luis Jan Piers Advíncula Castrillón,120.0,49.1,7.7,4,Peru
+862,7532,84.0,24.0,Saved,0.009402218,Víctor Yoshimar Yotún Flores,118.0,37.4,1.3,7,Peru
+863,7532,87.0,41.0,Off T,0.01631135,Édison Michael Flores Peralta,120.0,45.8,3.9,10,Peru
+864,7532,103.0,58.0,Saved,0.024568832,André Martín Carrillo Díaz,115.0,37.0,0.9,12,Peru
+865,7532,86.0,43.0,Blocked,0.011179907,Renato Fabrizio Tapia Cortijo,98.0,40.0,,13,Peru
+866,7532,107.0,37.0,Wayward,0.014436409,Alberto Junior Rodríguez Valdelomar,120.0,64.0,,14,Peru
+867,7532,113.0,26.0,Blocked,0.03826663,Pione Sisto Ifolo Emirmija,113.0,28.0,,19,Denmark
+868,7532,88.0,36.0,Off T,0.019103376,Thomas Delaney,101.0,38.0,3.8,26,Denmark
+869,7532,108.0,51.0,Blocked,0.103540614,Jefferson Agustín Farfán Guadalupe,111.0,50.0,,28,Peru
+870,7532,100.0,52.0,Blocked,0.08701279,Christian Dannemann Eriksen,109.0,46.0,,38,Denmark
+871,7532,94.0,43.0,Saved,0.016224092,Lasse Schöne,119.0,41.5,1.4,38,Denmark
+872,7532,102.0,24.0,Off T,0.028146343,Thomas Delaney,120.0,47.3,0.1,40,Denmark
+873,7532,108.0,40.0,Off T,0.76,Christian Alberto Cueva Bravo,120.0,40.1,4.1,45,Peru
+874,7532,115.0,45.0,Off T,0.091306984,Yussuf Yurary Poulsen,120.0,32.9,0.2,46,Denmark
+875,7532,110.0,60.0,Blocked,0.015112563,Jefferson Agustín Farfán Guadalupe,111.0,57.0,,49,Peru
+876,7532,90.0,36.0,Off T,0.008607886,Jens Stryger Larsen,120.0,42.8,6.3,50,Denmark
+877,7532,103.0,59.0,Off T,0.011762356,Christian Dannemann Eriksen,120.0,45.6,0.5,52,Denmark
+878,7532,114.0,50.0,Off T,0.1934625,Édison Michael Flores Peralta,120.0,45.8,0.2,56,Peru
+879,7532,108.0,28.0,Goal,0.2005442,Yussuf Yurary Poulsen,120.0,37.0,0.5,58,Denmark
+880,7532,108.0,29.0,Saved,0.12927915,Édison Michael Flores Peralta,120.0,40.7,1.0,60,Peru
+881,7532,113.0,41.0,Saved,0.12837866,José Paolo Guerrero González,120.0,41.5,0.9,63,Peru
+882,7532,113.0,50.0,Off T,0.03474779,Alberto Junior Rodríguez Valdelomar,120.0,35.2,0.4,68,Peru
+883,7532,109.0,59.0,Saved,0.0214674,Luis Jan Piers Advíncula Castrillón,118.0,43.6,1.6,72,Peru
+884,7532,112.0,40.0,Off T,0.089640394,José Paolo Guerrero González,120.0,44.8,0.2,78,Peru
+885,7532,104.0,49.0,Blocked,0.1351464,Nicolai Jørgensen,112.0,42.0,,81,Denmark
+886,7532,108.0,43.0,Saved,0.18401816,Jefferson Agustín Farfán Guadalupe,119.0,42.2,0.6,83,Peru
+887,7532,105.0,32.0,Saved,0.28883302,Christian Dannemann Eriksen,110.0,42.6,1.3,85,Denmark
+888,7532,112.0,41.0,Wayward,0.08511509,José Paolo Guerrero González,111.0,48.0,,94,Peru
+889,7544,101.0,30.0,Blocked,0.056073762,Luis Alberto Suárez Díaz,106.0,32.0,,1,Uruguay
+890,7544,93.0,31.0,Blocked,0.059942707,Mohammed Al Burayk,102.0,31.0,,7,Saudi Arabia
+891,7544,110.0,34.0,Off T,0.09240133,Edinson Roberto Cavani Gómez,120.0,35.0,3.0,12,Uruguay
+892,7544,119.0,53.0,Off T,0.033094108,Luis Alberto Suárez Díaz,120.0,44.8,1.6,14,Uruguay
+893,7544,111.0,57.0,Off T,0.023366477,Fahad Mosaed Al Muwallad Al Harbi,120.0,45.2,2.4,20,Saudi Arabia
+894,7544,114.0,43.0,Goal,0.34651524,Luis Alberto Suárez Díaz,120.0,43.6,1.1,22,Uruguay
+895,7544,110.0,52.0,Blocked,0.14339069,Edinson Roberto Cavani Gómez,112.0,52.0,,24,Uruguay
+896,7544,96.0,58.0,Saved,0.019066188,Hattan Babhir,119.0,42.0,2.3,25,Saudi Arabia
+897,7544,112.0,49.0,Off T,0.059631865,Hattan Babhir,120.0,43.8,3.8,28,Saudi Arabia
+898,7544,83.0,40.0,Off T,0.01168076,Salem Mohammed Al Dawsari,120.0,34.6,7.6,37,Saudi Arabia
+899,7544,87.0,42.0,Saved,0.023609823,Luis Alberto Suárez Díaz,118.0,43.6,1.0,50,Uruguay
+900,7544,112.0,47.0,Off T,0.18843523,Carlos Andrés Sánchez Arcosa,120.0,37.8,3.8,61,Uruguay
+901,7544,105.0,59.0,Blocked,0.012183662,Luis Alberto Suárez Díaz,107.0,53.0,,63,Uruguay
+902,7544,114.0,43.0,Off T,0.110546805,José Martín Cáceres Silva,120.0,44.2,3.8,67,Uruguay
+903,7544,112.0,34.0,Blocked,0.07497856,José Martín Cáceres Silva,115.0,37.0,,76,Uruguay
+904,7544,92.0,40.0,Blocked,0.018949896,Lucas Torreira Di Pascua,105.0,45.0,,79,Uruguay
+905,7544,105.0,45.0,Off T,0.04168759,Edinson Roberto Cavani Gómez,120.0,34.4,2.1,79,Uruguay
+906,7544,104.0,41.0,Saved,0.33663368,Edinson Roberto Cavani Gómez,110.0,41.9,0.2,85,Saudi Arabia
+907,7544,102.0,40.0,Wayward,0.062890865,Luis Alberto Suárez Díaz,120.0,62.0,,88,Uruguay
+908,7544,94.0,21.0,Blocked,0.014587843,Yasir Gharsan Al Shahrani,97.0,22.0,,89,Saudi Arabia
+909,7544,111.0,47.0,Saved,0.036899474,Mohammed Kanoo,118.0,43.4,1.6,89,Saudi Arabia
+910,7544,98.0,24.0,Blocked,0.03362304,Yasir Gharsan Al Shahrani,106.0,30.0,,90,Saudi Arabia
+911,7553,112.0,41.0,Wayward,0.08131194,Edson Omar Álvarez Velázquez,89.0,41.0,,7,Mexico
+912,7553,107.0,45.0,Off T,0.022343852,Javier Hernández Balcázar,120.0,34.4,0.1,11,Mexico
+913,7553,111.0,49.0,Saved,0.016294168,Carlos Joel Salcedo Hernández,120.0,44.0,2.2,16,Mexico
+914,7553,109.0,51.0,Blocked,0.076773115,Heung-Min Son,112.0,46.0,,21,South Korea
+915,7553,111.0,49.0,Blocked,0.15338257,Heung-Min Son,112.0,48.0,,21,South Korea
+916,7553,98.0,49.0,Blocked,0.036926463,Heung-Min Son,108.0,46.0,,21,South Korea
+917,7553,109.0,44.0,Saved,0.03297988,Sung-Yeung Ki,119.0,40.9,2.4,22,South Korea
+918,7553,109.0,41.0,Goal,0.76,Carlos Alberto Vela Garrido,120.0,41.5,1.8,25,Mexico
+919,7553,105.0,42.0,Saved,0.12131017,Miguel Arturo Layún Prado,119.0,39.1,2.4,27,Mexico
+920,7553,87.0,41.0,Off T,0.046977233,Heung-Min Son,120.0,40.3,4.1,30,South Korea
+921,7553,118.0,30.0,Saved,0.05557566,Heung-Min Son,118.0,36.6,0.5,38,South Korea
+922,7553,108.0,26.0,Off T,0.058653574,Hirving Rodrigo Lozano Bahena,120.0,41.9,4.8,42,Mexico
+923,7553,94.0,48.0,Blocked,0.018871136,Seon-Min Moon,98.0,50.0,,44,South Korea
+924,7553,99.0,32.0,Blocked,0.04888812,Heung-Min Son,102.0,32.0,,44,South Korea
+925,7553,100.0,28.0,Off T,0.047700748,Hirving Rodrigo Lozano Bahena,120.0,40.9,4.7,49,Mexico
+926,7553,90.0,46.0,Off T,0.044901174,Javier Hernández Balcázar,120.0,38.3,4.7,51,Mexico
+927,7553,110.0,47.0,Blocked,0.109867536,Seon-Min Moon,111.0,49.0,,51,South Korea
+928,7553,105.0,68.0,Saved,0.039947994,Jae-Sung Lee,119.0,43.8,0.5,52,South Korea
+929,7553,103.0,18.0,Saved,0.015464206,Sung-Yeung Ki,119.0,39.1,1.4,55,South Korea
+930,7553,96.0,46.0,Blocked,0.04579644,José Andrés Guardado Hernández,108.0,34.0,,57,Mexico
+931,7553,104.0,36.0,Saved,0.088599935,José Andrés Guardado Hernández,118.0,37.2,1.6,57,Mexico
+932,7553,100.0,39.0,Blocked,0.28260243,Hirving Rodrigo Lozano Bahena,104.0,40.0,,59,Mexico
+933,7553,104.0,38.0,Blocked,0.073453434,Jae-Sung Lee,113.0,39.0,,60,South Korea
+934,7553,101.0,58.0,Off T,0.015128958,Carlos Alberto Vela Garrido,120.0,36.6,3.4,61,Mexico
+935,7553,111.0,32.0,Goal,0.2427933,Javier Hernández Balcázar,120.0,38.3,0.1,65,Mexico
+936,7553,99.0,40.0,Saved,0.034576014,Hee-Chan Hwang,119.0,37.6,0.6,69,South Korea
+937,7553,88.0,52.0,Blocked,0.013170066,Sung-Yeung Ki,103.0,45.0,,73,South Korea
+938,7553,95.0,49.0,Blocked,0.01985081,Jae-Sung Lee,97.0,48.0,,81,South Korea
+939,7553,94.0,40.0,Off T,0.028156519,Heung-Min Son,120.0,42.4,7.0,87,South Korea
+940,7553,96.0,47.0,Off T,0.013422709,Héctor Miguel Herrera López,120.0,37.4,7.6,91,Mexico
+941,7553,97.0,54.0,Goal,0.02432912,Heung-Min Son,120.0,36.2,1.4,92,South Korea
+942,7560,107.0,45.0,Goal,0.5165252,Khalid Boutaïb,120.0,39.9,0.4,13,Spain
+943,7560,97.0,27.0,Off T,0.023178833,Andrés Iniesta Luján,120.0,34.0,6.7,17,Spain
+944,7560,114.0,38.0,Goal,0.43235505,Francisco Román Alarcón Suárez,120.0,37.4,2.0,18,Spain
+945,7560,112.0,45.0,Saved,0.021008661,Gerard Piqué Bernabéu,119.0,43.8,1.6,22,Spain
+946,7560,102.0,34.0,Blocked,0.074768975,Andrés Iniesta Luján,106.0,33.0,,23,Spain
+947,7560,114.0,34.0,Saved,0.27674928,Khalid Boutaïb,116.0,38.3,1.0,24,Morocco
+948,7560,106.0,31.0,Wayward,0.18203473,Diego da Silva Costa,107.0,37.0,,26,Spain
+949,7560,112.0,38.0,Off T,0.11132133,Sergio Busquets i Burgos,120.0,38.7,5.6,36,Spain
+950,7560,94.0,30.0,Off T,0.026024703,Hakim Ziyech,120.0,42.8,3.5,42,Morocco
+951,7560,116.0,37.0,Wayward,0.4616971,Diego da Silva Costa,118.0,51.0,,46,Spain
+952,7560,117.0,50.0,Off T,0.046095222,Mbark Boussoufa,120.0,46.7,0.6,46,Morocco
+953,7560,99.0,43.0,Wayward,0.04058046,Francisco Román Alarcón Suárez,108.0,37.0,,51,Spain
+954,7560,97.0,60.0,Post,0.016238071,Nordin Amrabat,120.0,36.2,2.7,54,Morocco
+955,7560,87.0,53.0,Off T,0.015974728,Gerard Piqué Bernabéu,120.0,36.6,7.4,55,Spain
+956,7560,110.0,52.0,Wayward,0.058924574,Nabil Dirar,120.0,52.0,,56,Morocco
+957,7560,106.0,51.0,Wayward,0.097458236,Thiago Alcântara do Nascimento,117.0,27.0,,58,Spain
+958,7560,115.0,37.0,Blocked,0.095473155,Francisco Román Alarcón Suárez,119.0,43.0,,61,Spain
+959,7560,111.0,40.0,Off T,0.029763825,Gerard Piqué Bernabéu,120.0,34.6,0.9,62,Spain
+960,7560,110.0,52.0,Wayward,0.0920217,David Josué Jiménez Silva,115.0,45.0,,66,Spain
+961,7560,101.0,31.0,Off T,0.03558211,Thiago Alcântara do Nascimento,120.0,48.3,7.4,68,Spain
+962,7560,88.0,27.0,Off T,0.011122805,Sergio Ramos García,120.0,46.7,7.4,77,Spain
+963,7560,112.0,50.0,Blocked,0.0762503,Hakim Ziyech,114.0,47.0,,79,Morocco
+964,7560,110.0,40.0,Goal,0.041208725,Youssef En-Nesyri,120.0,43.4,1.8,80,Morocco
+965,7560,113.0,41.0,Wayward,0.13499251,Rodrigo Moreno Machado,119.0,57.0,,85,Spain
+966,7560,114.0,34.0,Off T,0.10094765,Marco Asensio Willemsen,120.0,33.1,2.2,86,Spain
+967,7560,116.0,44.0,Goal,0.33850184,Iago Aspas Juncal,120.0,37.0,1.6,90,Spain
+968,7533,109.0,44.0,Off T,0.22356124,Blerim Džemaili,120.0,43.2,3.5,2,Switzerland
+969,7533,115.0,36.0,Off T,0.48552924,José Paulo Bezzera Maciel Júnior,120.0,45.4,0.5,10,Brazil
+970,7533,91.0,35.0,Blocked,0.037217073,Neymar da Silva Santos Junior,102.0,38.0,,15,Brazil
+971,7533,99.0,21.0,Goal,0.016841125,Philippe Coutinho Correia,120.0,44.0,2.1,19,Brazil
+972,7533,115.0,57.0,Wayward,0.009949872,Stephan Lichtsteiner,116.0,60.0,,27,Switzerland
+973,7533,116.0,44.0,Wayward,0.31536713,Gabriel Fernando de Jesus,119.0,15.0,,32,Brazil
+974,7533,105.0,26.0,Blocked,0.056690484,Steven Zuber,107.0,31.0,,39,Switzerland
+975,7533,116.0,32.0,Off T,0.06602788,Thiago Emiliano da Silva,120.0,42.8,3.8,46,Brazil
+976,7533,88.0,23.0,Off T,0.014396477,Blerim Džemaili,120.0,45.8,0.9,45,Switzerland
+977,7533,116.0,41.0,Goal,0.18957695,Steven Zuber,120.0,41.9,2.5,49,Switzerland
+978,7533,97.0,33.0,Blocked,0.030247035,Philippe Coutinho Correia,109.0,37.0,,56,Brazil
+979,7533,104.0,36.0,Blocked,0.04241197,Philippe Coutinho Correia,105.0,35.0,,56,Brazil
+980,7533,116.0,30.0,Blocked,0.06680265,Neymar da Silva Santos Junior,116.0,30.0,,56,Brazil
+981,7533,110.0,43.0,Wayward,0.03988827,Thiago Emiliano da Silva,108.0,48.0,,58,Brazil
+982,7533,89.0,36.0,Off T,0.020881243,Carlos Henrique Casimiro,120.0,44.0,3.9,58,Brazil
+983,7533,94.0,41.0,Blocked,0.022049388,Fernando Luiz Rosa,108.0,37.0,,65,Brazil
+984,7533,101.0,51.0,Blocked,0.02408877,Willian Borges da Silva,105.0,43.0,,66,Brazil
+985,7533,100.0,57.0,Off T,0.029247304,Willian Borges da Silva,120.0,36.8,6.3,66,Brazil
+986,7533,108.0,32.0,Off T,0.08430531,Philippe Coutinho Correia,120.0,46.9,0.2,69,Brazil
+987,7533,100.0,42.0,Saved,0.042691715,Blerim Džemaili,118.0,38.0,0.2,72,Switzerland
+988,7533,92.0,52.0,Off T,0.021299455,Fernando Luiz Rosa,120.0,43.8,5.0,76,Brazil
+989,7533,96.0,21.0,Saved,0.011018849,Neymar da Silva Santos Junior,120.0,36.2,0.5,77,Brazil
+990,7533,114.0,54.0,Off T,0.047524527,Roberto Firmino Barbosa de Oliveira,120.0,44.6,3.5,81,Brazil
+991,7533,109.0,38.0,Saved,0.041996527,Neymar da Silva Santos Junior,120.0,39.5,0.9,87,Brazil
+992,7533,99.0,51.0,Off T,0.028034005,Xherdan Shaqiri,120.0,34.0,2.7,88,Brazil
+993,7533,112.0,40.0,Saved,0.16043134,Roberto Firmino Barbosa de Oliveira,120.0,37.8,0.6,89,Brazil
+994,7533,105.0,40.0,Off T,0.03471637,João Miranda de Souza Filho,120.0,34.6,0.5,90,Brazil
+995,7533,115.0,32.0,Blocked,0.092274606,Renato Soares de Oliveira Augusto,119.0,39.0,,95,Brazil
+996,7564,98.0,38.0,Blocked,0.07800732,Oghenekaro Etebo,100.0,38.0,,6,Nigeria
+997,7564,105.0,28.0,Off T,0.06816482,Nicolás Alejandro Tagliafico,120.0,34.4,2.3,7,Argentina
+998,7564,97.0,24.0,Off T,0.01904901,Ahmed Musa,120.0,44.6,3.6,8,Nigeria
+999,7564,112.0,50.0,Goal,0.14291523,Lionel Andrés Messi Cuccittini,120.0,37.4,1.9,13,Argentina
+1000,7564,112.0,52.0,Saved,0.21640046,Gonzalo Gerardo Higuaín,114.0,43.4,0.2,26,Argentina
+1001,7564,100.0,29.0,Post,0.11755348,Lionel Andrés Messi Cuccittini,120.0,44.4,1.1,33,Argentina
+1002,7564,111.0,26.0,Blocked,0.062985204,Ángel Fabián Di María Hernández,111.0,27.0,,38,Argentina
+1003,7564,93.0,49.0,Wayward,0.01164915,Oghenekaro Etebo,116.0,1.0,,40,Nigeria
+1004,7564,103.0,48.0,Saved,0.03359282,Leon-Aderemi Balogun,118.0,39.9,0.5,47,Nigeria
+1005,7564,109.0,41.0,Goal,0.76,Victor Moses,120.0,42.2,0.4,50,Nigeria
+1006,7564,93.0,40.0,Off T,0.03046361,Onyinye Wilfred Ndidi,120.0,39.9,3.5,70,Nigeria
+1007,7564,108.0,47.0,Off T,0.13359922,Odion Jude Ighalo,120.0,33.5,0.2,74,Nigeria
+1008,7564,105.0,23.0,Wayward,0.03482389,Nicolás Alejandro Tagliafico,114.0,73.0,,78,Argentina
+1009,7564,108.0,36.0,Off T,0.19381213,Gonzalo Gerardo Higuaín,120.0,35.8,3.6,79,Argentina
+1010,7564,116.0,29.0,Saved,0.12531586,Odion Jude Ighalo,115.0,36.4,0.2,82,Nigeria
+1011,7564,94.0,53.0,Off T,0.045103274,Oghenekaro Etebo,120.0,45.2,2.6,83,Nigeria
+1012,7564,107.0,37.0,Goal,0.09684325,Faustino Marcos Alberto Rojo,120.0,43.6,1.2,85,Argentina
+1013,7556,87.0,40.0,Off T,0.011127773,Youssouf Sabaly,120.0,37.6,6.1,5,Senegal
+1014,7556,110.0,23.0,Saved,0.04476317,Youssouf Sabaly,118.0,38.1,1.6,10,Senegal
+1015,7556,116.0,38.0,Goal,0.5315898,Sadio Mané,120.0,36.4,1.6,10,Senegal
+1016,7556,116.0,63.0,Saved,0.019451419,"M""Baye Babacar Niang",119.0,41.7,1.6,13,Senegal
+1017,7556,95.0,34.0,Blocked,0.0336985,Makoto Hasebe,111.0,37.0,,15,Japan
+1018,7556,108.0,43.0,Saved,0.16919832,Ismaïla Sarr,119.0,43.8,1.6,21,Senegal
+1019,7556,112.0,42.0,Wayward,0.07128052,"Alfred John Momar N""Diaye",112.0,42.0,,26,Senegal
+1020,7556,108.0,29.0,Goal,0.08164321,Takashi Inui,120.0,44.0,1.6,33,Japan
+1021,7556,102.0,53.0,Saved,0.2267285,"M""Baye Babacar Niang",110.0,41.3,1.6,38,Senegal
+1022,7556,101.0,57.0,Off T,0.024019368,Genki Haraguchi,120.0,36.8,3.7,39,Japan
+1023,7556,112.0,37.0,Saved,0.1265364,Yūya Ōsako,119.0,36.6,1.6,48,Japan
+1024,7556,104.0,54.0,Off T,0.036138117,"M""Baye Babacar Niang",120.0,42.2,4.2,49,Senegal
+1025,7556,99.0,37.0,Off T,0.08038966,"Papa Alioune N""Diaye",120.0,43.2,6.8,50,Senegal
+1026,7556,96.0,50.0,Saved,0.02888789,"M""Baye Babacar Niang",117.0,41.9,1.6,54,Senegal
+1027,7556,108.0,23.0,Post,0.044085536,Takashi Inui,120.0,43.4,2.7,63,Japan
+1028,7556,115.0,36.0,Wayward,0.21533303,"M""Baye Babacar Niang",116.0,51.0,,70,Senegal
+1029,7556,114.0,52.0,Goal,0.13947384,Moussa Wagué,120.0,40.3,2.3,70,Senegal
+1030,7556,111.0,43.0,Blocked,0.114460096,Yūya Ōsako,114.0,42.0,,74,Japan
+1031,7556,113.0,43.0,Goal,0.57023984,Keisuke Honda,120.0,43.8,1.6,77,Japan
+1032,7556,115.0,43.0,Off T,0.12766463,"Cheikh N""Doye",120.0,46.5,1.6,83,Senegal
+1033,7556,102.0,41.0,Blocked,0.016796464,Salif Sané,105.0,41.0,,91,Senegal
+1034,7556,112.0,45.0,Off T,0.045358773,Mame Biram Diouf,120.0,43.2,6.7,93,Senegal
+1035,7559,98.0,56.0,Off T,0.021766983,Hussain Al Mogahwi,120.0,34.6,0.5,2,Saudi Arabia
+1036,7559,94.0,26.0,Off T,0.010946807,Salem Mohammed Al Dawsari,120.0,45.4,4.0,11,Saudi Arabia
+1037,7559,102.0,23.0,Wayward,0.023111586,Marwan Mohsen,120.0,21.0,,12,Egypt
+1038,7559,99.0,44.0,Off T,0.043466143,Salem Mohammed Al Dawsari,120.0,39.7,4.2,14,Saudi Arabia
+1039,7559,101.0,48.0,Goal,0.1427615,Mohamed Salah,120.0,38.9,1.7,21,Egypt
+1040,7559,107.0,38.0,Off T,0.38922426,Mohamed Salah,120.0,45.6,1.6,23,Egypt
+1041,7559,86.0,36.0,Saved,0.017620016,Hattan Babhir,118.0,42.8,0.5,24,Saudi Arabia
+1042,7559,100.0,22.0,Off T,0.01758447,Yasir Gharsan Al Shahrani,120.0,36.4,4.7,29,Saudi Arabia
+1043,7559,95.0,60.0,Off T,0.013078686,Mohammed Al Burayk,120.0,45.4,3.4,31,Saudi Arabia
+1044,7559,105.0,30.0,Off T,0.071416765,Mahmoud Ibrahim Hassan,120.0,45.6,2.7,32,Egypt
+1045,7559,101.0,29.0,Off T,0.061722156,Mahmoud Ibrahim Hassan,120.0,45.4,1.9,33,Egypt
+1046,7559,103.0,45.0,Blocked,0.1384784,Salman Mohammed Al Faraj,116.0,40.0,,36,Saudi Arabia
+1047,7559,108.0,40.0,Saved,0.76,Fahad Mosaed Al Muwallad Al Harbi,120.0,37.6,0.3,40,Saudi Arabia
+1048,7559,104.0,45.0,Blocked,0.055744126,Abdullah Ibrahim Otayf,108.0,44.0,,40,Saudi Arabia
+1049,7559,108.0,40.0,Goal,0.76,Salman Mohammed Al Faraj,120.0,37.4,2.3,50,Saudi Arabia
+1050,7559,112.0,54.0,Off T,0.0775831,Hattan Babhir,120.0,44.6,4.9,53,Saudi Arabia
+1051,7559,108.0,40.0,Off T,0.029905058,Mahmoud Ibrahim Hassan,120.0,45.4,1.3,56,Egypt
+1052,7559,100.0,61.0,Blocked,0.014220548,Hussain Al Mogahwi,103.0,61.0,,57,Egypt
+1053,7559,90.0,49.0,Off T,0.026680736,Hattan Babhir,120.0,47.1,5.2,59,Saudi Arabia
+1054,7559,96.0,41.0,Off T,0.0305299,Hussain Al Mogahwi,120.0,42.0,4.6,62,Saudi Arabia
+1055,7559,110.0,49.0,Saved,0.037764445,Hussain Al Mogahwi,120.0,42.4,0.2,68,Saudi Arabia
+1056,7559,115.0,49.0,Saved,0.07594524,Mohanad Aseri Abu Radiah,120.0,43.4,0.3,69,Saudi Arabia
+1057,7559,98.0,51.0,Off T,0.051683385,Mohamed Naser Elsayed Elneny,120.0,36.2,3.7,70,Egypt
+1058,7559,88.0,43.0,Off T,0.0451006,Salman Mohammed Al Faraj,120.0,44.2,4.2,73,Saudi Arabia
+1059,7559,102.0,22.0,Blocked,0.048505258,Amr Medhat Warda,112.0,36.0,,76,Egypt
+1060,7559,95.0,30.0,Blocked,0.08157286,Mohammed Al Burayk,104.0,32.0,,80,Saudi Arabia
+1061,7559,116.0,30.0,Saved,0.060031943,Salem Mohammed Al Dawsari,119.0,36.8,0.8,80,Saudi Arabia
+1062,7559,101.0,58.0,Blocked,0.01694758,Abdullah Ibrahim Otayf,106.0,52.0,,90,Saudi Arabia
+1063,7559,116.0,53.0,Goal,0.03722506,Salem Mohammed Al Dawsari,120.0,36.4,0.4,94,Saudi Arabia
+1064,7579,115.0,50.0,Off T,0.099938154,Bernardo Mota Veiga de Carvalho e Silva,120.0,39.7,3.6,1,Portugal
+1065,7579,97.0,50.0,Saved,0.040302232,Cristiano Ronaldo dos Santos Aveiro,119.0,37.8,0.4,5,Portugal
+1066,7579,114.0,46.0,Goal,0.15044495,Edinson Roberto Cavani Gómez,120.0,44.0,2.0,6,Uruguay
+1067,7579,115.0,34.0,Off T,0.044974428,José Miguel da Rocha Fonte,120.0,46.9,0.4,10,Portugal
+1068,7579,95.0,20.0,Blocked,0.009861075,Cristiano Ronaldo dos Santos Aveiro,97.0,21.0,,11,Portugal
+1069,7579,110.0,57.0,Blocked,0.022444725,Luis Alberto Suárez Díaz,112.0,56.0,,13,Uruguay
+1070,7579,97.0,47.0,Blocked,0.023420556,Gonçalo Manuel Ganchinho Guedes,99.0,47.0,,15,Portugal
+1071,7579,92.0,38.0,Blocked,0.0183404,William Silva de Carvalho,95.0,35.0,,15,Portugal
+1072,7579,91.0,41.0,Saved,0.07841941,Luis Alberto Suárez Díaz,120.0,42.8,0.4,21,Uruguay
+1073,7579,101.0,62.0,Off T,0.029802501,Luis Alberto Suárez Díaz,120.0,45.0,6.2,21,Uruguay
+1074,7579,95.0,33.0,Blocked,0.06181234,Cristiano Ronaldo dos Santos Aveiro,104.0,35.0,,31,Portugal
+1075,7579,111.0,37.0,Wayward,0.070741795,Matías Vecino Falero,109.0,30.0,,34,Uruguay
+1076,7579,110.0,46.0,Wayward,0.035039607,Gonçalo Manuel Ganchinho Guedes,118.0,40.0,,37,Portugal
+1077,7579,113.0,25.0,Off T,0.022646723,Edinson Roberto Cavani Gómez,120.0,35.2,2.1,46,Uruguay
+1078,7579,96.0,27.0,Off T,0.014178104,Raphaël Adelino José Guerreiro,120.0,35.4,3.4,51,Portugal
+1079,7579,100.0,44.0,Blocked,0.10340188,Adrien Sebastian Perruchet Silva,108.0,47.0,,53,Portugal
+1080,7579,112.0,43.0,Goal,0.117123626,Kléper Laveran Lima Ferreira,120.0,38.3,1.0,54,Portugal
+1081,7579,96.0,26.0,Blocked,0.0209714,Gonçalo Manuel Ganchinho Guedes,98.0,28.0,,59,Portugal
+1082,7579,103.0,26.0,Goal,0.065682195,Edinson Roberto Cavani Gómez,120.0,42.6,1.0,61,Uruguay
+1083,7579,103.0,40.0,Off T,0.23589852,Bernardo Mota Veiga de Carvalho e Silva,120.0,43.4,4.0,69,Portugal
+1084,7579,96.0,24.0,Blocked,0.009906834,Cristiano Ronaldo dos Santos Aveiro,98.0,28.0,,72,Portugal
+1085,7579,100.0,23.0,Off T,0.015352268,Raphaël Adelino José Guerreiro,120.0,37.4,4.1,76,Portugal
+1086,7579,87.0,30.0,Blocked,0.014680571,Cristiano Ronaldo dos Santos Aveiro,102.0,39.0,,77,Portugal
+1087,7579,93.0,52.0,Saved,0.036288362,Manuel Henrique Tavares Fernandes,119.0,39.3,1.0,84,Portugal
+1088,7579,90.0,19.0,Off T,0.017502971,Manuel Henrique Tavares Fernandes,120.0,38.1,5.4,86,Portugal
+1089,7579,91.0,22.0,Off T,0.012859933,Cristiano Ronaldo dos Santos Aveiro,120.0,47.7,2.4,90,Portugal
+1090,7579,110.0,54.0,Saved,0.03163013,Ricardo Andrade Quaresma Bernardo,119.0,43.6,2.0,94,Portugal
+1091,7579,109.0,39.0,Wayward,0.042406414,Rui Pedro dos Santos Patrício,110.0,43.0,,94,Portugal
+1092,7572,113.0,38.0,Off T,0.23759234,Shinji Okazaki,120.0,33.7,0.8,11,Japan
+1093,7572,100.0,28.0,Saved,0.07821124,Yoshinori Muto,119.0,36.6,0.4,12,Japan
+1094,7572,98.0,32.0,Blocked,0.041472737,Robert Lewandowski,102.0,35.0,,14,Poland
+1095,7572,97.0,43.0,Saved,0.08799073,Gotoku Sakai,118.0,39.1,0.5,15,Japan
+1096,7572,93.0,38.0,Blocked,0.034654185,Rafał Kurzawa,101.0,37.0,,22,Poland
+1097,7572,108.0,39.0,Saved,0.06295632,Kamil Grosicki,119.0,36.2,1.3,31,Poland
+1098,7572,85.0,48.0,Off T,0.010358376,Jacek Góralski,120.0,41.9,5.5,32,Poland
+1099,7572,114.0,58.0,Saved,0.030862652,Takashi Usami,119.0,38.3,0.9,34,Japan
+1100,7572,104.0,50.0,Off T,0.047119867,Rafał Kurzawa,120.0,45.4,4.9,36,Poland
+1101,7572,109.0,38.0,Wayward,0.069560215,Tomoaki Makino,114.0,26.0,,40,Japan
+1102,7572,97.0,32.0,Blocked,0.04088001,Takashi Usami,108.0,35.0,,52,Japan
+1103,7572,113.0,41.0,Wayward,0.03852514,Yoshinori Muto,115.0,41.0,,57,Japan
+1104,7572,118.0,34.0,Off T,0.08601551,Tomoaki Makino,120.0,35.0,0.9,57,Japan
+1105,7572,114.0,46.0,Goal,0.1335962,Jan Bednarek,120.0,43.4,1.3,58,Poland
+1106,7572,104.0,35.0,Blocked,0.066757314,Takashi Usami,105.0,35.0,,61,Japan
+1107,7572,96.0,47.0,Blocked,0.03524632,Piotr Zieliński,98.0,46.0,,63,Poland
+1108,7572,106.0,35.0,Off T,0.028380072,Kamil Grosicki,120.0,48.7,0.9,67,Poland
+1109,7572,107.0,16.0,Off T,0.04070379,Takashi Inui,120.0,46.5,0.9,69,Japan
+1110,7572,113.0,39.0,Off T,0.07962904,Maya Yoshida,120.0,46.5,0.6,71,Japan
+1111,7572,109.0,43.0,Off T,0.4535421,Robert Lewandowski,120.0,38.3,4.6,73,Poland
+1112,7572,109.0,41.0,Off T,0.04098137,Kamil Glik,120.0,34.4,5.6,77,Poland
+1113,7572,110.0,40.0,Blocked,0.036872387,Artur Jędrzejczyk,111.0,40.0,,81,Poland
+1114,7577,103.0,30.0,Off T,0.07384438,Amine Harit,120.0,45.2,1.1,1,Morocco
+1115,7577,115.0,52.0,Off T,0.06019353,Younès Belhanda,120.0,42.6,3.8,3,Morocco
+1116,7577,102.0,42.0,Off T,0.10283999,Ayoub El Kaabi,120.0,35.2,1.1,7,Morocco
+1117,7577,111.0,27.0,Blocked,0.06639611,Hakim Ziyech,114.0,38.0,,18,Morocco
+1118,7577,113.0,46.0,Blocked,0.33118212,Younès Belhanda,114.0,46.0,,18,Morocco
+1119,7577,110.0,44.0,Saved,0.16908821,Medhi Amine El Mouttaqi Benatia,115.0,42.4,0.2,18,Morocco
+1120,7577,113.0,34.0,Wayward,0.099965416,Sardar Azmoun,111.0,80.0,,24,Iran
+1121,7577,104.0,23.0,Blocked,0.026129294,Achraf Hakimi Mouh,106.0,24.0,,25,Morocco
+1122,7577,92.0,41.0,Blocked,0.02642615,Younès Belhanda,104.0,44.0,,25,Morocco
+1123,7577,110.0,24.0,Saved,0.028385784,Amine Harit,117.0,37.6,0.8,29,Morocco
+1124,7577,114.0,53.0,Off T,0.034328517,Roozbeh Cheshmi,120.0,45.0,3.2,31,Iran
+1125,7577,84.0,47.0,Off T,0.01925386,Alireza Jahanbakhsh,120.0,44.6,7.2,34,Iran
+1126,7577,98.0,52.0,Blocked,0.025593156,Omid Ebrahimi,99.0,53.0,,40,Iran
+1127,7577,109.0,51.0,Saved,0.2719615,Sardar Azmoun,114.0,41.7,0.5,42,Iran
+1128,7577,108.0,52.0,Saved,0.09751275,Alireza Jahanbakhsh,113.0,43.0,1.7,42,Iran
+1129,7577,98.0,35.0,Blocked,0.022828022,Ehsan Hajsafi,106.0,41.0,,43,Iran
+1130,7577,82.0,42.0,Off T,0.022159873,Ehsan Hajsafi,120.0,41.5,3.4,44,Iran
+1131,7577,112.0,30.0,Wayward,0.06630709,Amine Harit,119.0,71.0,,48,Morocco
+1132,7577,99.0,34.0,Saved,0.054570496,Hakim Ziyech,118.0,37.4,0.4,79,Morocco
+1133,7577,114.0,41.0,Off T,0.093030766,Romain Saïss,120.0,34.2,1.6,80,Morocco
+1134,7577,97.0,50.0,Blocked,0.03838701,Hakim Ziyech,101.0,48.0,,86,Morocco
+1135,7577,82.0,51.0,Wayward,0.010319257,Manuel Marouan da Costa Trinidade,120.0,72.0,,90,Morocco
+1136,7543,101.0,62.0,Off T,0.018944118,Daniel Carvajal Ramos,120.0,45.4,4.2,3,Spain
+1137,7543,95.0,26.0,Off T,0.011536347,Vahid Amiri,120.0,37.0,3.9,5,Iran
+1138,7543,114.0,45.0,Wayward,0.085332274,Diego da Silva Costa,111.0,80.0,,9,Spain
+1139,7543,93.0,37.0,Off T,0.022282861,Karim Ansarifard,120.0,46.0,1.7,13,Iran
+1140,7543,97.0,48.0,Blocked,0.032238517,David Josué Jiménez Silva,105.0,43.0,,18,Spain
+1141,7543,88.0,34.0,Blocked,0.03426386,Sergio Ramos García,99.0,33.0,,21,Spain
+1142,7543,95.0,49.0,Saved,0.07336608,David Josué Jiménez Silva,120.0,43.0,0.3,24,Spain
+1143,7543,113.0,40.0,Off T,0.16802657,David Josué Jiménez Silva,120.0,41.9,4.0,29,Spain
+1144,7543,98.0,61.0,Off T,0.017436389,Francisco Román Alarcón Suárez,120.0,31.1,0.1,30,Spain
+1145,7543,113.0,36.0,Blocked,0.10248178,David Josué Jiménez Silva,114.0,36.0,,41,Spain
+1146,7543,96.0,29.0,Blocked,0.030725373,Francisco Román Alarcón Suárez,99.0,29.0,,44,Spain
+1147,7543,104.0,48.0,Blocked,0.055669777,David Josué Jiménez Silva,107.0,46.0,,46,Spain
+1148,7543,114.0,41.0,Blocked,0.2490742,Gerard Piqué Bernabéu,117.0,42.0,,48,Spain
+1149,7543,96.0,43.0,Saved,0.03139065,Sergio Busquets i Burgos,119.0,43.2,2.2,49,Spain
+1150,7543,113.0,31.0,Wayward,0.06622958,Diego da Silva Costa,113.0,37.0,,50,Spain
+1151,7543,105.0,51.0,Off T,0.083946675,Francisco Román Alarcón Suárez,120.0,47.1,7.6,51,Spain
+1152,7543,104.0,28.0,Off T,0.0192162,Karim Ansarifard,120.0,35.0,0.8,52,Iran
+1153,7543,107.0,36.0,Goal,0.2706818,Diego da Silva Costa,120.0,36.4,0.7,53,Spain
+1154,7543,112.0,39.0,Off T,0.07399542,Mehdi Taremi,120.0,34.8,0.4,59,Iran
+1155,7543,109.0,46.0,Blocked,0.100910135,Sergio Ramos García,112.0,44.0,,69,Spain
+1156,7543,118.0,39.0,Blocked,0.68638676,Gerard Piqué Bernabéu,118.0,38.0,,69,Spain
+1157,7543,99.0,56.0,Blocked,0.07332817,Francisco Román Alarcón Suárez,106.0,54.0,,77,Spain
+1158,7543,117.0,47.0,Off T,0.08673033,Mehdi Taremi,120.0,42.8,3.3,81,Iran
+1159,7543,109.0,37.0,Wayward,0.090280816,Sardar Azmoun,116.0,39.0,,90,Iran
+1160,7525,103.0,21.0,Blocked,0.018845346,Yasir Gharsan Al Shahrani,106.0,24.0,,5,Saudi Arabia
+1161,7525,111.0,52.0,Blocked,0.04499048,Aleksandr Samedov,113.0,50.0,,6,Russia
+1162,7525,107.0,26.0,Blocked,0.027691884,Yuri Zhirkov,108.0,25.0,,8,Russia
+1163,7525,106.0,49.0,Blocked,0.06495655,Alan Dzagoev,107.0,49.0,,10,Russia
+1164,7525,112.0,47.0,Goal,0.09187309,Yury Gazinskiy,120.0,36.6,1.7,11,Russia
+1165,7525,103.0,29.0,Blocked,0.047388878,Mohammad Ibrahim Al Sahlawi,106.0,26.0,,21,Saudi Arabia
+1166,7525,92.0,39.0,Off T,0.04546827,Salem Mohammed Al Dawsari,120.0,41.7,4.9,27,Saudi Arabia
+1167,7525,110.0,42.0,Off T,0.122445844,Yasir Gharsan Al Shahrani,119.0,39.9,4.7,30,Saudi Arabia
+1168,7525,110.0,34.0,Goal,0.26999885,Denis Cheryshev,120.0,36.6,1.8,42,Russia
+1169,7525,97.0,50.0,Off T,0.029080672,Aleksandr Samedov,120.0,38.0,4.2,51,Russia
+1170,7525,108.0,24.0,Blocked,0.031980548,Denis Cheryshev,110.0,24.0,,62,Russia
+1171,7525,107.0,39.0,Saved,0.08531114,Denis Cheryshev,119.0,40.5,2.3,64,Russia
+1172,7525,104.0,56.0,Saved,0.02501437,Roman Zobnin,116.0,40.7,0.6,67,Russia
+1173,7525,115.0,37.0,Goal,0.2027929,Artem Dzyuba,120.0,43.0,0.6,70,Russia
+1174,7525,97.0,25.0,Off T,0.02933318,Salem Mohammed Al Dawsari,119.0,46.5,1.6,72,Saudi Arabia
+1175,7525,110.0,42.0,Off T,0.083050855,Roman Zobnin,120.0,46.5,3.0,76,Russia
+1176,7525,104.0,57.0,Blocked,0.03508512,Hattan Babhir,113.0,48.0,,81,Saudi Arabia
+1177,7525,86.0,38.0,Off T,0.018565752,Daler Kuzyaev,120.0,39.1,4.5,83,Russia
+1178,7525,104.0,23.0,Goal,0.02896708,Denis Cheryshev,120.0,44.0,2.4,90,Russia
+1179,7525,99.0,52.0,Goal,0.07120123,Aleksandr Golovin,120.0,44.0,0.9,93,Russia
+1180,7538,85.0,51.0,Blocked,0.009144992,Mikael Lustig,91.0,52.0,,12,Sweden
+1181,7538,113.0,38.0,Saved,0.46228638,Marcus Berg,118.0,38.3,0.9,19,Sweden
+1182,7538,109.0,39.0,Off T,0.061906938,Pontus Jansson,120.0,45.6,0.3,20,Sweden
+1183,7538,111.0,32.0,Blocked,0.028558316,Andreas Granqvist,112.0,34.0,,28,Sweden
+1184,7538,112.0,34.0,Blocked,0.15276097,Marcus Berg,115.0,36.0,,28,Sweden
+1185,7538,106.0,56.0,Blocked,0.045391254,Jae-Sung Lee,107.0,54.0,,36,South Korea
+1186,7538,90.0,24.0,Blocked,0.023175942,Emil Forsberg,94.0,24.0,,38,Sweden
+1187,7538,118.0,29.0,Wayward,0.061605234,Marcus Berg,115.0,56.0,,42,Sweden
+1188,7538,94.0,29.0,Blocked,0.0111330105,Emil Forsberg,106.0,33.0,,43,Sweden
+1189,7538,104.0,28.0,Saved,0.09813172,Andreas Granqvist,118.0,36.6,0.1,43,Sweden
+1190,7538,111.0,38.0,Blocked,0.052822348,Viktor Claesson,112.0,37.0,,46,Sweden
+1191,7538,99.0,37.0,Off T,0.052061442,Emil Forsberg,120.0,45.2,3.8,48,Sweden
+1192,7538,107.0,30.0,Off T,0.047114473,Ja-Cheol Koo,120.0,35.4,0.9,51,South Korea
+1193,7538,113.0,37.0,Saved,0.07531369,Ola Toivonen,120.0,38.5,0.4,55,Sweden
+1194,7538,97.0,25.0,Blocked,0.03930308,Min-Woo Kim,101.0,26.0,,56,South Korea
+1195,7538,109.0,41.0,Goal,0.76,Andreas Granqvist,120.0,43.0,0.4,64,Sweden
+1196,7538,83.0,47.0,Blocked,0.010513514,Sebastian Larsson,103.0,37.0,,68,Sweden
+1197,7538,98.0,33.0,Blocked,0.03870639,Emil Forsberg,106.0,35.0,,68,Sweden
+1198,7538,99.0,48.0,Wayward,0.047015924,Viktor Claesson,111.0,1.0,,70,Sweden
+1199,7538,100.0,56.0,Blocked,0.027942903,Seung-Woo Lee,106.0,52.0,,81,South Korea
+1200,7538,110.0,38.0,Off T,0.10224919,Hee-Chan Hwang,120.0,33.7,2.1,90,South Korea
+1201,7576,109.0,41.0,Goal,0.76,Cristiano Ronaldo dos Santos Aveiro,120.0,43.8,1.3,3,Portugal
+1202,7576,106.0,38.0,Off T,0.18864359,David Josué Jiménez Silva,120.0,43.6,4.6,9,Spain
+1203,7576,96.0,53.0,Blocked,0.023468496,Gonçalo Manuel Ganchinho Guedes,99.0,51.0,,15,Portugal
+1204,7576,99.0,63.0,Blocked,0.052383155,Cristiano Ronaldo dos Santos Aveiro,106.0,59.0,,17,Portugal
+1205,7576,113.0,31.0,Blocked,0.055210005,David Josué Jiménez Silva,117.0,33.0,,20,Spain
+1206,7576,105.0,45.0,Goal,0.07400832,Diego da Silva Costa,120.0,36.2,0.4,23,Spain
+1207,7576,103.0,20.0,Post,0.01921213,Francisco Román Alarcón Suárez,120.0,36.4,2.7,25,Spain
+1208,7576,100.0,54.0,Blocked,0.07158775,David Josué Jiménez Silva,108.0,52.0,,28,Spain
+1209,7576,110.0,29.0,Off T,0.1122103,Andrés Iniesta Luján,120.0,45.0,0.4,34,Spain
+1210,7576,111.0,40.0,Off T,0.077906616,Sergio Busquets i Burgos,120.0,35.2,5.1,38,Spain
+1211,7576,101.0,55.0,Saved,0.022768002,Francisco Román Alarcón Suárez,119.0,42.8,0.9,41,Spain
+1212,7576,101.0,36.0,Goal,0.036621287,Cristiano Ronaldo dos Santos Aveiro,119.0,39.1,0.5,43,Portugal
+1213,7576,87.0,35.0,Off T,0.016568057,Bruno Miguel Borges Fernandes,120.0,45.8,1.4,48,Spain
+1214,7576,118.0,41.0,Goal,0.7929192,Diego da Silva Costa,120.0,41.3,2.0,54,Spain
+1215,7576,99.0,52.0,Goal,0.03518696,José Ignacio Fernández Iglesias,120.0,36.2,0.8,57,Spain
+1216,7576,110.0,35.0,Off T,0.22789349,Diego da Silva Costa,120.0,46.9,0.2,70,Spain
+1217,7576,116.0,34.0,Wayward,0.11620741,Kléper Laveran Lima Ferreira,120.0,48.0,,71,Portugal
+1218,7576,107.0,64.0,Off T,0.025023904,Ricardo Andrade Quaresma Bernardo,120.0,40.7,4.2,75,Portugal
+1219,7576,100.0,48.0,Saved,0.062179223,Iago Aspas Juncal,120.0,40.1,0.9,81,Spain
+1220,7576,96.0,44.0,Goal,0.10709231,Cristiano Ronaldo dos Santos Aveiro,120.0,42.8,1.9,87,Portugal
+1221,7576,108.0,31.0,Blocked,0.04740074,Ricardo Andrade Quaresma Bernardo,108.0,31.0,,91,Portugal
+1222,7576,113.0,44.0,Off T,0.107438534,Cristiano Ronaldo dos Santos Aveiro,120.0,46.1,1.3,91,Portugal
+1223,7542,109.0,30.0,Off T,0.020716103,Khalid Boutaïb,120.0,37.4,3.4,1,Morocco
+1224,7542,91.0,39.0,Blocked,0.013622488,Raphaël Adelino José Guerreiro,109.0,39.0,,3,Portugal
+1225,7542,115.0,41.0,Goal,0.1869952,Cristiano Ronaldo dos Santos Aveiro,120.0,41.7,2.4,3,Portugal
+1226,7542,108.0,56.0,Off T,0.03559095,Cristiano Ronaldo dos Santos Aveiro,120.0,35.4,0.2,8,Portugal
+1227,7542,114.0,33.0,Saved,0.051906142,Medhi Amine El Mouttaqi Benatia,120.0,36.6,0.2,10,Morocco
+1228,7542,109.0,45.0,Off T,0.025755627,Manuel Marouan da Costa Trinidade,119.0,47.3,0.2,13,Morocco
+1229,7542,109.0,26.0,Blocked,0.034933552,Hakim Ziyech,113.0,30.0,,17,Morocco
+1230,7542,92.0,25.0,Saved,0.01198129,Hakim Ziyech,119.0,40.5,0.3,22,Morocco
+1231,7542,108.0,44.0,Wayward,0.060267642,Khalid Boutaïb,113.0,40.0,,29,Morocco
+1232,7542,100.0,34.0,Blocked,0.08999304,Cristiano Ronaldo dos Santos Aveiro,108.0,35.0,,31,Portugal
+1233,7542,87.0,28.0,Off T,0.015069329,Karim El Ahmadi Al Aroos,120.0,40.1,5.7,33,Morocco
+1234,7542,109.0,34.0,Saved,0.23386426,Gonçalo Manuel Ganchinho Guedes,117.0,42.2,1.8,38,Portugal
+1235,7542,112.0,41.0,Off T,0.12758629,Younès Belhanda,120.0,33.5,0.4,46,Morocco
+1236,7542,111.0,42.0,Off T,0.047847625,José Miguel da Rocha Fonte,119.0,46.7,0.5,47,Portugal
+1237,7542,107.0,31.0,Wayward,0.04070806,Gonçalo Manuel Ganchinho Guedes,105.0,50.0,,50,Portugal
+1238,7542,103.0,53.0,Off T,0.06786557,Cristiano Ronaldo dos Santos Aveiro,120.0,40.9,6.5,50,Portugal
+1239,7542,105.0,57.0,Saved,0.033848487,Younès Belhanda,120.0,41.7,2.3,54,Morocco
+1240,7542,112.0,50.0,Saved,0.03286756,Younès Belhanda,120.0,37.0,0.9,56,Morocco
+1241,7542,107.0,42.0,Off T,0.07808029,Medhi Amine El Mouttaqi Benatia,120.0,41.5,3.1,59,Morocco
+1242,7542,113.0,34.0,Wayward,0.06883541,Mbark Boussoufa,107.0,22.0,,63,Morocco
+1243,7542,96.0,54.0,Off T,0.053389616,Hakim Ziyech,120.0,42.6,3.4,67,Morocco
+1244,7542,93.0,17.0,Blocked,0.01818466,Cristiano Ronaldo dos Santos Aveiro,97.0,17.0,,70,Portugal
+1245,7542,113.0,47.0,Off T,0.14291386,Medhi Amine El Mouttaqi Benatia,120.0,45.0,0.2,77,Morocco
+1246,7542,86.0,54.0,Off T,0.009546082,Nabil Dirar,120.0,39.9,3.9,80,Morocco
+1247,7542,97.0,52.0,Off T,0.023208467,Bruno Miguel Borges Fernandes,120.0,34.0,0.2,81,Portugal
+1248,7542,102.0,31.0,Blocked,0.10440962,Cristiano Ronaldo dos Santos Aveiro,110.0,32.0,,84,Portugal
+1249,7542,112.0,50.0,Blocked,0.106634915,Hakim Ziyech,114.0,46.0,,89,Morocco
+1250,7542,111.0,38.0,Off T,0.06894785,Medhi Amine El Mouttaqi Benatia,120.0,37.8,3.1,92,Morocco
+1251,7542,90.0,21.0,Off T,0.010987664,Bruno Miguel Borges Fernandes,120.0,44.4,6.7,94,Portugal
+1252,7566,114.0,17.0,Saved,0.04733487,Emil Forsberg,119.0,39.9,2.2,4,Sweden
+1253,7566,92.0,58.0,Off T,0.012521504,Miguel Arturo Layún Prado,120.0,46.0,0.2,9,Mexico
+1254,7566,112.0,36.0,Wayward,0.047051627,Andreas Granqvist,117.0,38.0,,11,Sweden
+1255,7566,116.0,36.0,Off T,0.19958206,Marcus Berg,120.0,35.2,0.8,11,Sweden
+1256,7566,96.0,56.0,Off T,0.014451567,Emil Forsberg,120.0,48.3,5.9,14,Sweden
+1257,7566,104.0,46.0,Off T,0.10052774,Carlos Alberto Vela Garrido,120.0,35.2,1.9,16,Mexico
+1258,7566,110.0,38.0,Off T,0.14463916,Emil Forsberg,120.0,40.3,3.9,17,Sweden
+1259,7566,99.0,63.0,Blocked,0.022580601,Carlos Alberto Vela Garrido,108.0,49.0,,21,Mexico
+1260,7566,116.0,40.0,Wayward,0.24305731,José Andrés Guardado Hernández,118.0,22.0,,22,Mexico
+1261,7566,117.0,22.0,Blocked,0.017657088,Héctor Miguel Herrera López,117.0,23.0,,22,Mexico
+1262,7566,93.0,34.0,Off T,0.022426067,José Andrés Guardado Hernández,120.0,46.9,0.2,22,Mexico
+1263,7566,101.0,34.0,Blocked,0.08664918,Emil Forsberg,106.0,34.0,,27,Sweden
+1264,7566,115.0,42.0,Saved,0.33101508,Marcus Berg,119.0,41.9,2.3,30,Sweden
+1265,7566,105.0,30.0,Off T,0.062747136,Emil Forsberg,120.0,43.4,6.9,32,Sweden
+1266,7566,99.0,28.0,Blocked,0.034652002,Hirving Rodrigo Lozano Bahena,101.0,29.0,,35,Mexico
+1267,7566,106.0,54.0,Off T,0.049177576,Carlos Alberto Vela Garrido,120.0,34.6,4.9,38,Mexico
+1268,7566,104.0,28.0,Blocked,0.02102849,Carlos Joel Salcedo Hernández,104.0,29.0,,39,Mexico
+1269,7566,105.0,61.0,Saved,0.018600535,Miguel Arturo Layún Prado,117.0,39.9,0.3,44,Mexico
+1270,7566,109.0,28.0,Off T,0.16938257,Marcus Berg,120.0,35.4,2.0,46,Sweden
+1271,7566,109.0,41.0,Wayward,0.27345926,Viktor Claesson,117.0,31.0,,49,Sweden
+1272,7566,116.0,32.0,Goal,0.2790069,Ludwig Augustinsson,119.0,38.7,1.3,49,Sweden
+1273,7566,103.0,36.0,Off T,0.114753306,Emil Forsberg,120.0,44.2,4.9,51,Sweden
+1274,7566,115.0,19.0,Off T,0.020634798,José Andrés Guardado Hernández,120.0,45.8,3.5,52,Mexico
+1275,7566,106.0,25.0,Off T,0.035911486,Ludwig Augustinsson,120.0,44.2,4.5,53,Sweden
+1276,7566,108.0,29.0,Saved,0.015843851,Marcus Berg,119.0,36.6,1.0,58,Sweden
+1277,7566,109.0,41.0,Goal,0.76,Andreas Granqvist,120.0,36.2,2.4,61,Sweden
+1278,7566,80.0,54.0,Blocked,0.010007644,Carlos Joel Salcedo Hernández,101.0,46.0,,63,Mexico
+1279,7566,90.0,48.0,Blocked,0.018108571,Marco Jhonfai Fabián De La Mora,104.0,48.0,,65,Mexico
+1280,7566,111.0,31.0,Off T,0.017042058,Carlos Joel Salcedo Hernández,120.0,33.5,0.2,67,Mexico
+1281,7566,106.0,40.0,Off T,0.037968118,Javier Hernández Balcázar,120.0,43.0,3.5,69,Mexico
+1282,7566,111.0,42.0,Blocked,0.06828808,Héctor Alfredo Moreno Herrera,116.0,35.0,,75,Mexico
+1283,7566,96.0,54.0,Blocked,0.043650974,Carlos Alberto Vela Garrido,104.0,53.0,,80,Mexico
+1284,7566,116.0,29.0,Blocked,0.0704245,Javier Hernández Balcázar,118.0,32.0,,80,Mexico
+1285,7566,117.0,42.0,Off T,0.74679697,Carlos Alberto Vela Garrido,120.0,46.7,3.0,80,Mexico
+1286,7566,98.0,51.0,Off T,0.030237112,Hirving Rodrigo Lozano Bahena,120.0,36.6,4.6,88,Mexico
+1287,7566,91.0,48.0,Saved,0.030375455,Héctor Miguel Herrera López,117.0,37.8,1.6,92,Mexico
+1288,7566,102.0,21.0,Saved,0.022628793,Hirving Rodrigo Lozano Bahena,115.0,41.9,0.2,92,Mexico
+1289,7557,112.0,27.0,Saved,0.035294347,Cristiano Ronaldo dos Santos Aveiro,119.0,37.0,0.4,2,Portugal
+1290,7557,101.0,29.0,Off T,0.059441242,Vahid Amiri,120.0,32.1,0.3,6,Iran
+1291,7557,102.0,35.0,Off T,0.14393309,João Mário Naval da Costa Eduardo,120.0,39.5,3.8,8,Portugal
+1292,7557,95.0,55.0,Blocked,0.039962333,Cristiano Ronaldo dos Santos Aveiro,105.0,53.0,,15,Portugal
+1293,7557,100.0,39.0,Blocked,0.04448955,José Miguel da Rocha Fonte,109.0,41.0,,16,Portugal
+1294,7557,114.0,35.0,Off T,0.057879645,Kléper Laveran Lima Ferreira,120.0,33.3,0.2,17,Portugal
+1295,7557,103.0,34.0,Wayward,0.02940368,André Miguel Valente Silva,118.0,33.0,,18,Portugal
+1296,7557,93.0,23.0,Off T,0.03309399,Ramin Rezaeian,119.0,35.4,3.1,21,Iran
+1297,7557,117.0,50.0,Wayward,0.02778431,José Miguel da Rocha Fonte,120.0,50.0,,29,Portugal
+1298,7557,109.0,47.0,Saved,0.046653,Saeid Ezatolahi Afagh,119.0,39.1,1.2,33,Iran
+1299,7557,83.0,34.0,Saved,0.012714876,Cristiano Ronaldo dos Santos Aveiro,119.0,38.7,1.9,39,Portugal
+1300,7557,112.0,55.0,Off T,0.03576757,Ricardo Andrade Quaresma Bernardo,120.0,35.2,3.9,40,Portugal
+1301,7557,102.0,58.0,Goal,0.0123060765,Ricardo Andrade Quaresma Bernardo,120.0,36.2,1.7,44,Portugal
+1302,7557,108.0,40.0,Saved,0.76,Cristiano Ronaldo dos Santos Aveiro,119.0,42.4,0.9,52,Portugal
+1303,7557,111.0,36.0,Wayward,0.03299182,Sardar Azmoun,109.0,18.0,,57,Iran
+1304,7557,93.0,30.0,Blocked,0.029522885,Raphaël Adelino José Guerreiro,104.0,36.0,,61,Portugal
+1305,7557,97.0,35.0,Off T,0.031095896,Cristiano Ronaldo dos Santos Aveiro,120.0,46.9,0.1,65,Portugal
+1306,7557,96.0,24.0,Off T,0.017586734,Adrien Sebastian Perruchet Silva,120.0,45.6,3.8,70,Portugal
+1307,7557,98.0,38.0,Off T,0.052727155,Saman Ghoddos,120.0,34.8,0.2,71,Iran
+1308,7557,95.0,51.0,Off T,0.031515997,André Miguel Valente Silva,120.0,41.3,3.8,76,Portugal
+1309,7557,113.0,32.0,Blocked,0.03155883,Sardar Azmoun,113.0,33.0,,88,Iran
+1310,7557,109.0,41.0,Goal,0.76,Karim Ansarifard,120.0,42.6,2.5,92,Iran
+1311,7557,97.0,45.0,Blocked,0.0259604,Saman Ghoddos,101.0,45.0,,93,Iran
+1312,7557,113.0,33.0,Off T,0.35391924,Mehdi Taremi,120.0,35.2,1.6,93,Iran
+1313,7554,81.0,40.0,Off T,0.007365972,Edgar Yoel Bárcenas Herrera,120.0,40.3,3.8,3,Panama
+1314,7554,102.0,32.0,Off T,0.13451067,Aníbal Cesis Godoy,120.0,34.4,2.7,4,Panama
+1315,7554,109.0,42.0,Goal,0.07512671,John Stones,120.0,37.2,0.9,7,England
+1316,7554,96.0,49.0,Off T,0.02824812,Edgar Yoel Bárcenas Herrera,120.0,35.2,1.3,15,Panama
+1317,7554,109.0,41.0,Goal,0.76,Harry Kane,120.0,36.6,2.0,21,England
+1318,7554,98.0,34.0,Goal,0.060175423,Jesse Lingard,120.0,43.8,2.3,35,England
+1319,7554,115.0,40.0,Saved,0.41439074,Raheem Shaquille Sterling,120.0,40.5,0.4,39,England
+1320,7554,118.0,36.0,Goal,0.45612025,John Stones,120.0,37.2,1.7,39,England
+1321,7554,100.0,40.0,Blocked,0.10395398,Jesse Lingard,104.0,41.0,,41,England
+1322,7554,109.0,41.0,Goal,0.76,Harry Kane,120.0,37.8,1.6,45,England
+1323,7554,97.0,51.0,Blocked,0.025342245,Ruben Loftus-Cheek,104.0,50.0,,61,England
+1324,7554,105.0,49.0,Goal,0.1269506,Harry Kane,120.0,39.7,1.2,61,England
+1325,7554,115.0,51.0,Saved,0.19250491,Michael Amir Murillo Bermudez,116.0,44.0,0.2,65,Panama
+1326,7554,104.0,45.0,Off T,0.033640955,Jordan Brian Henderson,120.0,35.0,1.6,72,England
+1327,7554,116.0,36.0,Off T,0.29889992,Román Aureliano Torres Morcillo,120.0,34.8,1.9,75,Panama
+1328,7554,109.0,44.0,Goal,0.13714771,Felipe Abdiel Baloy Ramírez,120.0,43.6,1.3,77,Panama
+1329,7554,93.0,30.0,Off T,0.034551587,Raheem Shaquille Sterling,120.0,45.4,1.3,81,England
+1330,7554,106.0,41.0,Blocked,0.045845088,Blas Antonio Miguel Pérez Ortega,107.0,40.0,,93,Panama
+1331,7554,94.0,20.0,Off T,0.018537758,José Luis Rodríguez Francis,120.0,45.8,1.6,94,Panama
+1332,7570,93.0,52.0,Saved,0.01884349,Youri Tielemans,119.0,40.9,2.3,5,Belgium
+1333,7570,117.0,40.0,Blocked,0.2356519,Michy Batshuayi Tunga,120.0,43.0,,9,Belgium
+1334,7570,91.0,20.0,Blocked,0.012964692,Marcus Rashford,97.0,24.0,,11,England
+1335,7570,112.0,42.0,Off T,0.17052485,Jamie Vardy,120.0,33.5,0.2,13,England
+1336,7570,109.0,55.0,Blocked,0.032172132,Michy Batshuayi Tunga,111.0,52.0,,26,Belgium
+1337,7570,107.0,33.0,Blocked,0.027875638,Marouane Fellaini-Bakkioui,119.0,39.0,,26,Belgium
+1338,7570,91.0,49.0,Blocked,0.01247171,Youri Tielemans,105.0,47.0,,26,Belgium
+1339,7570,113.0,40.0,Off T,0.08079294,Ruben Loftus-Cheek,119.0,34.8,1.3,33,England
+1340,7570,90.0,41.0,Blocked,0.020228453,Adnan Januzaj,94.0,43.0,,34,Belgium
+1341,7570,111.0,43.0,Wayward,0.061413296,Anga Dedryck Boyata,107.0,15.0,,35,Belgium
+1342,7570,109.0,35.0,Wayward,0.039270446,Jamie Vardy,105.0,21.0,,35,England
+1343,7570,99.0,34.0,Off T,0.049286656,Thorgan Hazard,120.0,45.4,5.7,37,Belgium
+1344,7570,108.0,27.0,Wayward,0.046677392,Thorgan Hazard,120.0,77.0,,39,Belgium
+1345,7570,107.0,27.0,Off T,0.028258327,Marcus Rashford,120.0,46.7,0.5,47,England
+1346,7570,105.0,53.0,Goal,0.050801136,Adnan Januzaj,119.0,36.6,2.2,50,Belgium
+1347,7570,93.0,42.0,Blocked,0.102308325,Trent Alexander-Arnold,103.0,43.0,,53,England
+1348,7570,107.0,54.0,Blocked,0.031805217,Adnan Januzaj,109.0,54.0,,54,Belgium
+1349,7570,104.0,33.0,Saved,0.42333835,Marcus Rashford,108.0,44.0,0.9,65,England
+1350,7570,86.0,50.0,Off T,0.011010092,Fabian Delph,120.0,33.9,2.9,66,England
+1351,7570,99.0,33.0,Blocked,0.039584167,Fabian Delph,109.0,38.0,,69,England
+1352,7570,92.0,55.0,Off T,0.029017823,Marcus Rashford,120.0,42.8,3.5,80,England
+1353,7570,106.0,31.0,Blocked,0.023341136,Daniel Nii Tackie Mensah Welbeck,114.0,41.0,,82,England
+1354,7570,116.0,30.0,Off T,0.0911439,Daniel Nii Tackie Mensah Welbeck,120.0,33.5,2.7,86,England
+1355,7570,99.0,49.0,Saved,0.05167523,Dries Mertens,119.0,37.4,0.9,88,Belgium
+1356,7570,110.0,26.0,Blocked,0.032835085,Thorgan Hazard,115.0,33.0,,88,Belgium
+1357,7570,113.0,29.0,Off T,0.115744404,Marouane Fellaini-Bakkioui,119.0,35.4,2.2,91,Belgium
+1358,7585,115.0,18.0,Saved,0.043674327,Ashley Young,120.0,42.2,2.0,5,England
+1359,7585,112.0,54.0,Blocked,0.026669312,Raheem Shaquille Sterling,113.0,53.0,,7,England
+1360,7585,98.0,37.0,Blocked,0.02635788,Raheem Shaquille Sterling,105.0,37.0,,12,England
+1361,7585,119.0,36.0,Off T,0.36664945,Harry Kane,120.0,40.5,3.1,15,England
+1362,7585,97.0,56.0,Blocked,0.01689895,Juan Guillermo Cuadrado Bello,100.0,54.0,,21,Colombia
+1363,7585,90.0,18.0,Off T,0.016841354,Johan Andrés Mojica Palacio,120.0,49.3,7.2,21,Colombia
+1364,7585,101.0,46.0,Blocked,0.045488525,Raheem Shaquille Sterling,103.0,43.0,,30,England
+1365,7585,92.0,49.0,Off T,0.026235223,Juan Fernando Quintero Paniagua,120.0,48.7,0.2,32,Colombia
+1366,7585,99.0,31.0,Off T,0.11374216,Kieran Trippier,120.0,35.2,1.5,41,England
+1367,7585,94.0,59.0,Off T,0.011127956,Harry Kane,120.0,34.2,0.2,44,England
+1368,7585,97.0,52.0,Saved,0.020483479,Juan Fernando Quintero Paniagua,119.0,39.3,0.5,46,Colombia
+1369,7585,108.0,50.0,Off T,0.019548655,Jesse Lingard,120.0,44.6,6.3,46,England
+1370,7585,108.0,40.0,Goal,0.76,Harry Kane,119.0,40.3,1.6,56,England
+1371,7585,78.0,41.0,Blocked,0.015556041,Juan Fernando Quintero Paniagua,103.0,41.0,,58,Colombia
+1372,7585,117.0,32.0,Off T,0.06714824,Bamidele Alli,120.0,38.0,3.6,62,England
+1373,7585,108.0,45.0,Off T,0.027762733,Harry Maguire,119.0,39.9,3.3,72,England
+1374,7585,108.0,52.0,Off T,0.07512768,Juan Guillermo Cuadrado Bello,120.0,45.2,3.3,80,Colombia
+1375,7585,115.0,31.0,Off T,0.041914552,Harry Maguire,119.0,44.8,3.5,83,England
+1376,7585,110.0,46.0,Wayward,0.041831743,Davinson Sánchez Mina,111.0,30.0,,84,Colombia
+1377,7585,114.0,45.0,Off T,0.050471604,Radamel Falcao García Zárate,120.0,45.8,5.3,85,Colombia
+1378,7585,94.0,47.0,Saved,0.029559905,Radamel Falcao García Zárate,118.0,38.7,0.2,86,Colombia
+1379,7585,82.0,41.0,Saved,0.0076720365,Andrés Mateus Uribe Villa,118.0,44.0,2.3,91,Colombia
+1380,7585,114.0,41.0,Goal,0.0874024,Yerry Fernando Mina González,120.0,36.6,1.9,92,Colombia
+1381,7585,109.0,42.0,Blocked,0.03042104,Carlos Arturo Bacca Ahumada,110.0,44.0,,100,Colombia
+1382,7585,109.0,42.0,Off T,0.028326292,Davinson Sánchez Mina,120.0,33.5,2.4,101,Colombia
+1383,7585,108.0,39.0,Off T,0.05021168,Radamel Falcao García Zárate,120.0,34.6,1.2,103,Colombia
+1384,7585,98.0,45.0,Blocked,0.026180284,Jesse Lingard,99.0,46.0,,105,England
+1385,7585,112.0,56.0,Blocked,0.021024613,Jamie Vardy,114.0,55.0,,107,England
+1386,7585,113.0,25.0,Off T,0.03730133,Danny Rose,119.0,45.0,0.1,111,England
+1387,7585,112.0,44.0,Off T,0.08954069,Eric Dier,120.0,40.5,3.5,114,England
+1388,7585,111.0,45.0,Wayward,0.024208752,Harry Maguire,112.0,36.0,,118,England
+1389,7585,109.0,41.0,Goal,0.76,Radamel Falcao García Zárate,120.0,39.7,1.5,120,Colombia
+1390,7585,109.0,41.0,Goal,0.76,Harry Kane,120.0,36.2,0.5,121,England
+1391,7585,109.0,41.0,Goal,0.76,Juan Guillermo Cuadrado Bello,120.0,37.0,2.0,121,Colombia
+1392,7585,109.0,41.0,Goal,0.76,Marcus Rashford,120.0,36.2,0.5,122,England
+1393,7585,109.0,41.0,Goal,0.76,Luis Fernando Muriel Fruto,120.0,42.0,0.2,123,Colombia
+1394,7585,109.0,41.0,Saved,0.76,Jordan Brian Henderson,120.0,43.8,0.5,123,England
+1395,7585,109.0,41.0,Post,0.76,Andrés Mateus Uribe Villa,120.0,43.4,2.7,124,Colombia
+1396,7585,109.0,41.0,Goal,0.76,Kieran Trippier,119.0,37.0,1.9,125,England
+1397,7585,109.0,41.0,Saved,0.76,Carlos Arturo Bacca Ahumada,120.0,38.9,1.3,126,Colombia
+1398,7585,109.0,41.0,Goal,0.76,Eric Dier,120.0,36.4,0.4,127,England
+1399,7586,89.0,60.0,Off T,0.015886042,Xherdan Shaqiri,120.0,45.2,2.1,0,Switzerland
+1400,7586,103.0,22.0,Saved,0.025412552,Steven Zuber,118.0,39.7,0.3,6,Switzerland
+1401,7586,108.0,56.0,Off T,0.055213265,Marcus Berg,120.0,46.3,4.0,7,Sweden
+1402,7586,104.0,41.0,Blocked,0.18442297,Marcus Berg,108.0,42.0,,7,Sweden
+1403,7586,101.0,41.0,Off T,0.06551793,Albin Ekdal,120.0,37.4,4.5,8,Sweden
+1404,7586,93.0,50.0,Wayward,0.01445046,Mikael Lustig,96.0,18.0,,13,Sweden
+1405,7586,112.0,51.0,Off T,0.037871893,Steven Zuber,120.0,42.6,3.5,23,Switzerland
+1406,7586,108.0,49.0,Saved,0.043366138,Marcus Berg,117.0,37.4,0.3,27,Sweden
+1407,7586,81.0,48.0,Off T,0.012651618,Granit Xhaka,120.0,44.4,3.7,33,Switzerland
+1408,7586,98.0,60.0,Blocked,0.013079658,Xherdan Shaqiri,102.0,53.0,,35,Switzerland
+1409,7586,104.0,31.0,Off T,0.044724673,Blerim Džemaili,120.0,43.0,3.8,37,Switzerland
+1410,7586,90.0,51.0,Blocked,0.04215365,Emil Forsberg,102.0,50.0,,39,Sweden
+1411,7586,113.0,33.0,Off T,0.12313891,Albin Ekdal,120.0,38.5,4.3,40,Sweden
+1412,7586,109.0,47.0,Off T,0.1754705,Ola Toivonen,120.0,42.8,4.6,48,Sweden
+1413,7586,93.0,26.0,Blocked,0.014926908,Ricardo Iván Rodríguez Araya,96.0,26.0,,52,Switzerland
+1414,7586,104.0,16.0,Blocked,0.04816905,Emil Forsberg,109.0,26.0,,63,Sweden
+1415,7586,101.0,42.0,Goal,0.09860796,Emil Forsberg,120.0,37.6,2.2,65,Sweden
+1416,7586,93.0,49.0,Off T,0.029793238,Albin Ekdal,120.0,41.7,4.9,68,Sweden
+1417,7586,93.0,21.0,Saved,0.019546978,Ricardo Iván Rodríguez Araya,117.0,36.8,0.3,68,Switzerland
+1418,7586,104.0,58.0,Blocked,0.016021093,Xherdan Shaqiri,105.0,54.0,,70,Switzerland
+1419,7586,88.0,33.0,Blocked,0.024448063,Granit Xhaka,93.0,34.0,,71,Switzerland
+1420,7586,95.0,52.0,Blocked,0.017522497,Xherdan Shaqiri,96.0,50.0,,77,Switzerland
+1421,7586,112.0,53.0,Blocked,0.027812457,Michael Lang,112.0,52.0,,78,Switzerland
+1422,7586,113.0,36.0,Blocked,0.05459828,Breel-Donald Embolo,117.0,36.0,,78,Switzerland
+1423,7586,100.0,31.0,Blocked,0.018110827,Ricardo Iván Rodríguez Araya,106.0,38.0,,85,Switzerland
+1424,7586,101.0,38.0,Blocked,0.03772309,Josip Drmic,105.0,38.0,,85,Switzerland
+1425,7586,112.0,30.0,Saved,0.0451929,Haris Seferović,118.0,36.6,0.3,90,Switzerland
+1426,7586,102.0,38.0,Saved,0.16131301,Ola Toivonen,120.0,43.0,1.7,96,Sweden
+1427,8656,96.0,43.0,Goal,0.13681328,Kieran Trippier,120.0,43.4,2.3,4,England
+1428,8656,111.0,37.0,Off T,0.02847463,Harry Maguire,120.0,45.6,0.3,13,England
+1429,8656,94.0,20.0,Off T,0.025050001,Ivan Perišić,120.0,34.6,0.5,18,Croatia
+1430,8656,98.0,41.0,Blocked,0.12052825,Ante Rebić,100.0,42.0,,20,Croatia
+1431,8656,87.0,26.0,Off T,0.011568041,Ivan Perišić,120.0,33.1,0.2,22,Croatia
+1432,8656,101.0,50.0,Saved,0.049119662,Ante Rebić,119.0,37.4,1.8,31,Croatia
+1433,8656,102.0,41.0,Off T,0.086329415,Jesse Lingard,120.0,46.1,0.9,35,England
+1434,8656,104.0,52.0,Blocked,0.02933324,Raheem Shaquille Sterling,108.0,48.0,,36,England
+1435,8656,88.0,51.0,Off T,0.01786488,Šime Vrsaljko,120.0,45.2,5.4,42,Croatia
+1436,8656,96.0,45.0,Blocked,0.07683543,Jesse Lingard,102.0,45.0,,55,England
+1437,8656,97.0,34.0,Off T,0.025872875,Ivan Rakitić,120.0,33.9,5.0,60,Croatia
+1438,8656,103.0,41.0,Blocked,0.049669664,Ivan Perišić,115.0,40.0,,64,Croatia
+1439,8656,118.0,56.0,Off T,0.033182524,Harry Kane,120.0,45.0,1.6,66,England
+1440,8656,114.0,40.0,Goal,0.16153686,Ivan Perišić,120.0,36.4,0.4,67,Croatia
+1441,8656,112.0,30.0,Post,0.14237575,Ivan Perišić,120.0,44.4,0.5,71,Croatia
+1442,8656,111.0,44.0,Saved,0.25984475,Ante Rebić,120.0,37.0,1.3,71,Croatia
+1443,8656,98.0,48.0,Off T,0.019139169,Marcelo Brozović,120.0,42.8,4.8,72,Croatia
+1444,8656,115.0,55.0,Wayward,0.0659197,Jesse Lingard,116.0,1.0,,76,England
+1445,8656,95.0,45.0,Off T,0.02943506,Jordan Brian Henderson,120.0,44.0,4.8,77,England
+1446,8656,113.0,52.0,Saved,0.06234461,Mario Mandžukić,119.0,43.6,1.3,82,Croatia
+1447,8656,113.0,24.0,Off T,0.08026097,Ivan Perišić,120.0,41.3,3.8,83,Croatia
+1448,8656,89.0,57.0,Off T,0.016449666,Dejan Lovren,120.0,43.4,6.0,89,Croatia
+1449,8656,113.0,33.0,Off T,0.031169029,Harry Kane,120.0,34.4,1.2,91,England
+1450,8656,92.0,51.0,Blocked,0.030229246,Eric Dier,97.0,51.0,,97,England
+1451,8656,113.0,49.0,Blocked,0.026228873,John Stones,119.0,39.0,,98,England
+1452,8656,106.0,58.0,Blocked,0.028589392,Andrej Kramarić,105.0,57.0,,101,Croatia
+1453,8656,101.0,34.0,Blocked,0.06090429,Andrej Kramarić,104.0,34.0,,105,Croatia
+1454,8656,114.0,39.0,Saved,0.3320944,Mario Mandžukić,116.0,39.5,0.9,106,Croatia
+1455,8656,111.0,27.0,Off T,0.048765816,Marcelo Brozović,120.0,35.0,3.0,107,Croatia
+1456,8656,114.0,33.0,Goal,0.17174198,Mario Mandžukić,119.0,42.0,0.5,108,Croatia
+1457,8656,107.0,32.0,Blocked,0.12101325,Ivan Perišić,109.0,37.0,,113,Croatia
+1458,8656,97.0,22.0,Saved,0.022168055,Marcelo Brozović,120.0,39.9,2.2,115,Croatia
+1459,8656,109.0,52.0,Off T,0.12545726,Andrej Kramarić,120.0,45.0,2.0,119,Croatia
+1460,8651,86.0,43.0,Off T,0.012779108,Viktor Claesson,120.0,35.2,3.3,11,Sweden
+1461,8651,97.0,46.0,Off T,0.052680697,Harry Kane,120.0,35.4,0.1,18,England
+1462,8651,110.0,44.0,Goal,0.034489863,Harry Maguire,120.0,37.6,0.1,29,England
+1463,8651,94.0,58.0,Off T,0.018468376,Jordan Brian Henderson,120.0,41.5,6.5,34,England
+1464,8651,111.0,51.0,Blocked,0.17926262,Raheem Shaquille Sterling,112.0,51.0,,44,England
+1465,8651,113.0,48.0,Saved,0.027764944,Marcus Berg,120.0,43.2,0.6,46,Sweden
+1466,8651,97.0,13.0,Off T,0.05121217,Emil Forsberg,120.0,43.2,4.0,51,Sweden
+1467,8651,115.0,32.0,Blocked,0.044794805,Raheem Shaquille Sterling,116.0,33.0,,53,England
+1468,8651,95.0,23.0,Blocked,0.01145048,Jesse Lingard,97.0,20.0,,56,England
+1469,8651,98.0,48.0,Blocked,0.040244903,Jesse Lingard,101.0,46.0,,57,England
+1470,8651,116.0,32.0,Goal,0.08706656,Bamidele Alli,119.0,38.7,1.9,58,England
+1471,8651,106.0,43.0,Saved,0.16997346,Viktor Claesson,119.0,38.7,0.2,61,Sweden
+1472,8651,113.0,36.0,Blocked,0.23113738,Viktor Claesson,115.0,35.0,,61,Sweden
+1473,8651,105.0,47.0,Off T,0.0127511835,Ola Toivonen,120.0,34.4,0.6,61,Sweden
+1474,8651,111.0,30.0,Off T,0.10737247,Harry Maguire,120.0,35.6,4.2,65,England
+1475,8651,102.0,29.0,Blocked,0.043078333,Bamidele Alli,109.0,38.0,,67,England
+1476,8651,107.0,20.0,Blocked,0.033273663,Bamidele Alli,108.0,24.0,,68,England
+1477,8651,110.0,42.0,Saved,0.13775387,Marcus Berg,120.0,40.9,2.4,70,Sweden
+1478,8651,98.0,43.0,Blocked,0.06470203,Jesse Lingard,103.0,40.0,,81,England
+1479,8651,100.0,50.0,Off T,0.11463995,Ludwig Augustinsson,120.0,41.9,4.7,89,Sweden
+1480,7567,113.0,22.0,Off T,0.020881904,Marco Reus,120.0,48.7,0.4,5,Germany
+1481,7567,111.0,42.0,Saved,0.022346059,Sami Khedira,120.0,44.0,2.4,13,Germany
+1482,7567,87.0,49.0,Saved,0.039588153,Woo-Young Jung,120.0,38.5,1.3,18,South Korea
+1483,7567,91.0,50.0,Off T,0.011354855,Yong Lee,120.0,45.6,3.8,19,South Korea
+1484,7567,108.0,51.0,Off T,0.06565892,Heung-Min Son,120.0,46.3,3.6,24,South Korea
+1485,7567,97.0,42.0,Blocked,0.09013645,Marco Reus,102.0,41.0,,32,Germany
+1486,7567,108.0,51.0,Blocked,0.11420574,Timo Werner,109.0,53.0,,38,Germany
+1487,7567,112.0,43.0,Wayward,0.06378762,Leon Goretzka,119.0,29.0,,38,Germany
+1488,7567,116.0,37.0,Saved,0.3409895,Mats Hummels,117.0,38.3,0.9,38,Germany
+1489,7567,105.0,60.0,Blocked,0.021395119,Mesut Özil,109.0,55.0,,46,Germany
+1490,7567,99.0,53.0,Off T,0.041204456,Heung-Min Son,120.0,33.7,0.6,47,South Korea
+1491,7567,89.0,38.0,Saved,0.016197857,Woo-Young Jung,118.0,39.7,1.1,45,South Korea
+1492,7567,111.0,39.0,Saved,0.15384452,Leon Goretzka,119.0,39.3,1.1,47,Germany
+1493,7567,85.0,38.0,Off T,0.013065994,Toni Kroos,120.0,33.9,0.5,48,Germany
+1494,7567,108.0,37.0,Off T,0.10289497,Timo Werner,120.0,35.0,2.0,50,Germany
+1495,7567,119.0,31.0,Off T,0.27235216,Heung-Min Son,120.0,34.4,1.0,51,South Korea
+1496,7567,103.0,56.0,Blocked,0.03501422,Joshua Kimmich,106.0,54.0,,53,Germany
+1497,7567,94.0,52.0,Blocked,0.017935367,Sami Khedira,102.0,48.0,,53,Germany
+1498,7567,104.0,31.0,Blocked,0.12934966,Toni Kroos,107.0,34.0,,60,Germany
+1499,7567,96.0,42.0,Off T,0.042058438,Heung-Min Son,120.0,45.4,3.7,62,South Korea
+1500,7567,112.0,28.0,Off T,0.03699075,Timo Werner,120.0,35.2,1.0,63,Germany
+1501,7567,113.0,39.0,Saved,0.22437352,Mario Gómez García,119.0,40.3,2.3,67,Germany
+1502,7567,94.0,39.0,Off T,0.04536848,Toni Kroos,120.0,36.8,4.5,69,Germany
+1503,7567,115.0,43.0,Blocked,0.28396937,Mario Gómez García,115.0,42.0,,70,Germany
+1504,7567,102.0,29.0,Off T,0.04896827,Heung-Min Son,120.0,34.6,0.5,77,South Korea
+1505,7567,112.0,44.0,Off T,0.15893847,Thomas Müller,120.0,33.9,0.5,81,Germany
+1506,7567,97.0,54.0,Off T,0.029524803,Marco Reus,120.0,35.0,2.7,82,Germany
+1507,7567,109.0,29.0,Blocked,0.1500678,Julian Brandt,111.0,30.0,,83,Germany
+1508,7567,95.0,33.0,Off T,0.043211073,Toni Kroos,120.0,42.4,5.0,83,Germany
+1509,7567,112.0,39.0,Off T,0.24813859,Mats Hummels,120.0,42.0,3.8,86,Germany
+1510,7567,98.0,41.0,Saved,0.047491834,Toni Kroos,117.0,37.4,0.5,87,Germany
+1511,7567,86.0,39.0,Saved,0.01241907,Woo-Young Jung,118.0,43.4,1.6,88,South Korea
+1512,7567,98.0,42.0,Blocked,0.04271262,Jae-Sung Lee,100.0,41.0,,89,South Korea
+1513,7567,115.0,42.0,Goal,0.47217062,Young-Gwon Kim,120.0,42.6,0.9,91,South Korea
+1514,7567,108.0,36.0,Wayward,0.07952041,Thomas Müller,113.0,49.0,,94,Germany
+1515,7567,115.0,47.0,Off T,0.12002199,Mats Hummels,120.0,36.6,3.3,94,Germany
+1516,7567,116.0,32.0,Goal,0.780189,Heung-Min Son,120.0,44.0,0.4,95,South Korea
+1517,7567,99.0,35.0,Blocked,0.07533962,Thomas Müller,104.0,39.0,,97,Germany
+1518,7567,102.0,49.0,Saved,0.06612207,Julian Brandt,118.0,37.2,1.7,97,Germany
+1519,7567,106.0,35.0,Blocked,0.049124252,Mats Hummels,108.0,35.0,,98,Germany
+1520,7567,113.0,39.0,Off T,0.19015019,Mats Hummels,120.0,37.0,4.5,98,Germany
+1521,7541,104.0,48.0,Saved,0.25592348,Yūya Ōsako,111.0,40.7,0.1,2,Japan
+1522,7541,103.0,39.0,Blocked,0.147781,Shinji Kagawa,108.0,38.0,,2,Japan
+1523,7541,108.0,40.0,Goal,0.76,Shinji Kagawa,119.0,41.5,0.3,5,Japan
+1524,7541,112.0,43.0,Saved,0.22891212,Radamel Falcao García Zárate,119.0,42.6,1.1,11,Colombia
+1525,7541,108.0,30.0,Off T,0.168692,Takashi Inui,120.0,45.4,0.2,14,Japan
+1526,7541,93.0,49.0,Blocked,0.021943275,Juan Fernando Quintero Paniagua,103.0,45.0,,15,Colombia
+1527,7541,110.0,34.0,Wayward,0.026016064,Oscar Fabián Murillo Murillo,116.0,37.0,,25,Colombia
+1528,7541,101.0,60.0,Blocked,0.015954943,Juan Guillermo Cuadrado Bello,107.0,54.0,,25,Colombia
+1529,7541,112.0,26.0,Wayward,0.07296688,Yūya Ōsako,115.0,79.0,,31,Japan
+1530,7541,109.0,45.0,Saved,0.11823388,Radamel Falcao García Zárate,118.0,42.8,0.8,33,Colombia
+1531,7541,100.0,60.0,Goal,0.03302352,Juan Fernando Quintero Paniagua,120.0,44.0,0.1,38,Colombia
+1532,7541,117.0,30.0,Saved,0.11830249,Yūya Ōsako,120.0,36.8,0.2,53,Japan
+1533,7541,106.0,28.0,Saved,0.06157763,Takashi Inui,119.0,43.8,0.5,56,Japan
+1534,7541,113.0,39.0,Off T,0.1089635,Maya Yoshida,120.0,35.2,1.9,58,Japan
+1535,7541,110.0,57.0,Off T,0.027961968,Hiroki Sakai,120.0,31.7,0.1,60,Japan
+1536,7541,105.0,25.0,Blocked,0.038647596,Takashi Inui,113.0,33.0,,65,Japan
+1537,7541,96.0,60.0,Saved,0.015934661,Keisuke Honda,120.0,44.0,0.2,70,Japan
+1538,7541,114.0,49.0,Blocked,0.12429098,Hiroki Sakai,116.0,45.0,,72,Japan
+1539,7541,117.0,39.0,Goal,0.23470171,Yūya Ōsako,119.0,44.0,1.2,72,Japan
+1540,7541,112.0,54.0,Blocked,0.04734624,James David Rodríguez Rubio,114.0,50.0,,77,Colombia
+1541,7541,113.0,47.0,Wayward,0.04337223,Jefferson Andrés Lerma Solís,112.0,33.0,,77,Colombia
+1542,7541,109.0,31.0,Blocked,0.06710881,Carlos Arturo Bacca Ahumada,110.0,32.0,,77,Colombia
+1543,7541,111.0,42.0,Wayward,0.08291103,Oscar Fabián Murillo Murillo,117.0,46.0,,77,Colombia
+1544,7541,108.0,43.0,Wayward,0.058462113,Yūya Ōsako,120.0,16.0,,81,Japan
+1545,8655,109.0,23.0,Off T,0.019637499,Eden Hazard,120.0,46.3,0.2,14,Belgium
+1546,8655,92.0,38.0,Saved,0.01303839,Blaise Matuidi,117.0,38.1,1.6,17,France
+1547,8655,107.0,21.0,Blocked,0.01630504,Eden Hazard,116.0,39.0,,18,Belgium
+1548,8655,105.0,41.0,Saved,0.06923522,Toby Alderweireld,119.0,36.6,1.7,21,Belgium
+1549,8655,103.0,48.0,Off T,0.24659362,Olivier Giroud,120.0,46.1,0.5,22,France
+1550,8655,108.0,44.0,Off T,0.040773172,Olivier Giroud,120.0,46.1,0.4,30,France
+1551,8655,107.0,32.0,Wayward,0.15631188,Olivier Giroud,111.0,30.0,,31,France
+1552,8655,98.0,30.0,Off T,0.0468742,Antoine Griezmann,120.0,43.4,5.7,32,France
+1553,8655,109.0,36.0,Off T,0.13414341,Olivier Giroud,120.0,48.1,0.1,33,France
+1554,8655,91.0,32.0,Off T,0.026999686,Antoine Griezmann,120.0,46.9,0.2,36,France
+1555,8655,96.0,50.0,Blocked,0.019341314,Antoine Griezmann,100.0,45.0,,38,France
+1556,8655,114.0,53.0,Saved,0.09804139,Benjamin Pavard,117.0,37.4,0.2,38,France
+1557,8655,105.0,30.0,Wayward,0.036197774,Blaise Matuidi,109.0,32.0,,41,France
+1558,8655,96.0,57.0,Blocked,0.045064036,Antoine Griezmann,102.0,53.0,,44,France
+1559,8655,111.0,40.0,Off T,0.054394465,Romelu Lukaku Menama,120.0,39.9,4.7,47,Belgium
+1560,8655,107.0,31.0,Blocked,0.058892976,Olivier Giroud,109.0,33.0,,50,France
+1561,8655,118.0,47.0,Goal,0.07233822,Samuel Yves Umtiti,120.0,43.6,1.8,50,France
+1562,8655,99.0,30.0,Blocked,0.032036,Blaise Matuidi,102.0,31.0,,55,France
+1563,8655,112.0,34.0,Blocked,0.17627539,Olivier Giroud,113.0,35.0,,55,France
+1564,8655,93.0,60.0,Off T,0.0116144605,Toby Alderweireld,120.0,41.9,4.9,57,Belgium
+1565,8655,107.0,38.0,Wayward,0.10418073,Kevin De Bruyne,117.0,39.0,,60,Belgium
+1566,8655,108.0,40.0,Off T,0.07174937,Marouane Fellaini-Bakkioui,120.0,45.4,0.5,64,Belgium
+1567,8655,100.0,32.0,Off T,0.036298357,Olivier Giroud,120.0,34.6,6.3,66,France
+1568,8655,95.0,34.0,Off T,0.0364441,Kevin De Bruyne,120.0,34.0,6.0,75,Belgium
+1569,8655,108.0,42.0,Off T,0.038035292,Paul Pogba,120.0,33.9,3.3,78,France
+1570,8655,91.0,27.0,Saved,0.015624825,Axel Witsel,119.0,41.9,0.6,80,Belgium
+1571,8655,103.0,46.0,Saved,0.119997054,Antoine Griezmann,116.0,37.2,0.1,92,France
+1572,8655,107.0,31.0,Saved,0.16674982,Corentin Tolisso,116.0,44.0,0.2,95,France
+1573,8657,113.0,41.0,Goal,0.2976184,Thomas Meunier,120.0,41.9,0.4,3,Belgium
+1574,8657,100.0,53.0,Blocked,0.059819948,Raheem Shaquille Sterling,101.0,53.0,,11,England
+1575,8657,108.0,29.0,Saved,0.05701546,Kevin De Bruyne,119.0,39.5,1.1,11,Belgium
+1576,8657,91.0,31.0,Saved,0.017405652,Fabian Delph,119.0,41.1,0.1,13,England
+1577,8657,108.0,45.0,Saved,0.050740242,Ruben Loftus-Cheek,119.0,40.1,1.9,14,England
+1578,8657,108.0,37.0,Saved,0.014484448,Harry Maguire,119.0,40.1,0.2,19,England
+1579,8657,104.0,41.0,Off T,0.10772764,Harry Kane,120.0,33.7,1.6,22,England
+1580,8657,97.0,29.0,Off T,0.028621446,Raheem Shaquille Sterling,120.0,48.9,2.4,23,England
+1581,8657,97.0,40.0,Blocked,0.033633463,Youri Tielemans,100.0,40.0,,29,Belgium
+1582,8657,106.0,51.0,Blocked,0.077757634,Eden Hazard,108.0,48.0,,33,Belgium
+1583,8657,96.0,43.0,Wayward,0.03229424,Youri Tielemans,110.0,34.0,,34,Belgium
+1584,8657,110.0,34.0,Off T,0.049434207,Toby Alderweireld,120.0,38.3,3.8,34,Belgium
+1585,8657,104.0,52.0,Blocked,0.038013883,Kevin De Bruyne,106.0,50.0,,44,Belgium
+1586,8657,104.0,30.0,Blocked,0.09781054,Romelu Lukaku Menama,106.0,30.0,,46,Belgium
+1587,8657,109.0,54.0,Off T,0.023827497,Jesse Lingard,120.0,33.5,0.4,53,England
+1588,8657,107.0,58.0,Blocked,0.021512281,Jesse Lingard,109.0,58.0,,55,England
+1589,8657,100.0,48.0,Wayward,0.025310759,Harry Kane,112.0,31.0,,65,England
+1590,8657,94.0,50.0,Saved,0.029425079,Eric Dier,118.0,36.6,0.2,68,England
+1591,8657,112.0,50.0,Blocked,0.25625533,Eric Dier,119.0,42.0,,69,England
+1592,8657,110.0,40.0,Off T,0.064027205,Harry Maguire,120.0,32.5,0.2,69,England
+1593,8657,109.0,43.0,Off T,0.05466971,Eric Dier,120.0,34.6,0.2,72,England
+1594,8657,111.0,33.0,Off T,0.029847719,Harry Maguire,120.0,35.2,0.5,73,England
+1595,8657,104.0,30.0,Off T,0.064848706,Dries Mertens,120.0,46.9,0.3,75,Belgium
+1596,8657,109.0,55.0,Saved,0.05458503,Thomas Meunier,119.0,36.8,1.6,79,Belgium
+1597,8657,99.0,23.0,Saved,0.0414745,Marcus Rashford,119.0,37.2,0.8,79,England
+1598,8657,112.0,35.0,Goal,0.3376146,Eden Hazard,120.0,36.6,0.8,81,Belgium
+1599,7540,100.0,22.0,Blocked,0.024663324,Roman Zobnin,106.0,25.0,,4,Russia
+1600,7540,110.0,38.0,Saved,0.07677571,Sergei Ignashevich,119.0,40.7,0.9,5,Russia
+1601,7540,96.0,37.0,Off T,0.073840134,Aleksandr Golovin,119.0,35.0,0.4,5,Russia
+1602,7540,99.0,48.0,Blocked,0.036032032,Denis Cheryshev,101.0,46.0,,12,Russia
+1603,7540,116.0,33.0,Blocked,0.07518085,Marwan Mohsen,117.0,34.0,,14,Egypt
+1604,7540,105.0,24.0,Off T,0.040192466,Mahmoud Ibrahim Hassan,120.0,45.0,1.2,15,Egypt
+1605,7540,92.0,34.0,Off T,0.012952245,Denis Cheryshev,120.0,40.7,3.4,18,Russia
+1606,7540,89.0,32.0,Off T,0.020071592,Yury Gazinskiy,120.0,38.0,6.8,22,Russia
+1607,7540,99.0,28.0,Blocked,0.043603424,Mahmoud Ibrahim Hassan,103.0,32.0,,24,Egypt
+1608,7540,117.0,25.0,Wayward,0.015450136,Marwan Mohsen,117.0,20.0,,33,Egypt
+1609,7540,113.0,34.0,Off T,0.033839483,Marwan Mohsen,120.0,32.7,2.9,34,Egypt
+1610,7540,90.0,39.0,Wayward,0.015880683,Denis Cheryshev,97.0,36.0,,38,Russia
+1611,7540,107.0,41.0,Saved,0.03436539,Marwan Mohsen,118.0,36.8,0.5,38,Egypt
+1612,7540,113.0,47.0,Off T,0.03691661,Artem Dzyuba,120.0,42.6,3.9,40,Russia
+1613,7540,104.0,46.0,Off T,0.07566194,Mohamed Salah,120.0,35.0,1.2,41,Egypt
+1614,7540,97.0,55.0,Blocked,0.033548277,Roman Zobnin,113.0,38.0,,46,Russia
+1615,7540,107.0,33.0,Blocked,0.14315405,Mohamed Salah,110.0,35.0,,55,Egypt
+1616,7540,111.0,47.0,Goal,0.118507884,Denis Cheryshev,120.0,42.4,0.4,58,Russia
+1617,7540,108.0,44.0,Goal,0.23581284,Artem Dzyuba,119.0,44.0,0.5,61,Russia
+1618,7540,107.0,49.0,Off T,0.015155,Ali Gabr,120.0,46.7,0.3,62,Egypt
+1619,7540,101.0,40.0,Off T,0.11809318,Mahmoud Ibrahim Hassan,120.0,45.0,0.2,66,Egypt
+1620,7540,90.0,34.0,Off T,0.01917266,Abdalla Mahmoud El Said Bekhit,120.0,46.9,6.5,69,Egypt
+1621,7540,108.0,40.0,Goal,0.76,Mohamed Salah,120.0,43.4,2.4,72,Egypt
+1622,7540,117.0,34.0,Saved,0.22739872,Sergei Ignashevich,118.0,39.7,1.6,74,Russia
+1623,7540,102.0,38.0,Blocked,0.07542016,Mohamed Salah,104.0,37.0,,87,Egypt
+1624,7540,102.0,59.0,Off T,0.044241335,Amr Medhat Warda,120.0,45.8,0.2,89,Egypt
+1625,7540,93.0,50.0,Blocked,0.025914943,Tarek Hamed,104.0,47.0,,93,Egypt
+1626,7551,113.0,42.0,Blocked,0.2631674,Julian Draxler,118.0,43.0,,2,Germany
+1627,7551,104.0,40.0,Blocked,0.051938135,Jonas Hector,105.0,40.0,,2,Germany
+1628,7551,106.0,40.0,Saved,0.37163213,Marcus Berg,110.0,38.9,0.2,11,Sweden
+1629,7551,97.0,53.0,Blocked,0.024006378,Jérôme Boateng,101.0,52.0,,15,Germany
+1630,7551,105.0,43.0,Blocked,0.07109924,Marcus Berg,107.0,45.0,,17,Sweden
+1631,7551,92.0,42.0,Blocked,0.028765226,Sebastian Rudy,106.0,41.0,,18,Germany
+1632,7551,112.0,48.0,Goal,0.11636221,Ola Toivonen,120.0,37.2,1.6,31,Sweden
+1633,7551,94.0,28.0,Saved,0.023594707,İlkay Gündoğan,118.0,36.8,0.9,38,Germany
+1634,7551,96.0,62.0,Off T,0.01903722,Jérôme Boateng,119.0,45.0,0.2,44,Germany
+1635,7551,107.0,47.0,Saved,0.022954088,Marcus Berg,118.0,36.4,0.4,46,Sweden
+1636,7551,112.0,40.0,Goal,0.16247162,Marco Reus,120.0,36.4,0.4,47,Germany
+1637,7551,101.0,29.0,Blocked,0.017973144,Toni Kroos,107.0,33.0,,48,Germany
+1638,7551,111.0,54.0,Off T,0.025699561,Thomas Müller,120.0,45.2,2.0,50,Germany
+1639,7551,112.0,30.0,Saved,0.0881194,Jonas Hector,119.0,41.3,0.2,55,Germany
+1640,7551,105.0,29.0,Blocked,0.06656701,Toni Kroos,107.0,32.0,,62,Germany
+1641,7551,93.0,38.0,Blocked,0.016933931,Toni Kroos,97.0,37.0,,64,Germany
+1642,7551,106.0,22.0,Blocked,0.016813735,Marco Reus,107.0,23.0,,72,Germany
+1643,7551,105.0,26.0,Wayward,0.025921663,Toni Kroos,106.0,30.0,,72,Germany
+1644,7551,98.0,20.0,Saved,0.011906222,Emil Forsberg,119.0,37.0,0.6,75,Sweden
+1645,7551,109.0,49.0,Off T,0.15861104,Timo Werner,120.0,37.2,3.5,80,Germany
+1646,7551,110.0,45.0,Saved,0.03686343,Andreas Granqvist,118.0,36.4,1.0,82,Sweden
+1647,7551,111.0,40.0,Saved,0.07766268,Mario Gómez García,119.0,39.9,2.3,87,Germany
+1648,7551,101.0,46.0,Post,0.05654241,Julian Brandt,119.0,35.8,0.7,91,Germany
+1649,7551,107.0,59.0,Saved,0.01691968,John Guidetti,119.0,43.4,0.4,93,Sweden
+1650,7551,111.0,20.0,Goal,0.025825093,Toni Kroos,120.0,42.8,2.0,94,Germany
+1651,7550,84.0,51.0,Off T,0.0073960517,Granit Xhaka,120.0,34.6,2.2,3,Switzerland
+1652,7550,114.0,38.0,Saved,0.19096097,Aleksandar Mitrović,119.0,42.2,1.1,4,Serbia
+1653,7550,108.0,37.0,Wayward,0.07240391,Filip Kostić,109.0,46.0,,4,Serbia
+1654,7550,115.0,39.0,Goal,0.24807788,Aleksandar Mitrović,120.0,37.2,2.2,4,Serbia
+1655,7550,95.0,58.0,Blocked,0.009581855,Xherdan Shaqiri,103.0,51.0,,8,Switzerland
+1656,7550,111.0,38.0,Off T,0.12870406,Blerim Džemaili,120.0,45.8,1.5,9,Switzerland
+1657,7550,104.0,33.0,Off T,0.024992686,Aleksandar Mitrović,120.0,44.4,3.8,13,Serbia
+1658,7550,100.0,52.0,Off T,0.034908324,Sergej Milinković-Savić,120.0,34.4,0.5,15,Serbia
+1659,7550,104.0,32.0,Off T,0.02208598,Aleksandar Mitrović,120.0,34.2,2.7,18,Serbia
+1660,7550,100.0,41.0,Blocked,0.053169806,Xherdan Shaqiri,102.0,40.0,,22,Switzerland
+1661,7550,97.0,51.0,Blocked,0.02156158,Stephan Lichtsteiner,102.0,49.0,,22,Switzerland
+1662,7550,113.0,37.0,Off T,0.06605975,Manuel Obafemi Akanji,120.0,34.4,2.0,25,Switzerland
+1663,7550,111.0,39.0,Saved,0.24593273,Blerim Džemaili,117.0,38.5,0.3,29,Switzerland
+1664,7550,113.0,44.0,Off T,0.040317886,Fabian Lukas Schär,120.0,36.6,3.6,30,Switzerland
+1665,7550,99.0,49.0,Saved,0.011167105,Dušan Tadić,119.0,37.4,2.1,36,Serbia
+1666,7550,109.0,43.0,Off T,0.036103643,Aleksandar Mitrović,120.0,43.8,3.4,41,Serbia
+1667,7550,118.0,32.0,Off T,0.039090183,Nemanja Matić,120.0,34.8,2.3,43,Serbia
+1668,7550,100.0,49.0,Off T,0.08247225,Dušan Tadić,120.0,45.8,3.6,45,Serbia
+1669,7550,98.0,18.0,Wayward,0.026318658,Ricardo Iván Rodríguez Araya,118.0,80.0,,49,Switzerland
+1670,7550,114.0,43.0,Off T,0.085099824,Aleksandar Mitrović,120.0,44.0,3.5,51,Serbia
+1671,7550,106.0,55.0,Blocked,0.067735694,Xherdan Shaqiri,108.0,52.0,,51,Switzerland
+1672,7550,95.0,22.0,Goal,0.025094373,Granit Xhaka,120.0,41.9,1.5,51,Switzerland
+1673,7550,107.0,62.0,Post,0.018555429,Xherdan Shaqiri,119.0,35.8,2.7,57,Switzerland
+1674,7550,104.0,29.0,Blocked,0.030392764,Adem Ljajić,107.0,31.0,,76,Serbia
+1675,7550,86.0,40.0,Saved,0.018965486,Breel-Donald Embolo,118.0,43.4,0.3,81,Switzerland
+1676,7550,86.0,36.0,Off T,0.021150429,Xherdan Shaqiri,120.0,40.7,3.9,82,Switzerland
+1677,7550,110.0,43.0,Saved,0.23736155,Mario Gavranović,117.0,42.8,0.2,83,Switzerland
+1678,7550,94.0,30.0,Blocked,0.068923414,Ricardo Iván Rodríguez Araya,103.0,32.0,,85,Switzerland
+1679,7550,108.0,37.0,Blocked,0.05803199,Manuel Obafemi Akanji,110.0,35.0,,85,Switzerland
+1680,7550,111.0,31.0,Goal,0.27450573,Xherdan Shaqiri,120.0,43.8,0.5,89,Switzerland
+1681,7550,99.0,33.0,Off T,0.044802416,Xherdan Shaqiri,120.0,35.2,2.6,95,Switzerland
+1682,7537,113.0,39.0,Saved,0.39378345,Jesse Lingard,119.0,40.1,0.1,2,England
+1683,7537,108.0,41.0,Off T,0.02961977,Harry Maguire,120.0,35.2,1.3,2,England
+1684,7537,97.0,36.0,Blocked,0.036681008,Harry Kane,99.0,37.0,,10,England
+1685,7537,112.0,47.0,Saved,0.052105304,John Stones,119.0,42.8,2.0,10,England
+1686,7537,116.0,46.0,Goal,0.24012212,Harry Kane,120.0,41.7,0.5,10,England
+1687,7537,94.0,48.0,Saved,0.01864315,Jordan Brian Henderson,119.0,38.3,0.4,17,England
+1688,7537,91.0,21.0,Off T,0.018489435,Naïm Sliti,120.0,44.2,5.5,22,Tunisia
+1689,7537,116.0,50.0,Off T,0.15409201,Jesse Lingard,120.0,38.0,3.7,23,England
+1690,7537,98.0,46.0,Blocked,0.030076278,Ferjani Sassi,100.0,44.0,,26,Tunisia
+1691,7537,108.0,36.0,Wayward,0.02704481,Fakhreddine Ben Youssef,120.0,54.0,,27,Tunisia
+1692,7537,111.0,58.0,Saved,0.0075164693,Harry Maguire,118.0,43.8,1.3,30,England
+1693,7537,108.0,40.0,Goal,0.76,Ferjani Sassi,119.0,36.4,0.5,34,Tunisia
+1694,7537,118.0,47.0,Blocked,0.086920045,Bamidele Alli,119.0,39.0,,38,England
+1695,7537,117.0,37.0,Wayward,0.2892481,Raheem Shaquille Sterling,114.0,36.0,,38,England
+1696,7537,114.0,39.0,Wayward,0.35615966,John Stones,117.0,32.0,,38,England
+1697,7537,106.0,41.0,Blocked,0.13873914,Jesse Lingard,113.0,41.0,,42,England
+1698,7537,108.0,54.0,Post,0.3206655,Jesse Lingard,120.0,44.4,0.2,43,England
+1699,7537,112.0,40.0,Saved,0.05535741,Bamidele Alli,119.0,38.7,0.2,50,England
+1700,7537,106.0,40.0,Wayward,0.016941283,John Stones,117.0,33.0,,60,England
+1701,7537,93.0,27.0,Off T,0.060391016,Kieran Trippier,120.0,34.4,1.3,68,England
+1702,7537,106.0,60.0,Blocked,0.027727345,Wahbi Khazri,109.0,59.0,,71,Tunisia
+1703,7537,93.0,43.0,Off T,0.020466503,Naïm Sliti,120.0,34.0,0.5,71,Tunisia
+1704,7537,96.0,34.0,Off T,0.08861464,Ashley Young,120.0,40.5,3.7,78,England
+1705,7537,116.0,36.0,Goal,0.258531,Harry Kane,120.0,37.0,1.6,90,England
